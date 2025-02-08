@@ -1,0 +1,3235 @@
+[
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "main.js:1:1:40:3",
+    "args": [],
+    "timestamp": 1737795128869
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "main.js:1:1:40:3",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795128911
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "main.js:1:1:40:3",
+    "args": [
+      {},
+      null,
+      {
+        "id": ".",
+        "path": "/home/sasank/PE/calculator",
+        "exports": "[Circular]",
+        "filename": "/home/sasank/PE/calculator/main.js",
+        "loaded": false,
+        "children": [],
+        "paths": [
+          "/home/sasank/PE/calculator/node_modules",
+          "/home/sasank/PE/node_modules",
+          "/home/sasank/node_modules",
+          "/home/node_modules",
+          "/node_modules"
+        ]
+      },
+      "/home/sasank/PE/calculator/main.js",
+      "/home/sasank/PE/calculator"
+    ],
+    "timestamp": 1737795128925
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: require, Value",
+        "location": "main.js:1:20:1:27"
+      }
+    ],
+    "location": "main.js:1:20:1:27",
+    "timestamp": 1737795241073
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Mqtt.js:1:1:71:31",
+    "args": [],
+    "timestamp": 1737795128983
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Mqtt.js:1:1:71:31",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795128991
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Mqtt.js:1:1:71:31",
+    "args": [
+      {},
+      null,
+      {
+        "id": "/home/sasank/PE/calculator/Mqtt.js",
+        "path": "/home/sasank/PE/calculator",
+        "exports": "[Circular]",
+        "filename": "/home/sasank/PE/calculator/Mqtt.js",
+        "loaded": false,
+        "children": [],
+        "paths": [
+          "/home/sasank/PE/calculator/node_modules",
+          "/home/sasank/PE/node_modules",
+          "/home/sasank/node_modules",
+          "/home/node_modules",
+          "/node_modules"
+        ]
+      },
+      "/home/sasank/PE/calculator/Mqtt.js",
+      "/home/sasank/PE/calculator"
+    ],
+    "timestamp": 1737795129001
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: require, Value",
+        "location": "Mqtt.js:1:22:1:29"
+      }
+    ],
+    "location": "Mqtt.js:1:22:1:29",
+    "timestamp": 1737795241074
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: EventEmitter, Value",
+        "location": "Mqtt.js:1:1:1:39"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: EventEmitter, Value",
+        "location": "Mqtt.js:3:26:3:38"
+      }
+    ],
+    "location": "Mqtt.js:1:1:1:39",
+    "timestamp": 1737795241075
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: module, Value",
+        "location": "Mqtt.js:71:1:71:7"
+      }
+    ],
+    "location": "Mqtt.js:71:1:71:7",
+    "timestamp": 1737795241076
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: MQTTBroker, Value",
+        "location": "Mqtt.js:71:18:71:28"
+      }
+    ],
+    "location": "Mqtt.js:71:18:71:28",
+    "timestamp": 1737795241076
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Mqtt.js:1:1:71:31",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129062
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: MQTTBroker, Value",
+        "location": "main.js:1:1:1:37"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: require, Value",
+        "location": "main.js:2:16:2:23"
+      }
+    ],
+    "location": "main.js:1:1:1:37",
+    "timestamp": 1737795241077
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Sensor.js:1:1:39:26",
+    "args": [],
+    "timestamp": 1737795129078
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Sensor.js:1:1:39:26",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129083
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Sensor.js:1:1:39:26",
+    "args": [
+      {},
+      null,
+      {
+        "id": "/home/sasank/PE/calculator/Sensor.js",
+        "path": "/home/sasank/PE/calculator",
+        "exports": "[Circular]",
+        "filename": "/home/sasank/PE/calculator/Sensor.js",
+        "loaded": false,
+        "children": [],
+        "paths": [
+          "/home/sasank/PE/calculator/node_modules",
+          "/home/sasank/PE/node_modules",
+          "/home/sasank/node_modules",
+          "/home/node_modules",
+          "/node_modules"
+        ]
+      },
+      "/home/sasank/PE/calculator/Sensor.js",
+      "/home/sasank/PE/calculator"
+    ],
+    "timestamp": 1737795129086
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: require, Value",
+        "location": "Sensor.js:1:20:1:27"
+      }
+    ],
+    "location": "Sensor.js:1:20:1:27",
+    "timestamp": 1737795241078
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: MQTTBroker, Value",
+        "location": "Sensor.js:1:1:1:37"
+      }
+    ],
+    "location": "Sensor.js:1:1:1:37",
+    "timestamp": 1737795241079
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: module, Value",
+        "location": "Sensor.js:38:1:38:7"
+      }
+    ],
+    "location": "Sensor.js:38:1:38:7",
+    "timestamp": 1737795241079
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: Sensor, Value",
+        "location": "Sensor.js:38:18:38:24"
+      }
+    ],
+    "location": "Sensor.js:38:18:38:24",
+    "timestamp": 1737795241080
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Sensor.js:1:1:39:26",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129111
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: Sensor, Value",
+        "location": "main.js:2:1:2:35"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: require, Value",
+        "location": "main.js:3:23:3:30"
+      }
+    ],
+    "location": "main.js:2:1:2:35",
+    "timestamp": 1737795241081
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Lambda.js:1:1:23:33",
+    "args": [],
+    "timestamp": 1737795129122
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Lambda.js:1:1:23:33",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129127
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Lambda.js:1:1:23:33",
+    "args": [
+      {},
+      null,
+      {
+        "id": "/home/sasank/PE/calculator/Lambda.js",
+        "path": "/home/sasank/PE/calculator",
+        "exports": "[Circular]",
+        "filename": "/home/sasank/PE/calculator/Lambda.js",
+        "loaded": false,
+        "children": [],
+        "paths": [
+          "/home/sasank/PE/calculator/node_modules",
+          "/home/sasank/PE/node_modules",
+          "/home/sasank/node_modules",
+          "/home/node_modules",
+          "/node_modules"
+        ]
+      },
+      "/home/sasank/PE/calculator/Lambda.js",
+      "/home/sasank/PE/calculator"
+    ],
+    "timestamp": 1737795129129
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: module, Value",
+        "location": "Lambda.js:22:1:22:7"
+      }
+    ],
+    "location": "Lambda.js:22:1:22:7",
+    "timestamp": 1737795241084
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: LambdaHandler, Value",
+        "location": "Lambda.js:22:18:22:31"
+      }
+    ],
+    "location": "Lambda.js:22:18:22:31",
+    "timestamp": 1737795241084
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Lambda.js:1:1:23:33",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129144
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: LambdaHandler, Value",
+        "location": "main.js:3:1:3:42"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: require, Value",
+        "location": "main.js:4:22:4:29"
+      }
+    ],
+    "location": "main.js:3:1:3:42",
+    "timestamp": 1737795241086
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Alarm.js:1:1:23:31",
+    "args": [],
+    "timestamp": 1737795129159
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Alarm.js:1:1:23:31",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129162
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Alarm.js:1:1:23:31",
+    "args": [
+      {},
+      null,
+      {
+        "id": "/home/sasank/PE/calculator/Alarm.js",
+        "path": "/home/sasank/PE/calculator",
+        "exports": "[Circular]",
+        "filename": "/home/sasank/PE/calculator/Alarm.js",
+        "loaded": false,
+        "children": [],
+        "paths": [
+          "/home/sasank/PE/calculator/node_modules",
+          "/home/sasank/PE/node_modules",
+          "/home/sasank/node_modules",
+          "/home/node_modules",
+          "/node_modules"
+        ]
+      },
+      "/home/sasank/PE/calculator/Alarm.js",
+      "/home/sasank/PE/calculator"
+    ],
+    "timestamp": 1737795129164
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: module, Value",
+        "location": "Alarm.js:23:1:23:7"
+      }
+    ],
+    "location": "Alarm.js:23:1:23:7",
+    "timestamp": 1737795241088
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: AlarmHandler, Value",
+        "location": "Alarm.js:23:18:23:30"
+      }
+    ],
+    "location": "Alarm.js:23:18:23:30",
+    "timestamp": 1737795241088
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Alarm.js:1:1:23:31",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129176
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: AlarmHandler, Value",
+        "location": "main.js:4:1:4:40"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: MQTTBroker, Value",
+        "location": "main.js:10:20:10:30"
+      }
+    ],
+    "location": "main.js:4:1:4:40",
+    "timestamp": 1737795241089
+  },
+  {
+    "type": "function-enter",
+    "value": "MQTTBroker",
+    "location": "Mqtt.js:3:1:69:2",
+    "args": [
+      null
+    ],
+    "timestamp": 1737795129182
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: Map, Value",
+        "location": "Mqtt.js:6:24:6:27"
+      }
+    ],
+    "location": "Mqtt.js:6:24:6:27",
+    "timestamp": 1737795241094
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: Map, Value",
+        "location": "Mqtt.js:7:30:7:33"
+      }
+    ],
+    "location": "Mqtt.js:7:30:7:33",
+    "timestamp": 1737795241095
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: Map, Value",
+        "location": "Mqtt.js:8:33:8:36"
+      }
+    ],
+    "location": "Mqtt.js:8:33:8:36",
+    "timestamp": 1737795241096
+  },
+  {
+    "type": "function-exit",
+    "value": "MQTTBroker",
+    "location": "Mqtt.js:3:1:69:2",
+    "returnValue": {
+      "_events": {},
+      "_eventsCount": 0,
+      "clients": {},
+      "subscriptions": {},
+      "retainedMessages": {}
+    },
+    "exception": {},
+    "timestamp": 1737795129190
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: broker, Value",
+        "location": "main.js:10:1:10:32"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: Sensor, Value",
+        "location": "main.js:13:21:13:27"
+      }
+    ],
+    "location": "main.js:10:1:10:32",
+    "timestamp": 1737795241135
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: broker, Value",
+        "location": "main.js:13:42:13:48"
+      }
+    ],
+    "location": "main.js:13:42:13:48",
+    "timestamp": 1737795241138
+  },
+  {
+    "type": "function-enter",
+    "value": "Sensor",
+    "location": "Sensor.js:3:1:36:2",
+    "args": [
+      "sensor-001",
+      {
+        "_events": {},
+        "_eventsCount": 0,
+        "clients": {},
+        "subscriptions": {},
+        "retainedMessages": {}
+      }
+    ],
+    "timestamp": 1737795129201
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:5:5:5:9"
+      }
+    ],
+    "location": "Sensor.js:5:5:5:9",
+    "timestamp": 1737795241140
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: sensorId, Value",
+        "location": "Sensor.js:5:21:5:29"
+      }
+    ],
+    "location": "Sensor.js:5:21:5:29",
+    "timestamp": 1737795241142
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:6:5:6:9"
+      }
+    ],
+    "location": "Sensor.js:6:5:6:9",
+    "timestamp": 1737795241142
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: broker, Value",
+        "location": "Sensor.js:6:19:6:25"
+      }
+    ],
+    "location": "Sensor.js:6:19:6:25",
+    "timestamp": 1737795241142
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:7:5:7:9"
+      }
+    ],
+    "location": "Sensor.js:7:5:7:9",
+    "timestamp": 1737795241143
+  },
+  {
+    "type": "function-exit",
+    "value": "Sensor",
+    "location": "Sensor.js:3:1:36:2",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129208
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: sensor1, Value",
+        "location": "main.js:13:1:13:49"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: LambdaHandler, Value",
+        "location": "main.js:16:27:16:40"
+      }
+    ],
+    "location": "main.js:13:1:13:49",
+    "timestamp": 1737795241151
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: broker, Value",
+        "location": "main.js:16:41:16:47"
+      }
+    ],
+    "location": "main.js:16:41:16:47",
+    "timestamp": 1737795241151
+  },
+  {
+    "type": "function-enter",
+    "value": "LambdaHandler",
+    "location": "Lambda.js:1:1:20:2",
+    "args": [
+      {
+        "_events": {},
+        "_eventsCount": 0,
+        "clients": {},
+        "subscriptions": {},
+        "retainedMessages": {}
+      }
+    ],
+    "timestamp": 1737795129217
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Lambda.js:3:5:3:9"
+      }
+    ],
+    "location": "Lambda.js:3:5:3:9",
+    "timestamp": 1737795241152
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: broker, Value",
+        "location": "Lambda.js:3:19:3:25"
+      }
+    ],
+    "location": "Lambda.js:3:19:3:25",
+    "timestamp": 1737795241152
+  },
+  {
+    "type": "function-exit",
+    "value": "LambdaHandler",
+    "location": "Lambda.js:1:1:20:2",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129226
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: lambdaHandler, Value",
+        "location": "main.js:16:1:16:48"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: lambdaHandler, Value",
+        "location": "main.js:17:1:17:14"
+      }
+    ],
+    "location": "main.js:16:1:16:48",
+    "timestamp": 1737795241153
+  },
+  {
+    "type": "function-enter",
+    "value": "start",
+    "location": "Lambda.js:6:3:19:4",
+    "args": [],
+    "timestamp": 1737795129237
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Lambda.js:7:5:7:9"
+      }
+    ],
+    "location": "Lambda.js:7:5:7:9",
+    "timestamp": 1737795241154
+  },
+  {
+    "type": "function-exit",
+    "value": "start",
+    "location": "Lambda.js:6:3:19:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129245
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: AlarmHandler, Value",
+        "location": "main.js:19:26:19:38"
+      }
+    ],
+    "location": "main.js:19:26:19:38",
+    "timestamp": 1737795241154
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: broker, Value",
+        "location": "main.js:19:39:19:45"
+      }
+    ],
+    "location": "main.js:19:39:19:45",
+    "timestamp": 1737795241155
+  },
+  {
+    "type": "function-enter",
+    "value": "AlarmHandler",
+    "location": "Alarm.js:1:1:21:2",
+    "args": [
+      {
+        "_events": {},
+        "_eventsCount": 1,
+        "clients": {},
+        "subscriptions": {},
+        "retainedMessages": {}
+      }
+    ],
+    "timestamp": 1737795129250
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Alarm.js:3:5:3:9"
+      }
+    ],
+    "location": "Alarm.js:3:5:3:9",
+    "timestamp": 1737795241155
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: broker, Value",
+        "location": "Alarm.js:3:19:3:25"
+      }
+    ],
+    "location": "Alarm.js:3:19:3:25",
+    "timestamp": 1737795241155
+  },
+  {
+    "type": "function-exit",
+    "value": "AlarmHandler",
+    "location": "Alarm.js:1:1:21:2",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129262
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: alarmHandler, Value",
+        "location": "main.js:19:1:19:46"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: alarmHandler, Value",
+        "location": "main.js:20:1:20:13"
+      }
+    ],
+    "location": "main.js:19:1:19:46",
+    "timestamp": 1737795241156
+  },
+  {
+    "type": "function-enter",
+    "value": "start",
+    "location": "Alarm.js:6:3:20:4",
+    "args": [],
+    "timestamp": 1737795129268
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: clientId, Value",
+        "location": "Alarm.js:7:5:7:36"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Alarm.js:8:5:8:9"
+      }
+    ],
+    "location": "Alarm.js:7:5:7:36",
+    "timestamp": 1737795241157
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Alarm.js:8:27:8:35"
+      }
+    ],
+    "location": "Alarm.js:8:27:8:35",
+    "timestamp": 1737795241158
+  },
+  {
+    "type": "function-enter",
+    "value": "subscribe",
+    "location": "Mqtt.js:29:3:35:4",
+    "args": [
+      "alarm-handler",
+      "sensor/status"
+    ],
+    "timestamp": 1737795129272
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:30:10:30:14"
+      }
+    ],
+    "location": "Mqtt.js:30:10:30:14",
+    "timestamp": 1737795241158
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:30:33:30:38"
+      }
+    ],
+    "location": "Mqtt.js:30:33:30:38",
+    "timestamp": 1737795241158
+  },
+  {
+    "type": "conditional",
+    "value": false,
+    "location": "Mqtt.js:30:10:30:39",
+    "timestamp": 1737795241159
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:31:7:31:11"
+      }
+    ],
+    "location": "Mqtt.js:31:7:31:11",
+    "timestamp": 1737795241159
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:31:30:31:35"
+      }
+    ],
+    "location": "Mqtt.js:31:30:31:35",
+    "timestamp": 1737795241160
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:33:5:33:9"
+      }
+    ],
+    "location": "Mqtt.js:33:5:33:9",
+    "timestamp": 1737795241160
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:33:28:33:33"
+      }
+    ],
+    "location": "Mqtt.js:33:28:33:33",
+    "timestamp": 1737795241161
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:33:40:33:48"
+      }
+    ],
+    "location": "Mqtt.js:33:40:33:48",
+    "timestamp": 1737795241161
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:34:5:34:12"
+      }
+    ],
+    "location": "Mqtt.js:34:5:34:12",
+    "timestamp": 1737795241161
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:34:37:34:45"
+      }
+    ],
+    "location": "Mqtt.js:34:37:34:45",
+    "timestamp": 1737795241162
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:34:65:34:70"
+      }
+    ],
+    "location": "Mqtt.js:34:65:34:70",
+    "timestamp": 1737795241162
+  },
+  {
+    "type": "function-exit",
+    "value": "subscribe",
+    "location": "Mqtt.js:29:3:35:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129307
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Alarm.js:10:5:10:9"
+      }
+    ],
+    "location": "Alarm.js:10:5:10:9",
+    "timestamp": 1737795241163
+  },
+  {
+    "type": "function-exit",
+    "value": "start",
+    "location": "Alarm.js:6:3:20:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129312
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: sensor1, Value",
+        "location": "main.js:23:1:23:8"
+      }
+    ],
+    "location": "main.js:23:1:23:8",
+    "timestamp": 1737795241164
+  },
+  {
+    "type": "function-enter",
+    "value": "connect",
+    "location": "Sensor.js:10:3:15:4",
+    "args": [],
+    "timestamp": 1737795129315
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:11:5:11:9"
+      }
+    ],
+    "location": "Sensor.js:11:5:11:9",
+    "timestamp": 1737795241166
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:11:25:11:29"
+      }
+    ],
+    "location": "Sensor.js:11:25:11:29",
+    "timestamp": 1737795241167
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: JSON, Value",
+        "location": "Sensor.js:12:47:12:51"
+      }
+    ],
+    "location": "Sensor.js:12:47:12:51",
+    "timestamp": 1737795241169
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:12:74:12:78"
+      }
+    ],
+    "location": "Sensor.js:12:74:12:78",
+    "timestamp": 1737795241170
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:11:11:11:19"
+      }
+    ],
+    "location": "Mqtt.js:11:11:11:19",
+    "timestamp": 1737795241172
+  },
+  {
+    "type": "conditional",
+    "value": false,
+    "location": "Mqtt.js:11:21:11:33",
+    "timestamp": 1737795241174
+  },
+  {
+    "type": "function-enter",
+    "value": "connect",
+    "location": "Mqtt.js:11:3:15:4",
+    "args": [
+      "sensor-001",
+      {
+        "LWT": {
+          "topic": "sensor/status",
+          "message": "{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"
+        }
+      }
+    ],
+    "timestamp": 1737795129353
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: options, Value",
+        "location": "Mqtt.js:11:21:11:33"
+      }
+    ],
+    "location": "Mqtt.js:11:21:11:33",
+    "timestamp": 1737795241174
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:12:5:12:9"
+      }
+    ],
+    "location": "Mqtt.js:12:5:12:9",
+    "timestamp": 1737795241177
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:12:22:12:30"
+      }
+    ],
+    "location": "Mqtt.js:12:22:12:30",
+    "timestamp": 1737795241177
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: options, Value",
+        "location": "Mqtt.js:12:32:12:39"
+      }
+    ],
+    "location": "Mqtt.js:12:32:12:39",
+    "timestamp": 1737795241178
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:13:5:13:12"
+      }
+    ],
+    "location": "Mqtt.js:13:5:13:12",
+    "timestamp": 1737795241178
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:13:37:13:45"
+      }
+    ],
+    "location": "Mqtt.js:13:37:13:45",
+    "timestamp": 1737795241179
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:14:5:14:9"
+      }
+    ],
+    "location": "Mqtt.js:14:5:14:9",
+    "timestamp": 1737795241179
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:14:26:14:34"
+      }
+    ],
+    "location": "Mqtt.js:14:26:14:34",
+    "timestamp": 1737795241180
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: options, Value",
+        "location": "Mqtt.js:14:36:14:43"
+      }
+    ],
+    "location": "Mqtt.js:14:36:14:43",
+    "timestamp": 1737795241181
+  },
+  {
+    "type": "function-exit",
+    "value": "connect",
+    "location": "Mqtt.js:11:3:15:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129373
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:14:5:14:9"
+      }
+    ],
+    "location": "Sensor.js:14:5:14:9",
+    "timestamp": 1737795241182
+  },
+  {
+    "type": "function-enter",
+    "value": "startPublishing",
+    "location": "Sensor.js:17:3:28:4",
+    "args": [],
+    "timestamp": 1737795129375
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:20:19:20:23"
+      }
+    ],
+    "location": "Sensor.js:20:19:20:23",
+    "timestamp": 1737795241182
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: Date, Value",
+        "location": "Sensor.js:21:24:21:28"
+      }
+    ],
+    "location": "Sensor.js:21:24:21:28",
+    "timestamp": 1737795241183
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: Math, Value",
+        "location": "Sensor.js:22:23:22:27"
+      }
+    ],
+    "location": "Sensor.js:22:23:22:27",
+    "timestamp": 1737795241183
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: Math, Value",
+        "location": "Sensor.js:23:20:23:24"
+      }
+    ],
+    "location": "Sensor.js:23:20:23:24",
+    "timestamp": 1737795241184
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: data, Value",
+        "location": "Sensor.js:19:7:25:8"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:26:7:26:11"
+      }
+    ],
+    "location": "Sensor.js:19:7:25:8",
+    "timestamp": 1737795241184
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: JSON, Value",
+        "location": "Sensor.js:26:42:26:46"
+      }
+    ],
+    "location": "Sensor.js:26:42:26:46",
+    "timestamp": 1737795241185
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: data, Value",
+        "location": "Sensor.js:26:57:26:61"
+      }
+    ],
+    "location": "Sensor.js:26:57:26:61",
+    "timestamp": 1737795241186
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:17:11:17:16"
+      },
+      {
+        "type": "write",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:17:18:17:25"
+      }
+    ],
+    "location": "Mqtt.js:17:11:17:16",
+    "timestamp": 1737795241186
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Mqtt.js:17:27:17:39",
+    "timestamp": 1737795241187
+  },
+  {
+    "type": "function-enter",
+    "value": "publish",
+    "location": "Mqtt.js:17:3:27:4",
+    "args": [
+      "sensor/data",
+      "{\"sensorId\":\"sensor-001\",\"timestamp\":\"2025-01-25T08:52:09.380Z\",\"temperature\":\"36.37\",\"pressure\":\"109.02\",\"classified\":true}"
+    ],
+    "timestamp": 1737795129649
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: options, Value",
+        "location": "Mqtt.js:17:27:17:39"
+      }
+    ],
+    "location": "Mqtt.js:17:27:17:39",
+    "timestamp": 1737795241187
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:18:5:18:12"
+      }
+    ],
+    "location": "Mqtt.js:18:5:18:12",
+    "timestamp": 1737795241187
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:18:49:18:54"
+      }
+    ],
+    "location": "Mqtt.js:18:49:18:54",
+    "timestamp": 1737795241188
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:18:60:18:67"
+      }
+    ],
+    "location": "Mqtt.js:18:60:18:67",
+    "timestamp": 1737795241188
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:19:5:19:9"
+      }
+    ],
+    "location": "Mqtt.js:19:5:19:9",
+    "timestamp": 1737795241188
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:19:31:19:36"
+      }
+    ],
+    "location": "Mqtt.js:19:31:19:36",
+    "timestamp": 1737795241189
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:19:38:19:45"
+      }
+    ],
+    "location": "Mqtt.js:19:38:19:45",
+    "timestamp": 1737795241189
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:22:9:22:13"
+      }
+    ],
+    "location": "Mqtt.js:22:9:22:13",
+    "timestamp": 1737795241189
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:22:32:22:37"
+      }
+    ],
+    "location": "Mqtt.js:22:32:22:37",
+    "timestamp": 1737795241190
+  },
+  {
+    "type": "conditional",
+    "value": false,
+    "location": "Mqtt.js:22:9:22:38",
+    "timestamp": 1737795241190
+  },
+  {
+    "type": "function-exit",
+    "value": "publish",
+    "location": "Mqtt.js:17:3:27:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129660
+  },
+  {
+    "type": "function-exit",
+    "value": "startPublishing",
+    "location": "Sensor.js:17:3:28:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129660
+  },
+  {
+    "type": "function-exit",
+    "value": "connect",
+    "location": "Sensor.js:10:3:15:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129661
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "main.js:27:3:27:10"
+      }
+    ],
+    "location": "main.js:27:3:27:10",
+    "timestamp": 1737795241192
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: broker, Value",
+        "location": "main.js:28:3:28:9"
+      }
+    ],
+    "location": "main.js:28:3:28:9",
+    "timestamp": 1737795241193
+  },
+  {
+    "type": "function-enter",
+    "value": "listClients",
+    "location": "Mqtt.js:49:3:54:4",
+    "args": [],
+    "timestamp": 1737795129677
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:50:5:50:12"
+      }
+    ],
+    "location": "Mqtt.js:50:5:50:12",
+    "timestamp": 1737795241193
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:51:39:51:43"
+      }
+    ],
+    "location": "Mqtt.js:51:39:51:43",
+    "timestamp": 1737795241194
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:51:17:51:25"
+      },
+      {
+        "type": "write",
+        "value": "Identifier: options, Value",
+        "location": "Mqtt.js:51:27:51:34"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:52:7:52:14"
+      }
+    ],
+    "location": "Mqtt.js:51:17:51:25",
+    "timestamp": 1737795241194
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:52:35:52:43"
+      }
+    ],
+    "location": "Mqtt.js:52:35:52:43",
+    "timestamp": 1737795241196
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: JSON, Value",
+        "location": "Mqtt.js:52:57:52:61"
+      }
+    ],
+    "location": "Mqtt.js:52:57:52:61",
+    "timestamp": 1737795241196
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: options, Value",
+        "location": "Mqtt.js:52:72:52:79"
+      }
+    ],
+    "location": "Mqtt.js:52:72:52:79",
+    "timestamp": 1737795241196
+  },
+  {
+    "type": "function-exit",
+    "value": "listClients",
+    "location": "Mqtt.js:49:3:54:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129697
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: broker, Value",
+        "location": "main.js:29:3:29:9"
+      }
+    ],
+    "location": "main.js:29:3:29:9",
+    "timestamp": 1737795241198
+  },
+  {
+    "type": "function-enter",
+    "value": "listSubscriptions",
+    "location": "Mqtt.js:56:3:61:4",
+    "args": [],
+    "timestamp": 1737795129698
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:57:5:57:12"
+      }
+    ],
+    "location": "Mqtt.js:57:5:57:12",
+    "timestamp": 1737795241198
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:58:38:58:42"
+      }
+    ],
+    "location": "Mqtt.js:58:38:58:42",
+    "timestamp": 1737795241199
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:58:17:58:22"
+      },
+      {
+        "type": "write",
+        "value": "Identifier: clientIds, Value",
+        "location": "Mqtt.js:58:24:58:33"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:59:7:59:14"
+      }
+    ],
+    "location": "Mqtt.js:58:17:58:22",
+    "timestamp": 1737795241200
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:59:32:59:37"
+      }
+    ],
+    "location": "Mqtt.js:59:32:59:37",
+    "timestamp": 1737795241201
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientIds, Value",
+        "location": "Mqtt.js:59:56:59:65"
+      }
+    ],
+    "location": "Mqtt.js:59:56:59:65",
+    "timestamp": 1737795241202
+  },
+  {
+    "type": "function-exit",
+    "value": "listSubscriptions",
+    "location": "Mqtt.js:56:3:61:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129718
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: broker, Value",
+        "location": "main.js:30:3:30:9"
+      }
+    ],
+    "location": "main.js:30:3:30:9",
+    "timestamp": 1737795241203
+  },
+  {
+    "type": "function-enter",
+    "value": "listRetainedMessages",
+    "location": "Mqtt.js:63:3:68:4",
+    "args": [],
+    "timestamp": 1737795129719
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:64:5:64:12"
+      }
+    ],
+    "location": "Mqtt.js:64:5:64:12",
+    "timestamp": 1737795241203
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:65:36:65:40"
+      }
+    ],
+    "location": "Mqtt.js:65:36:65:40",
+    "timestamp": 1737795241204
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:65:17:65:22"
+      },
+      {
+        "type": "write",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:65:24:65:31"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:66:7:66:14"
+      }
+    ],
+    "location": "Mqtt.js:65:17:65:22",
+    "timestamp": 1737795241204
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:66:32:66:37"
+      }
+    ],
+    "location": "Mqtt.js:66:32:66:37",
+    "timestamp": 1737795241205
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:66:52:66:59"
+      }
+    ],
+    "location": "Mqtt.js:66:52:66:59",
+    "timestamp": 1737795241206
+  },
+  {
+    "type": "function-exit",
+    "value": "listRetainedMessages",
+    "location": "Mqtt.js:63:3:68:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129736
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "main.js:31:3:31:10"
+      }
+    ],
+    "location": "main.js:31:3:31:10",
+    "timestamp": 1737795241206
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: setTimeout, Value",
+        "location": "main.js:35:1:35:11"
+      }
+    ],
+    "location": "main.js:35:1:35:11",
+    "timestamp": 1737795241207
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "main.js:1:1:40:3",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795129755
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "main.js:35:12:38:2",
+    "args": [],
+    "timestamp": 1737795139799
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "main.js:36:3:36:10"
+      }
+    ],
+    "location": "main.js:36:3:36:10",
+    "timestamp": 1737795241208
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: sensor1, Value",
+        "location": "main.js:37:3:37:10"
+      }
+    ],
+    "location": "main.js:37:3:37:10",
+    "timestamp": 1737795241209
+  },
+  {
+    "type": "function-enter",
+    "value": "stop",
+    "location": "Sensor.js:30:3:35:4",
+    "args": [],
+    "timestamp": 1737795139825
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clearInterval, Value",
+        "location": "Sensor.js:31:5:31:18"
+      }
+    ],
+    "location": "Sensor.js:31:5:31:18",
+    "timestamp": 1737795241210
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:31:19:31:23"
+      }
+    ],
+    "location": "Sensor.js:31:19:31:23",
+    "timestamp": 1737795241210
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Sensor.js:32:5:32:12"
+      }
+    ],
+    "location": "Sensor.js:32:5:32:12",
+    "timestamp": 1737795241210
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:32:37:32:41"
+      }
+    ],
+    "location": "Sensor.js:32:37:32:41",
+    "timestamp": 1737795241211
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:33:5:33:9"
+      }
+    ],
+    "location": "Sensor.js:33:5:33:9",
+    "timestamp": 1737795241211
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: JSON, Value",
+        "location": "Sensor.js:33:42:33:46"
+      }
+    ],
+    "location": "Sensor.js:33:42:33:46",
+    "timestamp": 1737795241211
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:33:69:33:73"
+      }
+    ],
+    "location": "Sensor.js:33:69:33:73",
+    "timestamp": 1737795241212
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:17:11:17:16"
+      },
+      {
+        "type": "write",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:17:18:17:25"
+      }
+    ],
+    "location": "Mqtt.js:17:11:17:16",
+    "timestamp": 1737795241213
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Mqtt.js:17:27:17:39",
+    "timestamp": 1737795241214
+  },
+  {
+    "type": "function-enter",
+    "value": "publish",
+    "location": "Mqtt.js:17:3:27:4",
+    "args": [
+      "sensor/status",
+      "{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"
+    ],
+    "timestamp": 1737795139863
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: options, Value",
+        "location": "Mqtt.js:17:27:17:39"
+      }
+    ],
+    "location": "Mqtt.js:17:27:17:39",
+    "timestamp": 1737795241214
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:18:5:18:12"
+      }
+    ],
+    "location": "Mqtt.js:18:5:18:12",
+    "timestamp": 1737795241216
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:18:49:18:54"
+      }
+    ],
+    "location": "Mqtt.js:18:49:18:54",
+    "timestamp": 1737795241218
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:18:60:18:67"
+      }
+    ],
+    "location": "Mqtt.js:18:60:18:67",
+    "timestamp": 1737795241220
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:19:5:19:9"
+      }
+    ],
+    "location": "Mqtt.js:19:5:19:9",
+    "timestamp": 1737795241222
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:19:31:19:36"
+      }
+    ],
+    "location": "Mqtt.js:19:31:19:36",
+    "timestamp": 1737795241224
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:19:38:19:45"
+      }
+    ],
+    "location": "Mqtt.js:19:38:19:45",
+    "timestamp": 1737795241225
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:22:9:22:13"
+      }
+    ],
+    "location": "Mqtt.js:22:9:22:13",
+    "timestamp": 1737795241226
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:22:32:22:37"
+      }
+    ],
+    "location": "Mqtt.js:22:32:22:37",
+    "timestamp": 1737795241227
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Mqtt.js:22:9:22:38",
+    "timestamp": 1737795241228
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:23:7:23:11"
+      }
+    ],
+    "location": "Mqtt.js:23:7:23:11",
+    "timestamp": 1737795241228
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:23:30:23:35"
+      }
+    ],
+    "location": "Mqtt.js:23:30:23:35",
+    "timestamp": 1737795241228
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Mqtt.js:23:45:25:8",
+    "args": [
+      "alarm-handler",
+      0,
+      [
+        "alarm-handler"
+      ]
+    ],
+    "timestamp": 1737795139882
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:24:9:24:13"
+      }
+    ],
+    "location": "Mqtt.js:24:9:24:13",
+    "timestamp": 1737795241229
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:24:30:24:38"
+      }
+    ],
+    "location": "Mqtt.js:24:30:24:38",
+    "timestamp": 1737795241230
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:24:40:24:45"
+      }
+    ],
+    "location": "Mqtt.js:24:40:24:45",
+    "timestamp": 1737795241231
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:24:47:24:54"
+      }
+    ],
+    "location": "Mqtt.js:24:47:24:54",
+    "timestamp": 1737795241231
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Lambda.js:7:31:18:6",
+    "args": [
+      "alarm-handler",
+      "sensor/status",
+      "{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"
+    ],
+    "timestamp": 1737795139886
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Lambda.js:8:11:8:16"
+      }
+    ],
+    "location": "Lambda.js:8:11:8:16",
+    "timestamp": 1737795241232
+  },
+  {
+    "type": "conditional",
+    "value": false,
+    "location": "Lambda.js:8:11:8:34",
+    "timestamp": 1737795241233
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Lambda.js:14:11:14:16"
+      }
+    ],
+    "location": "Lambda.js:14:11:14:16",
+    "timestamp": 1737795241233
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Lambda.js:14:11:14:36",
+    "timestamp": 1737795241234
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: JSON, Value",
+        "location": "Lambda.js:15:24:15:28"
+      }
+    ],
+    "location": "Lambda.js:15:24:15:28",
+    "timestamp": 1737795241236
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Lambda.js:15:35:15:42"
+      }
+    ],
+    "location": "Lambda.js:15:35:15:42",
+    "timestamp": 1737795241238
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: status, Value",
+        "location": "Lambda.js:15:9:15:43"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Lambda.js:16:9:16:16"
+      }
+    ],
+    "location": "Lambda.js:15:9:15:43",
+    "timestamp": 1737795241239
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: status, Value",
+        "location": "Lambda.js:16:63:16:69"
+      }
+    ],
+    "location": "Lambda.js:16:63:16:69",
+    "timestamp": 1737795241240
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: status, Value",
+        "location": "Lambda.js:16:87:16:93"
+      }
+    ],
+    "location": "Lambda.js:16:87:16:93",
+    "timestamp": 1737795241240
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Lambda.js:7:31:18:6",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795139914
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Alarm.js:10:31:19:6",
+    "args": [
+      "alarm-handler",
+      "sensor/status",
+      "{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"
+    ],
+    "timestamp": 1737795139915
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Alarm.js:11:7:11:14"
+      }
+    ],
+    "location": "Alarm.js:11:7:11:14",
+    "timestamp": 1737795241241
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Alarm.js:12:11:12:16"
+      }
+    ],
+    "location": "Alarm.js:12:11:12:16",
+    "timestamp": 1737795241241
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Alarm.js:12:11:12:36",
+    "timestamp": 1737795241242
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: JSON, Value",
+        "location": "Alarm.js:13:24:13:28"
+      }
+    ],
+    "location": "Alarm.js:13:24:13:28",
+    "timestamp": 1737795241242
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Alarm.js:13:35:13:42"
+      }
+    ],
+    "location": "Alarm.js:13:35:13:42",
+    "timestamp": 1737795241242
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: status, Value",
+        "location": "Alarm.js:13:9:13:43"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Alarm.js:14:9:14:16"
+      }
+    ],
+    "location": "Alarm.js:13:9:13:43",
+    "timestamp": 1737795241243
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: status, Value",
+        "location": "Alarm.js:14:31:14:37"
+      }
+    ],
+    "location": "Alarm.js:14:31:14:37",
+    "timestamp": 1737795241244
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: status, Value",
+        "location": "Alarm.js:15:13:15:19"
+      }
+    ],
+    "location": "Alarm.js:15:13:15:19",
+    "timestamp": 1737795241244
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Alarm.js:15:13:15:37",
+    "timestamp": 1737795241245
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Alarm.js:16:11:16:18"
+      }
+    ],
+    "location": "Alarm.js:16:11:16:18",
+    "timestamp": 1737795241245
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: status, Value",
+        "location": "Alarm.js:16:49:16:55"
+      }
+    ],
+    "location": "Alarm.js:16:49:16:55",
+    "timestamp": 1737795241245
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Alarm.js:10:31:19:6",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795139944
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Mqtt.js:23:45:25:8",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795139945
+  },
+  {
+    "type": "function-exit",
+    "value": "publish",
+    "location": "Mqtt.js:17:3:27:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795139946
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:34:5:34:9"
+      }
+    ],
+    "location": "Sensor.js:34:5:34:9",
+    "timestamp": 1737795241247
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Sensor.js:34:28:34:32"
+      }
+    ],
+    "location": "Sensor.js:34:28:34:32",
+    "timestamp": 1737795241247
+  },
+  {
+    "type": "function-enter",
+    "value": "disconnect",
+    "location": "Mqtt.js:37:3:45:4",
+    "args": [
+      "sensor-001"
+    ],
+    "timestamp": 1737795139947
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:38:5:38:12"
+      }
+    ],
+    "location": "Mqtt.js:38:5:38:12",
+    "timestamp": 1737795241248
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:38:37:38:45"
+      }
+    ],
+    "location": "Mqtt.js:38:37:38:45",
+    "timestamp": 1737795241248
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:39:27:39:31"
+      }
+    ],
+    "location": "Mqtt.js:39:27:39:31",
+    "timestamp": 1737795241248
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:39:44:39:52"
+      }
+    ],
+    "location": "Mqtt.js:39:44:39:52",
+    "timestamp": 1737795241249
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: clientOptions, Value",
+        "location": "Mqtt.js:39:5:39:53"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: clientOptions, Value",
+        "location": "Mqtt.js:40:9:40:22"
+      }
+    ],
+    "location": "Mqtt.js:39:5:39:53",
+    "timestamp": 1737795241249
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientOptions, Value",
+        "location": "Mqtt.js:40:26:40:39"
+      }
+    ],
+    "location": "Mqtt.js:40:26:40:39",
+    "timestamp": 1737795241250
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:42:7:42:11"
+      }
+    ],
+    "location": "Mqtt.js:42:7:42:11",
+    "timestamp": 1737795241251
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientOptions, Value",
+        "location": "Mqtt.js:42:20:42:33"
+      }
+    ],
+    "location": "Mqtt.js:42:20:42:33",
+    "timestamp": 1737795241252
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientOptions, Value",
+        "location": "Mqtt.js:42:45:42:58"
+      }
+    ],
+    "location": "Mqtt.js:42:45:42:58",
+    "timestamp": 1737795241252
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:17:11:17:16"
+      },
+      {
+        "type": "write",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:17:18:17:25"
+      }
+    ],
+    "location": "Mqtt.js:17:11:17:16",
+    "timestamp": 1737795241253
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Mqtt.js:17:27:17:39",
+    "timestamp": 1737795241254
+  },
+  {
+    "type": "function-enter",
+    "value": "publish",
+    "location": "Mqtt.js:17:3:27:4",
+    "args": [
+      "sensor/status",
+      "{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"
+    ],
+    "timestamp": 1737795139973
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: options, Value",
+        "location": "Mqtt.js:17:27:17:39"
+      }
+    ],
+    "location": "Mqtt.js:17:27:17:39",
+    "timestamp": 1737795241254
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Mqtt.js:18:5:18:12"
+      }
+    ],
+    "location": "Mqtt.js:18:5:18:12",
+    "timestamp": 1737795241254
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:18:49:18:54"
+      }
+    ],
+    "location": "Mqtt.js:18:49:18:54",
+    "timestamp": 1737795241255
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:18:60:18:67"
+      }
+    ],
+    "location": "Mqtt.js:18:60:18:67",
+    "timestamp": 1737795241255
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:19:5:19:9"
+      }
+    ],
+    "location": "Mqtt.js:19:5:19:9",
+    "timestamp": 1737795241255
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:19:31:19:36"
+      }
+    ],
+    "location": "Mqtt.js:19:31:19:36",
+    "timestamp": 1737795241256
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:19:38:19:45"
+      }
+    ],
+    "location": "Mqtt.js:19:38:19:45",
+    "timestamp": 1737795241256
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:22:9:22:13"
+      }
+    ],
+    "location": "Mqtt.js:22:9:22:13",
+    "timestamp": 1737795241256
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:22:32:22:37"
+      }
+    ],
+    "location": "Mqtt.js:22:32:22:37",
+    "timestamp": 1737795241258
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Mqtt.js:22:9:22:38",
+    "timestamp": 1737795241259
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:23:7:23:11"
+      }
+    ],
+    "location": "Mqtt.js:23:7:23:11",
+    "timestamp": 1737795241261
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:23:30:23:35"
+      }
+    ],
+    "location": "Mqtt.js:23:30:23:35",
+    "timestamp": 1737795241264
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Mqtt.js:23:45:25:8",
+    "args": [
+      "alarm-handler",
+      0,
+      [
+        "alarm-handler"
+      ]
+    ],
+    "timestamp": 1737795139981
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:24:9:24:13"
+      }
+    ],
+    "location": "Mqtt.js:24:9:24:13",
+    "timestamp": 1737795241266
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:24:30:24:38"
+      }
+    ],
+    "location": "Mqtt.js:24:30:24:38",
+    "timestamp": 1737795241268
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Mqtt.js:24:40:24:45"
+      }
+    ],
+    "location": "Mqtt.js:24:40:24:45",
+    "timestamp": 1737795241270
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Mqtt.js:24:47:24:54"
+      }
+    ],
+    "location": "Mqtt.js:24:47:24:54",
+    "timestamp": 1737795241271
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Lambda.js:7:31:18:6",
+    "args": [
+      "alarm-handler",
+      "sensor/status",
+      "{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"
+    ],
+    "timestamp": 1737795139989
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Lambda.js:8:11:8:16"
+      }
+    ],
+    "location": "Lambda.js:8:11:8:16",
+    "timestamp": 1737795241274
+  },
+  {
+    "type": "conditional",
+    "value": false,
+    "location": "Lambda.js:8:11:8:34",
+    "timestamp": 1737795241276
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Lambda.js:14:11:14:16"
+      }
+    ],
+    "location": "Lambda.js:14:11:14:16",
+    "timestamp": 1737795241276
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Lambda.js:14:11:14:36",
+    "timestamp": 1737795241277
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: JSON, Value",
+        "location": "Lambda.js:15:24:15:28"
+      }
+    ],
+    "location": "Lambda.js:15:24:15:28",
+    "timestamp": 1737795241277
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Lambda.js:15:35:15:42"
+      }
+    ],
+    "location": "Lambda.js:15:35:15:42",
+    "timestamp": 1737795241278
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: status, Value",
+        "location": "Lambda.js:15:9:15:43"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Lambda.js:16:9:16:16"
+      }
+    ],
+    "location": "Lambda.js:15:9:15:43",
+    "timestamp": 1737795241280
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: status, Value",
+        "location": "Lambda.js:16:63:16:69"
+      }
+    ],
+    "location": "Lambda.js:16:63:16:69",
+    "timestamp": 1737795241281
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: status, Value",
+        "location": "Lambda.js:16:87:16:93"
+      }
+    ],
+    "location": "Lambda.js:16:87:16:93",
+    "timestamp": 1737795241282
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Lambda.js:7:31:18:6",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795139996
+  },
+  {
+    "type": "function-enter",
+    "value": "<anonymous>",
+    "location": "Alarm.js:10:31:19:6",
+    "args": [
+      "alarm-handler",
+      "sensor/status",
+      "{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"
+    ],
+    "timestamp": 1737795139996
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Alarm.js:11:7:11:14"
+      }
+    ],
+    "location": "Alarm.js:11:7:11:14",
+    "timestamp": 1737795241283
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: topic, Value",
+        "location": "Alarm.js:12:11:12:16"
+      }
+    ],
+    "location": "Alarm.js:12:11:12:16",
+    "timestamp": 1737795241284
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Alarm.js:12:11:12:36",
+    "timestamp": 1737795241284
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: JSON, Value",
+        "location": "Alarm.js:13:24:13:28"
+      }
+    ],
+    "location": "Alarm.js:13:24:13:28",
+    "timestamp": 1737795241284
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: message, Value",
+        "location": "Alarm.js:13:35:13:42"
+      }
+    ],
+    "location": "Alarm.js:13:35:13:42",
+    "timestamp": 1737795241284
+  },
+  {
+    "type": "WRITE",
+    "value": [
+      {
+        "type": "write",
+        "value": "Identifier: status, Value",
+        "location": "Alarm.js:13:9:13:43"
+      },
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Alarm.js:14:9:14:16"
+      }
+    ],
+    "location": "Alarm.js:13:9:13:43",
+    "timestamp": 1737795241285
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: status, Value",
+        "location": "Alarm.js:14:31:14:37"
+      }
+    ],
+    "location": "Alarm.js:14:31:14:37",
+    "timestamp": 1737795241285
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: status, Value",
+        "location": "Alarm.js:15:13:15:19"
+      }
+    ],
+    "location": "Alarm.js:15:13:15:19",
+    "timestamp": 1737795241286
+  },
+  {
+    "type": "conditional",
+    "value": true,
+    "location": "Alarm.js:15:13:15:37",
+    "timestamp": 1737795241286
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: console, Value",
+        "location": "Alarm.js:16:11:16:18"
+      }
+    ],
+    "location": "Alarm.js:16:11:16:18",
+    "timestamp": 1737795241286
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: status, Value",
+        "location": "Alarm.js:16:49:16:55"
+      }
+    ],
+    "location": "Alarm.js:16:49:16:55",
+    "timestamp": 1737795241287
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Alarm.js:10:31:19:6",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795140010
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "Mqtt.js:23:45:25:8",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795140010
+  },
+  {
+    "type": "function-exit",
+    "value": "publish",
+    "location": "Mqtt.js:17:3:27:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795140011
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: this, Value",
+        "location": "Mqtt.js:44:5:44:9"
+      }
+    ],
+    "location": "Mqtt.js:44:5:44:9",
+    "timestamp": 1737795241289
+  },
+  {
+    "type": "READ",
+    "value": [
+      {
+        "type": "read",
+        "value": "Identifier: clientId, Value",
+        "location": "Mqtt.js:44:25:44:33"
+      }
+    ],
+    "location": "Mqtt.js:44:25:44:33",
+    "timestamp": 1737795241289
+  },
+  {
+    "type": "function-exit",
+    "value": "disconnect",
+    "location": "Mqtt.js:37:3:45:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795140013
+  },
+  {
+    "type": "function-exit",
+    "value": "stop",
+    "location": "Sensor.js:30:3:35:4",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795140014
+  },
+  {
+    "type": "function-exit",
+    "value": "<anonymous>",
+    "location": "main.js:35:12:38:2",
+    "returnValue": null,
+    "exception": {},
+    "timestamp": 1737795140015
+  }
+]
