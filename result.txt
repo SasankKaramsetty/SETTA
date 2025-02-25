@@ -1,1440 +1,473 @@
 [DEBUG] MyAnalysis initialized.
-[FUNC ENTER] <anonymous> at (main.js:1:1:63:13), Args: [], Timestamp: 1739012189206
-[LITERAL] Value: undefined at (main.js:1:1:63:13)
-[FUNC EXIT] <anonymous> at (main.js:1:1:63:13), Return: undefined, Exception: {}, Timestamp: 1739012189247
-[FUNC ENTER] <anonymous> at (main.js:1:1:63:13), Args: [{},null,{"id":".","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/main.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/main.js","/home/sasank/PE/calculator"], Timestamp: 1739012189262
+[FUNC ENTER] <anonymous> at (main.js:1:1:63:16), Args: [], Timestamp: 1740463990537
+[LITERAL] Value: undefined at (main.js:1:1:63:16)
+[FUNC EXIT] <anonymous> at (main.js:1:1:63:16), Return: undefined, Exception: {}, Timestamp: 1740463990574
+[FUNC ENTER] <anonymous> at (main.js:1:1:63:16), Args: [{},null,{"id":".","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/main.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/main.js","/home/sasank/PE/calculator"], Timestamp: 1740463990587
 [READ] Identifier: require, Value at (main.js:1:20:1:27)
 [LITERAL] Value: "./Mqtt" at (main.js:1:28:1:36)
-[FUNC ENTER] <anonymous> at (Mqtt.js:1:1:158:31), Args: [], Timestamp: 1739012189304
-[LITERAL] Value: undefined at (Mqtt.js:1:1:158:31)
-[FUNC EXIT] <anonymous> at (Mqtt.js:1:1:158:31), Return: undefined, Exception: {}, Timestamp: 1739012189310
-[FUNC ENTER] <anonymous> at (Mqtt.js:1:1:158:31), Args: [{},null,{"id":"/home/sasank/PE/calculator/Mqtt.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/Mqtt.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/Mqtt.js","/home/sasank/PE/calculator"], Timestamp: 1739012189315
+[FUNC ENTER] <anonymous> at (Mqtt.js:1:1:190:31), Args: [], Timestamp: 1740463990625
+[LITERAL] Value: undefined at (Mqtt.js:1:1:190:31)
+[FUNC EXIT] <anonymous> at (Mqtt.js:1:1:190:31), Return: undefined, Exception: {}, Timestamp: 1740463990631
+[FUNC ENTER] <anonymous> at (Mqtt.js:1:1:190:31), Args: [{},null,{"id":"/home/sasank/PE/calculator/Mqtt.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/Mqtt.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/Mqtt.js","/home/sasank/PE/calculator"], Timestamp: 1740463990634
 [READ] Identifier: require, Value at (Mqtt.js:120:22:120:29)
 [LITERAL] Value: "events" at (Mqtt.js:120:30:120:38)
 [WRITE] Identifier: EventEmitter, Value at (Mqtt.js:120:1:120:39)
 [READ] Identifier: EventEmitter, Value at (Mqtt.js:122:26:122:38)
-[LITERAL] Value: undefined at (Mqtt.js:129:3:133:4)
-[LITERAL] Value: undefined at (Mqtt.js:135:3:142:4)
-[LITERAL] Value: undefined at (Mqtt.js:144:3:150:4)
-[LITERAL] Value: undefined at (Mqtt.js:152:3:155:4)
-[READ] Identifier: module, Value at (Mqtt.js:158:1:158:7)
-[READ] Identifier: MQTTBroker, Value at (Mqtt.js:158:18:158:28)
-[FUNC EXIT] <anonymous> at (Mqtt.js:1:1:158:31), Return: undefined, Exception: {}, Timestamp: 1739012189365
+[LITERAL] Value: undefined at (Mqtt.js:130:3:134:4)
+[LITERAL] Value: undefined at (Mqtt.js:136:3:146:4)
+[LITERAL] Value: undefined at (Mqtt.js:148:3:154:4)
+[LITERAL] Value: undefined at (Mqtt.js:156:3:164:4)
+[LITERAL] Value: undefined at (Mqtt.js:168:3:173:4)
+[LITERAL] Value: undefined at (Mqtt.js:175:3:180:4)
+[LITERAL] Value: undefined at (Mqtt.js:182:3:187:4)
+[READ] Identifier: module, Value at (Mqtt.js:190:1:190:7)
+[READ] Identifier: MQTTBroker, Value at (Mqtt.js:190:18:190:28)
+[FUNC EXIT] <anonymous> at (Mqtt.js:1:1:190:31), Return: undefined, Exception: {}, Timestamp: 1740463990696
 [WRITE] Identifier: MQTTBroker, Value at (main.js:1:1:1:37)
 [READ] Identifier: require, Value at (main.js:2:16:2:23)
-[LITERAL] Value: "./Sensor" at (main.js:2:24:2:34)
-[FUNC ENTER] <anonymous> at (Sensor.js:1:1:108:26), Args: [], Timestamp: 1739012189386
-[LITERAL] Value: undefined at (Sensor.js:1:1:108:26)
-[FUNC EXIT] <anonymous> at (Sensor.js:1:1:108:26), Return: undefined, Exception: {}, Timestamp: 1739012189393
-[FUNC ENTER] <anonymous> at (Sensor.js:1:1:108:26), Args: [{},null,{"id":"/home/sasank/PE/calculator/Sensor.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/Sensor.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/Sensor.js","/home/sasank/PE/calculator"], Timestamp: 1739012189397
-[LITERAL] Value: undefined at (Sensor.js:88:3:100:4)
-[LITERAL] Value: undefined at (Sensor.js:102:3:105:4)
-[READ] Identifier: module, Value at (Sensor.js:108:1:108:7)
-[READ] Identifier: Sensor, Value at (Sensor.js:108:18:108:24)
-[FUNC EXIT] <anonymous> at (Sensor.js:1:1:108:26), Return: undefined, Exception: {}, Timestamp: 1739012189407
-[WRITE] Identifier: Sensor, Value at (main.js:2:1:2:35)
+[LITERAL] Value: "./Sensor.1" at (main.js:2:24:2:36)
+[FUNC ENTER] <anonymous> at (Sensor.1.js:1:1:33:26), Args: [], Timestamp: 1740463990726
+[LITERAL] Value: undefined at (Sensor.1.js:1:1:33:26)
+[FUNC EXIT] <anonymous> at (Sensor.1.js:1:1:33:26), Return: undefined, Exception: {}, Timestamp: 1740463990732
+[FUNC ENTER] <anonymous> at (Sensor.1.js:1:1:33:26), Args: [{},null,{"id":"/home/sasank/PE/calculator/Sensor.1.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/Sensor.1.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/Sensor.1.js","/home/sasank/PE/calculator"], Timestamp: 1740463990735
+[LITERAL] Value: undefined at (Sensor.1.js:8:3:13:4)
+[LITERAL] Value: undefined at (Sensor.1.js:15:3:26:4)
+[LITERAL] Value: undefined at (Sensor.1.js:28:3:31:4)
+[READ] Identifier: module, Value at (Sensor.1.js:33:1:33:7)
+[READ] Identifier: Sensor, Value at (Sensor.1.js:33:18:33:24)
+[FUNC EXIT] <anonymous> at (Sensor.1.js:1:1:33:26), Return: undefined, Exception: {}, Timestamp: 1740463990755
+[WRITE] Identifier: Sensor, Value at (main.js:2:1:2:37)
+[READ] Identifier: require, Value at (main.js:3:23:3:30)
+[LITERAL] Value: "./Lambda" at (main.js:3:31:3:41)
+[FUNC ENTER] <anonymous> at (Lambda.js:1:1:22:32), Args: [], Timestamp: 1740463990778
+[LITERAL] Value: undefined at (Lambda.js:1:1:22:32)
+[FUNC EXIT] <anonymous> at (Lambda.js:1:1:22:32), Return: undefined, Exception: {}, Timestamp: 1740463990780
+[FUNC ENTER] <anonymous> at (Lambda.js:1:1:22:32), Args: [{},null,{"id":"/home/sasank/PE/calculator/Lambda.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/Lambda.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/Lambda.js","/home/sasank/PE/calculator"], Timestamp: 1740463990783
+[LITERAL] Value: undefined at (Lambda.js:6:3:19:4)
+[READ] Identifier: module, Value at (Lambda.js:22:1:22:7)
+[READ] Identifier: LambdaHandler, Value at (Lambda.js:22:18:22:31)
+[FUNC EXIT] <anonymous> at (Lambda.js:1:1:22:32), Return: undefined, Exception: {}, Timestamp: 1740463990797
+[WRITE] Identifier: LambdaHandler, Value at (main.js:3:1:3:42)
 [READ] Identifier: require, Value at (main.js:4:22:4:29)
 [LITERAL] Value: "./Alarm" at (main.js:4:30:4:39)
-[FUNC ENTER] <anonymous> at (Alarm.js:1:1:22:31), Args: [], Timestamp: 1739012189430
+[FUNC ENTER] <anonymous> at (Alarm.js:1:1:22:31), Args: [], Timestamp: 1740463990819
 [LITERAL] Value: undefined at (Alarm.js:1:1:22:31)
-[FUNC EXIT] <anonymous> at (Alarm.js:1:1:22:31), Return: undefined, Exception: {}, Timestamp: 1739012189433
-[FUNC ENTER] <anonymous> at (Alarm.js:1:1:22:31), Args: [{},null,{"id":"/home/sasank/PE/calculator/Alarm.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/Alarm.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/Alarm.js","/home/sasank/PE/calculator"], Timestamp: 1739012189435
+[FUNC EXIT] <anonymous> at (Alarm.js:1:1:22:31), Return: undefined, Exception: {}, Timestamp: 1740463990822
+[FUNC ENTER] <anonymous> at (Alarm.js:1:1:22:31), Args: [{},null,{"id":"/home/sasank/PE/calculator/Alarm.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/Alarm.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/Alarm.js","/home/sasank/PE/calculator"], Timestamp: 1740463990827
 [LITERAL] Value: undefined at (Alarm.js:6:3:19:4)
 [READ] Identifier: module, Value at (Alarm.js:22:1:22:7)
 [READ] Identifier: AlarmHandler, Value at (Alarm.js:22:18:22:30)
-[FUNC EXIT] <anonymous> at (Alarm.js:1:1:22:31), Return: undefined, Exception: {}, Timestamp: 1739012189448
+[FUNC EXIT] <anonymous> at (Alarm.js:1:1:22:31), Return: undefined, Exception: {}, Timestamp: 1740463990835
 [WRITE] Identifier: AlarmHandler, Value at (main.js:4:1:4:40)
-[READ] Identifier: require, Value at (main.js:38:20:38:27)
-[LITERAL] Value: "./rule-engine" at (main.js:38:28:38:43)
-[FUNC ENTER] <anonymous> at (rule-engine.js:1:1:70:31), Args: [], Timestamp: 1739012189474
-[LITERAL] Value: undefined at (rule-engine.js:1:1:70:31)
-[FUNC EXIT] <anonymous> at (rule-engine.js:1:1:70:31), Return: undefined, Exception: {}, Timestamp: 1739012189479
-[FUNC ENTER] <anonymous> at (rule-engine.js:1:1:70:31), Args: [{},null,{"id":"/home/sasank/PE/calculator/rule-engine.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/rule-engine.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/rule-engine.js","/home/sasank/PE/calculator"], Timestamp: 1739012189483
-[READ] Identifier: require, Value at (rule-engine.js:36:17:36:24)
-[LITERAL] Value: "./Lamda1" at (rule-engine.js:36:25:36:35)
-[FUNC ENTER] <anonymous> at (Lamda1.js:1:1:31:3), Args: [], Timestamp: 1739012189503
-[LITERAL] Value: undefined at (Lamda1.js:1:1:31:3)
-[FUNC EXIT] <anonymous> at (Lamda1.js:1:1:31:3), Return: undefined, Exception: {}, Timestamp: 1739012189508
-[FUNC ENTER] <anonymous> at (Lamda1.js:1:1:31:3), Args: [{},null,{"id":"/home/sasank/PE/calculator/Lamda1.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/Lamda1.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/Lamda1.js","/home/sasank/PE/calculator"], Timestamp: 1739012189512
-[LITERAL] Value: undefined at (Lamda1.js:2:5:17:6)
-[LITERAL] Value: undefined at (Lamda1.js:19:5:27:6)
-[READ] Identifier: module, Value at (Lamda1.js:30:3:30:9)
-[READ] Identifier: Lambda1, Value at (Lamda1.js:30:24:30:31)
-[FUNC ENTER] Lambda1 at (Lamda1.js:1:1:28:4), Args: [], Timestamp: 1739012189525
-[FUNC EXIT] Lambda1 at (Lamda1.js:1:1:28:4), Return: undefined, Exception: {}, Timestamp: 1739012189527
-[FUNC EXIT] <anonymous> at (Lamda1.js:1:1:31:3), Return: undefined, Exception: {}, Timestamp: 1739012189528
-[WRITE] Identifier: lambda1, Value at (rule-engine.js:36:1:36:36)
-[READ] Identifier: require, Value at (rule-engine.js:37:17:37:24)
-[LITERAL] Value: "./Lamda2" at (rule-engine.js:37:25:37:35)
-[FUNC ENTER] <anonymous> at (Lamda2.js:1:1:51:33), Args: [], Timestamp: 1739012189544
-[LITERAL] Value: undefined at (Lamda2.js:1:1:51:33)
-[FUNC EXIT] <anonymous> at (Lamda2.js:1:1:51:33), Return: undefined, Exception: {}, Timestamp: 1739012189548
-[FUNC ENTER] <anonymous> at (Lamda2.js:1:1:51:33), Args: [{},null,{"id":"/home/sasank/PE/calculator/Lamda2.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/Lamda2.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/Lamda2.js","/home/sasank/PE/calculator"], Timestamp: 1739012189552
-[LITERAL] Value: undefined at (Lamda2.js:34:3:40:4)
-[LITERAL] Value: undefined at (Lamda2.js:42:3:48:4)
-[READ] Identifier: module, Value at (Lamda2.js:51:1:51:7)
-[READ] Identifier: Lambda2, Value at (Lamda2.js:51:22:51:29)
-[FUNC ENTER] Lambda2 at (Lamda2.js:33:1:49:2), Args: [], Timestamp: 1739012189563
-[FUNC EXIT] Lambda2 at (Lamda2.js:33:1:49:2), Return: undefined, Exception: {}, Timestamp: 1739012189565
-[FUNC EXIT] <anonymous> at (Lamda2.js:1:1:51:33), Return: undefined, Exception: {}, Timestamp: 1739012189566
-[WRITE] Identifier: lambda2, Value at (rule-engine.js:37:1:37:36)
-[LITERAL] Value: undefined at (rule-engine.js:52:3:67:4)
-[READ] Identifier: module, Value at (rule-engine.js:70:1:70:7)
-[READ] Identifier: RuleEngine, Value at (rule-engine.js:70:18:70:28)
-[FUNC EXIT] <anonymous> at (rule-engine.js:1:1:70:31), Return: undefined, Exception: {}, Timestamp: 1739012189571
-[WRITE] Identifier: RuleEngine, Value at (main.js:38:1:38:44)
-[READ] Identifier: require, Value at (main.js:39:18:39:25)
-[LITERAL] Value: "./dynamo-db" at (main.js:39:26:39:39)
-[FUNC ENTER] <anonymous> at (dynamo-db.js:1:1:24:3), Args: [], Timestamp: 1739012189584
-[LITERAL] Value: undefined at (dynamo-db.js:1:1:24:3)
-[FUNC EXIT] <anonymous> at (dynamo-db.js:1:1:24:3), Return: undefined, Exception: {}, Timestamp: 1739012189587
-[FUNC ENTER] <anonymous> at (dynamo-db.js:1:1:24:3), Args: [{},null,{"id":"/home/sasank/PE/calculator/dynamo-db.js","path":"/home/sasank/PE/calculator","exports":"[Circular]","filename":"/home/sasank/PE/calculator/dynamo-db.js","loaded":false,"children":[],"paths":["/home/sasank/PE/calculator/node_modules","/home/sasank/PE/node_modules","/home/sasank/node_modules","/home/node_modules","/node_modules"]},"/home/sasank/PE/calculator/dynamo-db.js","/home/sasank/PE/calculator"], Timestamp: 1739012189592
-[LITERAL] Value: undefined at (dynamo-db.js:6:5:10:6)
-[LITERAL] Value: undefined at (dynamo-db.js:12:5:20:6)
-[READ] Identifier: module, Value at (dynamo-db.js:23:3:23:9)
-[READ] Identifier: DynamoDB, Value at (dynamo-db.js:23:24:23:32)
-[FUNC ENTER] DynamoDB at (dynamo-db.js:1:1:21:4), Args: [], Timestamp: 1739012189600
-[READ] Identifier: this, Value at (dynamo-db.js:3:7:3:11)
-[LITERAL] Value: {} at (dynamo-db.js:3:21:3:23)
-[FUNC EXIT] DynamoDB at (dynamo-db.js:1:1:21:4), Return: undefined, Exception: {}, Timestamp: 1739012189603
-[FUNC EXIT] <anonymous> at (dynamo-db.js:1:1:24:3), Return: undefined, Exception: {}, Timestamp: 1739012189606
-[WRITE] Identifier: DynamoDB, Value at (main.js:39:1:39:40)
-[READ] Identifier: MQTTBroker, Value at (main.js:42:20:42:30)
-[FUNC ENTER] MQTTBroker at (Mqtt.js:122:1:156:2), Args: [null], Timestamp: 1739012189611
+[READ] Identifier: MQTTBroker, Value at (main.js:6:20:6:30)
+[FUNC ENTER] MQTTBroker at (Mqtt.js:122:1:188:2), Args: [null], Timestamp: 1740463990842
 [READ] Identifier: Map, Value at (Mqtt.js:125:24:125:27)
 [READ] Identifier: Map, Value at (Mqtt.js:126:30:126:33)
-[FUNC EXIT] MQTTBroker at (Mqtt.js:122:1:156:2), Return: {"_events":{},"_eventsCount":0,"clients":{},"subscriptions":{}}, Exception: {}, Timestamp: 1739012189617
-[WRITE] Identifier: broker, Value at (main.js:42:1:42:32)
-[READ] Identifier: global, Value at (main.js:45:1:45:7)
-[READ] Identifier: DynamoDB, Value at (main.js:45:19:45:27)
-[WRITE] Identifier: DynamoDB, Value at (main.js:45:1:45:27)
-[READ] Identifier: DynamoDB, Value at (main.js:46:1:46:9)
-[LITERAL] Value: "myDDB" at (main.js:46:22:46:29)
-[FUNC ENTER] createTable at (dynamo-db.js:6:5:10:6), Args: ["myDDB"], Timestamp: 1739012189626
-[READ] Identifier: this, Value at (dynamo-db.js:7:12:7:16)
-[READ] Identifier: tableName, Value at (dynamo-db.js:7:24:7:33)
-[CONDITIONAL] Result: undefined at (dynamo-db.js:7:12:7:34)
-[READ] Identifier: this, Value at (dynamo-db.js:8:9:8:13)
-[READ] Identifier: tableName, Value at (dynamo-db.js:8:21:8:30)
-[LITERAL] Value: [] at (dynamo-db.js:8:34:8:36)
-[FUNC EXIT] createTable at (dynamo-db.js:6:5:10:6), Return: undefined, Exception: {}, Timestamp: 1739012189637
-[READ] Identifier: Sensor, Value at (main.js:49:21:49:27)
-[LITERAL] Value: "sensor-001" at (main.js:49:28:49:40)
-[READ] Identifier: broker, Value at (main.js:49:42:49:48)
-[LITERAL] Value: "topic/sensor1" at (main.js:49:50:49:65)
-[LITERAL] Value: ["temperature","pressure","altitude"] at (main.js:49:67:49:106)
-[FUNC ENTER] Sensor at (Sensor.js:80:1:106:2), Args: ["sensor-001",{"_events":{},"_eventsCount":0,"clients":{},"subscriptions":{}},"topic/sensor1",["temperature","pressure","altitude"]], Timestamp: 1739012189644
-[READ] Identifier: this, Value at (Sensor.js:82:5:82:9)
-[READ] Identifier: sensorId, Value at (Sensor.js:82:21:82:29)
-[READ] Identifier: this, Value at (Sensor.js:83:5:83:9)
-[READ] Identifier: broker, Value at (Sensor.js:83:19:83:25)
-[READ] Identifier: this, Value at (Sensor.js:84:5:84:9)
-[READ] Identifier: topic, Value at (Sensor.js:84:18:84:23)
-[READ] Identifier: this, Value at (Sensor.js:85:5:85:9)
-[READ] Identifier: attributes, Value at (Sensor.js:85:23:85:33)
-[FUNC EXIT] Sensor at (Sensor.js:80:1:106:2), Return: undefined, Exception: {}, Timestamp: 1739012189655
-[WRITE] Identifier: sensor1, Value at (main.js:49:1:49:107)
-[READ] Identifier: Sensor, Value at (main.js:50:21:50:27)
-[LITERAL] Value: "sensor-002" at (main.js:50:28:50:40)
-[READ] Identifier: broker, Value at (main.js:50:42:50:48)
-[LITERAL] Value: "topic/sensor2" at (main.js:50:50:50:65)
-[LITERAL] Value: ["humidity","light"] at (main.js:50:67:50:88)
-[FUNC ENTER] Sensor at (Sensor.js:80:1:106:2), Args: ["sensor-002",{"_events":{},"_eventsCount":0,"clients":{},"subscriptions":{}},"topic/sensor2",["humidity","light"]], Timestamp: 1739012189662
-[READ] Identifier: this, Value at (Sensor.js:82:5:82:9)
-[READ] Identifier: sensorId, Value at (Sensor.js:82:21:82:29)
-[READ] Identifier: this, Value at (Sensor.js:83:5:83:9)
-[READ] Identifier: broker, Value at (Sensor.js:83:19:83:25)
-[READ] Identifier: this, Value at (Sensor.js:84:5:84:9)
-[READ] Identifier: topic, Value at (Sensor.js:84:18:84:23)
-[READ] Identifier: this, Value at (Sensor.js:85:5:85:9)
-[READ] Identifier: attributes, Value at (Sensor.js:85:23:85:33)
-[FUNC EXIT] Sensor at (Sensor.js:80:1:106:2), Return: undefined, Exception: {}, Timestamp: 1739012189667
-[WRITE] Identifier: sensor2, Value at (main.js:50:1:50:89)
-[READ] Identifier: RuleEngine, Value at (main.js:53:24:53:34)
-[READ] Identifier: broker, Value at (main.js:53:35:53:41)
-[FUNC ENTER] RuleEngine at (rule-engine.js:39:1:68:2), Args: [{"_events":{},"_eventsCount":0,"clients":{},"subscriptions":{}}], Timestamp: 1739012189670
-[READ] Identifier: this, Value at (rule-engine.js:41:5:41:9)
-[READ] Identifier: broker, Value at (rule-engine.js:41:19:41:25)
-[READ] Identifier: this, Value at (rule-engine.js:44:5:44:9)
-[LITERAL] Value: "rule-engine" at (rule-engine.js:44:27:44:40)
-[LITERAL] Value: "topic/sensor1" at (rule-engine.js:44:42:44:57)
-[FUNC ENTER] subscribe at (Mqtt.js:144:3:150:4), Args: ["rule-engine","topic/sensor1"], Timestamp: 1739012189674
-[READ] Identifier: this, Value at (Mqtt.js:145:10:145:14)
-[READ] Identifier: topic, Value at (Mqtt.js:145:33:145:38)
-[CONDITIONAL] Result: false at (Mqtt.js:145:10:145:39)
-[READ] Identifier: this, Value at (Mqtt.js:146:7:146:11)
-[READ] Identifier: topic, Value at (Mqtt.js:146:30:146:35)
-[LITERAL] Value: [] at (Mqtt.js:146:37:146:39)
-[READ] Identifier: this, Value at (Mqtt.js:148:5:148:9)
-[READ] Identifier: topic, Value at (Mqtt.js:148:28:148:33)
-[READ] Identifier: clientId, Value at (Mqtt.js:148:40:148:48)
-[READ] Identifier: console, Value at (Mqtt.js:149:5:149:12)
-[LITERAL] Value: "[Broker] Client \"" at (Mqtt.js:149:17:149:37)
-[READ] Identifier: clientId, Value at (Mqtt.js:149:37:149:45)
-[LITERAL] Value: "\" subscribed to topic \"" at (Mqtt.js:149:45:149:71)
-[READ] Identifier: topic, Value at (Mqtt.js:149:71:149:76)
-[LITERAL] Value: "\"." at (Mqtt.js:149:76:149:80)
-[BINARY] [Broker] Client " + rule-engine = [Broker] Client "rule-engine" subscribed to topic "topic/sensor1". at (Mqtt.js:149:17:149:80)
-[Broker] Client "rule-engine" subscribed to topic "topic/sensor1".
-[FUNC EXIT] subscribe at (Mqtt.js:144:3:150:4), Return: undefined, Exception: {}, Timestamp: 1739012189688
-[READ] Identifier: this, Value at (rule-engine.js:45:5:45:9)
-[LITERAL] Value: "rule-engine" at (rule-engine.js:45:27:45:40)
-[LITERAL] Value: "topic/sensor2" at (rule-engine.js:45:42:45:57)
-[FUNC ENTER] subscribe at (Mqtt.js:144:3:150:4), Args: ["rule-engine","topic/sensor2"], Timestamp: 1739012189693
-[READ] Identifier: this, Value at (Mqtt.js:145:10:145:14)
-[READ] Identifier: topic, Value at (Mqtt.js:145:33:145:38)
-[CONDITIONAL] Result: false at (Mqtt.js:145:10:145:39)
-[READ] Identifier: this, Value at (Mqtt.js:146:7:146:11)
-[READ] Identifier: topic, Value at (Mqtt.js:146:30:146:35)
-[LITERAL] Value: [] at (Mqtt.js:146:37:146:39)
-[READ] Identifier: this, Value at (Mqtt.js:148:5:148:9)
-[READ] Identifier: topic, Value at (Mqtt.js:148:28:148:33)
-[READ] Identifier: clientId, Value at (Mqtt.js:148:40:148:48)
-[READ] Identifier: console, Value at (Mqtt.js:149:5:149:12)
-[LITERAL] Value: "[Broker] Client \"" at (Mqtt.js:149:17:149:37)
-[READ] Identifier: clientId, Value at (Mqtt.js:149:37:149:45)
-[LITERAL] Value: "\" subscribed to topic \"" at (Mqtt.js:149:45:149:71)
-[READ] Identifier: topic, Value at (Mqtt.js:149:71:149:76)
-[LITERAL] Value: "\"." at (Mqtt.js:149:76:149:80)
-[BINARY] [Broker] Client " + rule-engine = [Broker] Client "rule-engine" subscribed to topic "topic/sensor2". at (Mqtt.js:149:17:149:80)
-[Broker] Client "rule-engine" subscribed to topic "topic/sensor2".
-[FUNC EXIT] subscribe at (Mqtt.js:144:3:150:4), Return: undefined, Exception: {}, Timestamp: 1739012189697
-[READ] Identifier: this, Value at (rule-engine.js:47:5:47:9)
-[LITERAL] Value: "message" at (rule-engine.js:47:20:47:29)
-[LITERAL] Value: undefined at (rule-engine.js:47:31:49:6)
-[FUNC EXIT] RuleEngine at (rule-engine.js:39:1:68:2), Return: undefined, Exception: {}, Timestamp: 1739012189700
-[WRITE] Identifier: ruleEngine, Value at (main.js:53:1:53:42)
-[READ] Identifier: sensor1, Value at (main.js:56:1:56:8)
-[FUNC ENTER] connect at (Sensor.js:88:3:100:4), Args: [], Timestamp: 1739012189703
-[READ] Identifier: console, Value at (Sensor.js:89:5:89:12)
-[LITERAL] Value: "[Sensor] \"" at (Sensor.js:89:17:89:30)
-[READ] Identifier: this, Value at (Sensor.js:89:30:89:34)
-[LITERAL] Value: "\" connected." at (Sensor.js:89:43:89:57)
-[BINARY] [Sensor] " + sensor-001 = [Sensor] "sensor-001" connected. at (Sensor.js:89:17:89:57)
-[Sensor] "sensor-001" connected.
-[READ] Identifier: this, Value at (Sensor.js:90:5:90:9)
-[READ] Identifier: this, Value at (Sensor.js:90:25:90:29)
-[FUNC ENTER] connect at (Mqtt.js:129:3:133:4), Args: ["sensor-001"], Timestamp: 1739012189707
-[READ] Identifier: this, Value at (Mqtt.js:130:5:130:9)
-[READ] Identifier: clientId, Value at (Mqtt.js:130:22:130:30)
-[LITERAL] Value: true at (Mqtt.js:130:32:130:36)
-[READ] Identifier: console, Value at (Mqtt.js:131:5:131:12)
-[LITERAL] Value: "[Broker] Client \"" at (Mqtt.js:131:17:131:37)
-[READ] Identifier: clientId, Value at (Mqtt.js:131:37:131:45)
-[LITERAL] Value: "\" connected." at (Mqtt.js:131:45:131:59)
-[BINARY] [Broker] Client " + sensor-001 = [Broker] Client "sensor-001" connected. at (Mqtt.js:131:17:131:59)
+[READ] Identifier: Map, Value at (Mqtt.js:127:33:127:36)
+[FUNC EXIT] MQTTBroker at (Mqtt.js:122:1:188:2), Return: {"_events":{},"_eventsCount":0,"clients":{},"subscriptions":{},"retainedMessages":{}}, Exception: {}, Timestamp: 1740463990849
+[WRITE] Identifier: broker, Value at (main.js:6:1:6:32)
+[READ] Identifier: Sensor, Value at (main.js:8:21:8:27)
+[LITERAL] Value: "sensor-001" at (main.js:8:28:8:40)
+[READ] Identifier: broker, Value at (main.js:8:42:8:48)
+[FUNC ENTER] Sensor at (Sensor.1.js:1:1:32:2), Args: ["sensor-001",{"_events":{},"_eventsCount":0,"clients":{},"subscriptions":{},"retainedMessages":{}}], Timestamp: 1740463990857
+[READ] Identifier: this, Value at (Sensor.1.js:3:5:3:9)
+[READ] Identifier: sensorId, Value at (Sensor.1.js:3:21:3:29)
+[READ] Identifier: this, Value at (Sensor.1.js:4:5:4:9)
+[READ] Identifier: broker, Value at (Sensor.1.js:4:19:4:25)
+[READ] Identifier: this, Value at (Sensor.1.js:5:5:5:9)
+[LITERAL] Value: null at (Sensor.1.js:5:21:5:25)
+[FUNC EXIT] Sensor at (Sensor.1.js:1:1:32:2), Return: undefined, Exception: {}, Timestamp: 1740463990866
+[WRITE] Identifier: sensor1, Value at (main.js:8:1:8:49)
+[READ] Identifier: LambdaHandler, Value at (main.js:10:27:10:40)
+[READ] Identifier: broker, Value at (main.js:10:41:10:47)
+[FUNC ENTER] LambdaHandler at (Lambda.js:1:1:20:2), Args: [{"_events":{},"_eventsCount":0,"clients":{},"subscriptions":{},"retainedMessages":{}}], Timestamp: 1740463990874
+[READ] Identifier: this, Value at (Lambda.js:3:5:3:9)
+[READ] Identifier: broker, Value at (Lambda.js:3:19:3:25)
+[FUNC EXIT] LambdaHandler at (Lambda.js:1:1:20:2), Return: undefined, Exception: {}, Timestamp: 1740463990882
+[WRITE] Identifier: lambdaHandler, Value at (main.js:10:1:10:48)
+[READ] Identifier: lambdaHandler, Value at (main.js:11:1:11:14)
+[FUNC ENTER] start at (Lambda.js:6:3:19:4), Args: [], Timestamp: 1740463990884
+[READ] Identifier: this, Value at (Lambda.js:7:5:7:9)
+[LITERAL] Value: "message" at (Lambda.js:7:20:7:29)
+[LITERAL] Value: undefined at (Lambda.js:7:31:18:6)
+[FUNC EXIT] start at (Lambda.js:6:3:19:4), Return: undefined, Exception: {}, Timestamp: 1740463990893
+[READ] Identifier: AlarmHandler, Value at (main.js:13:26:13:38)
+[READ] Identifier: broker, Value at (main.js:13:39:13:45)
+[FUNC ENTER] AlarmHandler at (Alarm.js:1:1:20:2), Args: [{"_events":{},"_eventsCount":1,"clients":{},"subscriptions":{},"retainedMessages":{}}], Timestamp: 1740463990899
+[READ] Identifier: this, Value at (Alarm.js:3:5:3:9)
+[READ] Identifier: broker, Value at (Alarm.js:3:19:3:25)
+[FUNC EXIT] AlarmHandler at (Alarm.js:1:1:20:2), Return: undefined, Exception: {}, Timestamp: 1740463990907
+[WRITE] Identifier: alarmHandler, Value at (main.js:13:1:13:46)
+[READ] Identifier: alarmHandler, Value at (main.js:14:1:14:13)
+[FUNC ENTER] start at (Alarm.js:6:3:19:4), Args: [], Timestamp: 1740463990914
+[LITERAL] Value: "alarm-handler" at (Alarm.js:7:22:7:37)
+[WRITE] Identifier: clientId, Value at (Alarm.js:7:5:7:36)
+[READ] Identifier: this, Value at (Alarm.js:8:5:8:9)
+[READ] Identifier: clientId, Value at (Alarm.js:8:27:8:35)
+[LITERAL] Value: "sensor/status" at (Alarm.js:8:37:8:52)
+[FUNC ENTER] subscribe at (Mqtt.js:148:3:154:4), Args: ["alarm-handler","sensor/status"], Timestamp: 1740463990921
+[READ] Identifier: this, Value at (Mqtt.js:149:10:149:14)
+[READ] Identifier: topic, Value at (Mqtt.js:149:33:149:38)
+[CONDITIONAL] Result: false at (Mqtt.js:149:10:149:39)
+[READ] Identifier: this, Value at (Mqtt.js:150:7:150:11)
+[READ] Identifier: topic, Value at (Mqtt.js:150:30:150:35)
+[LITERAL] Value: [] at (Mqtt.js:150:37:150:39)
+[READ] Identifier: this, Value at (Mqtt.js:152:5:152:9)
+[READ] Identifier: topic, Value at (Mqtt.js:152:28:152:33)
+[READ] Identifier: clientId, Value at (Mqtt.js:152:40:152:48)
+[READ] Identifier: console, Value at (Mqtt.js:153:5:153:12)
+[LITERAL] Value: "[Broker] Client \"" at (Mqtt.js:153:17:153:37)
+[READ] Identifier: clientId, Value at (Mqtt.js:153:37:153:45)
+[LITERAL] Value: "\" subscribed to \"" at (Mqtt.js:153:45:153:65)
+[READ] Identifier: topic, Value at (Mqtt.js:153:65:153:70)
+[LITERAL] Value: "\"." at (Mqtt.js:153:70:153:74)
+[BINARY] [Broker] Client " + alarm-handler = [Broker] Client "alarm-handler" subscribed to "sensor/status". at (Mqtt.js:153:17:153:74)
+[Broker] Client "alarm-handler" subscribed to "sensor/status".
+[FUNC EXIT] subscribe at (Mqtt.js:148:3:154:4), Return: undefined, Exception: {}, Timestamp: 1740463990940
+[READ] Identifier: this, Value at (Alarm.js:10:5:10:9)
+[LITERAL] Value: "message" at (Alarm.js:10:20:10:29)
+[LITERAL] Value: undefined at (Alarm.js:10:31:18:6)
+[FUNC EXIT] start at (Alarm.js:6:3:19:4), Return: undefined, Exception: {}, Timestamp: 1740463990944
+[READ] Identifier: sensor1, Value at (main.js:16:1:16:8)
+[FUNC ENTER] connect at (Sensor.1.js:8:3:13:4), Args: [], Timestamp: 1740463990946
+[READ] Identifier: this, Value at (Sensor.1.js:9:5:9:9)
+[READ] Identifier: this, Value at (Sensor.1.js:9:25:9:29)
+[LITERAL] Value: "sensor/status" at (Sensor.1.js:10:21:10:36)
+[READ] Identifier: JSON, Value at (Sensor.1.js:10:47:10:51)
+[READ] Identifier: this, Value at (Sensor.1.js:10:74:10:78)
+[LITERAL] Value: "dead" at (Sensor.1.js:10:97:10:103)
+[LITERAL] Value: {"sensorId":"sensor-001","status":"dead"} at (Sensor.1.js:10:62:10:105)
+[LITERAL] Value: {"topic":"sensor/status","message":"{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"} at (Sensor.1.js:10:12:10:108)
+[LITERAL] Value: {"LWT":{"topic":"sensor/status","message":"{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"}} at (Sensor.1.js:9:40:11:6)
+[WRITE] Identifier: clientId, Value at (Mqtt.js:130:11:130:19)
+[LITERAL] Value: undefined at (Mqtt.js:130:21:130:33)
+[BINARY] [object Object] === undefined = false at (Mqtt.js:130:21:130:33)
+[CONDITIONAL] Result: false at (Mqtt.js:130:21:130:33)
+[WRITE] Identifier: options, Value at (Mqtt.js:130:21:130:33)
+[FUNC ENTER] connect at (Mqtt.js:130:3:134:4), Args: ["sensor-001",{"LWT":{"topic":"sensor/status","message":"{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"}}], Timestamp: 1740463990963
+[READ] Identifier: this, Value at (Mqtt.js:131:5:131:9)
+[READ] Identifier: clientId, Value at (Mqtt.js:131:22:131:30)
+[READ] Identifier: options, Value at (Mqtt.js:131:32:131:39)
+[READ] Identifier: console, Value at (Mqtt.js:132:5:132:12)
+[LITERAL] Value: "[Broker] Client \"" at (Mqtt.js:132:17:132:37)
+[READ] Identifier: clientId, Value at (Mqtt.js:132:37:132:45)
+[LITERAL] Value: "\" connected." at (Mqtt.js:132:45:132:59)
+[BINARY] [Broker] Client " + sensor-001 = [Broker] Client "sensor-001" connected. at (Mqtt.js:132:17:132:59)
 [Broker] Client "sensor-001" connected.
-[READ] Identifier: this, Value at (Mqtt.js:132:5:132:9)
-[LITERAL] Value: "connect" at (Mqtt.js:132:15:132:24)
-[READ] Identifier: clientId, Value at (Mqtt.js:132:26:132:34)
-[FUNC EXIT] connect at (Mqtt.js:129:3:133:4), Return: undefined, Exception: {}, Timestamp: 1739012189712
-[READ] Identifier: this, Value at (Sensor.js:92:5:92:9)
-[READ] Identifier: setInterval, Value at (Sensor.js:92:21:92:32)
-[LITERAL] Value: undefined at (Sensor.js:92:33:99:6)
-[LITERAL] Value: 2000 at (Sensor.js:99:8:99:12)
-[FUNC EXIT] connect at (Sensor.js:88:3:100:4), Return: undefined, Exception: {}, Timestamp: 1739012189745
-[READ] Identifier: sensor2, Value at (main.js:57:1:57:8)
-[FUNC ENTER] connect at (Sensor.js:88:3:100:4), Args: [], Timestamp: 1739012189746
-[READ] Identifier: console, Value at (Sensor.js:89:5:89:12)
-[LITERAL] Value: "[Sensor] \"" at (Sensor.js:89:17:89:30)
-[READ] Identifier: this, Value at (Sensor.js:89:30:89:34)
-[LITERAL] Value: "\" connected." at (Sensor.js:89:43:89:57)
-[BINARY] [Sensor] " + sensor-002 = [Sensor] "sensor-002" connected. at (Sensor.js:89:17:89:57)
-[Sensor] "sensor-002" connected.
-[READ] Identifier: this, Value at (Sensor.js:90:5:90:9)
-[READ] Identifier: this, Value at (Sensor.js:90:25:90:29)
-[FUNC ENTER] connect at (Mqtt.js:129:3:133:4), Args: ["sensor-002"], Timestamp: 1739012189749
-[READ] Identifier: this, Value at (Mqtt.js:130:5:130:9)
-[READ] Identifier: clientId, Value at (Mqtt.js:130:22:130:30)
-[LITERAL] Value: true at (Mqtt.js:130:32:130:36)
-[READ] Identifier: console, Value at (Mqtt.js:131:5:131:12)
-[LITERAL] Value: "[Broker] Client \"" at (Mqtt.js:131:17:131:37)
-[READ] Identifier: clientId, Value at (Mqtt.js:131:37:131:45)
-[LITERAL] Value: "\" connected." at (Mqtt.js:131:45:131:59)
-[BINARY] [Broker] Client " + sensor-002 = [Broker] Client "sensor-002" connected. at (Mqtt.js:131:17:131:59)
-[Broker] Client "sensor-002" connected.
-[READ] Identifier: this, Value at (Mqtt.js:132:5:132:9)
-[LITERAL] Value: "connect" at (Mqtt.js:132:15:132:24)
-[READ] Identifier: clientId, Value at (Mqtt.js:132:26:132:34)
-[FUNC EXIT] connect at (Mqtt.js:129:3:133:4), Return: undefined, Exception: {}, Timestamp: 1739012189756
-[READ] Identifier: this, Value at (Sensor.js:92:5:92:9)
-[READ] Identifier: setInterval, Value at (Sensor.js:92:21:92:32)
-[LITERAL] Value: undefined at (Sensor.js:92:33:99:6)
-[LITERAL] Value: 2000 at (Sensor.js:99:8:99:12)
-[FUNC EXIT] connect at (Sensor.js:88:3:100:4), Return: undefined, Exception: {}, Timestamp: 1739012189758
-[READ] Identifier: setTimeout, Value at (main.js:60:1:60:11)
-[LITERAL] Value: undefined at (main.js:60:12:63:2)
-[LITERAL] Value: 10000 at (main.js:63:4:63:9)
-[FUNC EXIT] <anonymous> at (main.js:1:1:63:13), Return: undefined, Exception: {}, Timestamp: 1739012189764
-[FUNC ENTER] <anonymous> at (Sensor.js:92:33:99:6), Args: [], Timestamp: 1739012191766
-[READ] Identifier: this, Value at (Sensor.js:93:20:93:24)
-[LITERAL] Value: undefined at (Sensor.js:93:43:96:8)
-[READ] Identifier: this, Value at (Sensor.js:96:22:96:26)
-[LITERAL] Value: {"sensorId":"sensor-001"} at (Sensor.js:96:10:96:37)
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001"},"temperature",0,["temperature","pressure","altitude"]], Timestamp: 1739012191777
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.9882609272881663 * 100 = 98.82609272881663 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":98.83}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":98.83}, Exception: {}, Timestamp: 1739012191825
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001","temperature":98.83},"pressure",1,["temperature","pressure","altitude"]], Timestamp: 1739012191826
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.6567886860604047 * 100 = 65.67886860604048 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":98.83,"pressure":65.68}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":98.83,"pressure":65.68}, Exception: {}, Timestamp: 1739012191834
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001","temperature":98.83,"pressure":65.68},"altitude",2,["temperature","pressure","altitude"]], Timestamp: 1739012191836
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.5648420286888434 * 100 = 56.48420286888434 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48}, Exception: {}, Timestamp: 1739012191839
-[WRITE] Identifier: data, Value at (Sensor.js:93:7:96:38)
-[READ] Identifier: console, Value at (Sensor.js:97:7:97:14)
-[LITERAL] Value: "data in the sensor " at (Sensor.js:97:19:97:41)
-[READ] Identifier: JSON, Value at (Sensor.js:97:41:97:45)
-[READ] Identifier: data, Value at (Sensor.js:97:56:97:60)
-[LITERAL] Value: "" at (Sensor.js:97:61:97:63)
-[BINARY] data in the sensor  + {"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48} = data in the sensor {"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48} at (Sensor.js:97:19:97:63)
-data in the sensor {"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48}
-[READ] Identifier: this, Value at (Sensor.js:98:7:98:11)
-[READ] Identifier: this, Value at (Sensor.js:98:27:98:31)
-[READ] Identifier: data, Value at (Sensor.js:98:39:98:43)
-[FUNC ENTER] publish at (Mqtt.js:135:3:142:4), Args: ["topic/sensor1",{"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48}], Timestamp: 1739012191853
-[READ] Identifier: console, Value at (Mqtt.js:136:5:136:12)
-[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:136:17:136:49)
-[READ] Identifier: topic, Value at (Mqtt.js:136:49:136:54)
-[LITERAL] Value: "\": " at (Mqtt.js:136:54:136:60)
-[READ] Identifier: JSON, Value at (Mqtt.js:136:60:136:64)
-[READ] Identifier: message, Value at (Mqtt.js:136:75:136:82)
-[LITERAL] Value: "" at (Mqtt.js:136:83:136:85)
-[BINARY] [Broker] Published to topic " + topic/sensor1 = [Broker] Published to topic "topic/sensor1": {"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48} at (Mqtt.js:136:17:136:85)
-[Broker] Published to topic "topic/sensor1": {"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48}
-[READ] Identifier: this, Value at (Mqtt.js:137:9:137:13)
-[READ] Identifier: topic, Value at (Mqtt.js:137:32:137:37)
-[CONDITIONAL] Result: true at (Mqtt.js:137:9:137:38)
-[READ] Identifier: this, Value at (Mqtt.js:138:7:138:11)
-[READ] Identifier: topic, Value at (Mqtt.js:138:30:138:35)
-[LITERAL] Value: undefined at (Mqtt.js:138:45:140:8)
-[FUNC ENTER] <anonymous> at (Mqtt.js:138:45:140:8), Args: ["rule-engine",0,["rule-engine"]], Timestamp: 1739012191882
-[READ] Identifier: this, Value at (Mqtt.js:139:9:139:13)
-[LITERAL] Value: "message" at (Mqtt.js:139:19:139:28)
-[READ] Identifier: clientId, Value at (Mqtt.js:139:30:139:38)
-[READ] Identifier: topic, Value at (Mqtt.js:139:40:139:45)
-[READ] Identifier: message, Value at (Mqtt.js:139:47:139:54)
-[FUNC ENTER] <anonymous> at (rule-engine.js:47:31:49:6), Args: ["rule-engine","topic/sensor1",{"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48}], Timestamp: 1739012191885
-[READ] Identifier: this, Value at (rule-engine.js:48:7:48:11)
-[READ] Identifier: topic, Value at (rule-engine.js:48:23:48:28)
-[READ] Identifier: message, Value at (rule-engine.js:48:30:48:37)
-[FUNC ENTER] applyRules at (rule-engine.js:52:3:67:4), Args: ["topic/sensor1",{"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48}], Timestamp: 1739012191886
-[READ] Identifier: topic, Value at (rule-engine.js:53:13:53:18)
-[LITERAL] Value: "topic/sensor1" at (rule-engine.js:54:7:57:15)
-[BINARY] topic/sensor1 === topic/sensor1 = true at (rule-engine.js:54:7:57:15)
-[CONDITIONAL] Result: true at (rule-engine.js:54:7:57:15)
-[READ] Identifier: console, Value at (rule-engine.js:55:9:55:16)
-[LITERAL] Value: "[RuleEngine] Rule1 triggered for " at (rule-engine.js:55:21:55:57)
-[READ] Identifier: topic, Value at (rule-engine.js:55:57:55:62)
-[LITERAL] Value: "" at (rule-engine.js:55:62:55:64)
-[BINARY] [RuleEngine] Rule1 triggered for  + topic/sensor1 = [RuleEngine] Rule1 triggered for topic/sensor1 at (rule-engine.js:55:21:55:64)
-[RuleEngine] Rule1 triggered for topic/sensor1
-[READ] Identifier: lambda1, Value at (rule-engine.js:56:9:56:16)
-[READ] Identifier: message, Value at (rule-engine.js:56:24:56:31)
-[ASYNC ENTER] at (Lamda1.js:2:5:17:6)
-[FUNC ENTER] handle at (Lamda1.js:2:5:17:6), Args: [{"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48}], Timestamp: 1739012191898
-[READ] Identifier: console, Value at (Lamda1.js:3:7:3:14)
-[LITERAL] Value: "[Lambda1] Processing data from Sensor1:" at (Lamda1.js:3:19:3:60)
-[READ] Identifier: data, Value at (Lamda1.js:3:62:3:66)
-[Lambda1] Processing data from Sensor1: {
-  sensorId: 'sensor-001',
-  temperature: 98.83,
-  pressure: 65.68,
-  altitude: 56.48
-}
-[READ] Identifier: data, Value at (Lamda1.js:5:11:5:15)
-[LITERAL] Value: 30 at (Lamda1.js:5:30:5:32)
-[BINARY] 98.83 > 30 = true at (Lamda1.js:5:11:5:32)
-[CONDITIONAL] Result: true at (Lamda1.js:5:11:5:32)
-[READ] Identifier: console, Value at (Lamda1.js:6:9:6:16)
-[LITERAL] Value: "[Lambda1] Temperature (" at (Lamda1.js:6:21:6:47)
-[READ] Identifier: data, Value at (Lamda1.js:6:47:6:51)
-[LITERAL] Value: "°C) exceeds threshold. Writing \"Switch ON AC\" command." at (Lamda1.js:6:63:6:119)
-[BINARY] [Lambda1] Temperature ( + 98.83 = [Lambda1] Temperature (98.83°C) exceeds threshold. Writing "Switch ON AC" command. at (Lamda1.js:6:21:6:119)
-[Lambda1] Temperature (98.83°C) exceeds threshold. Writing "Switch ON AC" command.
-[LITERAL] Value: "Switch ON AC" at (Lamda1.js:9:20:9:34)
-[LITERAL] Value: "Lambda1" at (Lamda1.js:10:24:10:33)
-[READ] Identifier: data, Value at (Lamda1.js:11:24:11:28)
-[READ] Identifier: Date, Value at (Lamda1.js:12:26:12:30)
-[LITERAL] Value: {"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":98.83,"timestamp":"2025-02-08T10:56:31.935Z"} at (Lamda1.js:8:22:13:10)
-[WRITE] Identifier: item, Value at (Lamda1.js:8:9:13:10)
-[READ] Identifier: this, Value at (Lamda1.js:15:15:15:19)
-[LITERAL] Value: "myDDB" at (Lamda1.js:15:34:15:41)
-[READ] Identifier: item, Value at (Lamda1.js:15:43:15:47)
-[ASYNC ENTER] at (Lamda1.js:19:5:27:6)
-[FUNC ENTER] putToDynamoDB at (Lamda1.js:19:5:27:6), Args: ["myDDB",{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":98.83,"timestamp":"2025-02-08T10:56:31.935Z"}], Timestamp: 1739012192114
-[READ] Identifier: console, Value at (Lamda1.js:20:7:20:14)
-[LITERAL] Value: "[DynamoDB] Lambda1 writing to table \"" at (Lamda1.js:20:19:20:59)
-[READ] Identifier: table, Value at (Lamda1.js:20:59:20:64)
-[LITERAL] Value: "\":" at (Lamda1.js:20:64:20:68)
-[BINARY] [DynamoDB] Lambda1 writing to table " + myDDB = [DynamoDB] Lambda1 writing to table "myDDB": at (Lamda1.js:20:19:20:68)
-[READ] Identifier: item, Value at (Lamda1.js:20:70:20:74)
-[DynamoDB] Lambda1 writing to table "myDDB": {
-  command: 'Switch ON AC',
-  triggeredBy: 'Lambda1',
-  temperature: 98.83,
-  timestamp: '2025-02-08T10:56:31.935Z'
-}
-[READ] Identifier: Promise, Value at (Lamda1.js:21:18:21:25)
-[LITERAL] Value: undefined at (Lamda1.js:21:26:26:8)
-[FUNC ENTER] <anonymous> at (Lamda1.js:21:26:26:8), Args: [null,null], Timestamp: 1739012192137
-[READ] Identifier: setTimeout, Value at (Lamda1.js:22:9:22:19)
-[LITERAL] Value: undefined at (Lamda1.js:22:20:25:10)
-[READ] Identifier: Math, Value at (Lamda1.js:25:12:25:16)
-[LITERAL] Value: 2000 at (Lamda1.js:25:28:25:32)
-[BINARY] 0.26176510388098395 * 2000 = 523.5302077619679 at (Lamda1.js:25:12:25:32)
-[FUNC EXIT] <anonymous> at (Lamda1.js:21:26:26:8), Return: undefined, Exception: {}, Timestamp: 1739012192146
-[RETURN] at (Lamda1.js:21:7:26:10), Value: {}
-[FUNC EXIT] putToDynamoDB at (Lamda1.js:19:5:27:6), Return: {}, Exception: {}, Timestamp: 1739012192148
-[ASYNC EXIT] at (Lamda1.js:19:5:27:6), Return: {}, Exception: {}
-[AWAIT PRE] at (Lamda1.js:15:9:15:48), Awaited Value: [object Promise]
-[FUNC EXIT] handle at (Lamda1.js:2:5:17:6), Return: undefined, Exception: {"yield":true}, Timestamp: 1739012192168
-[ASYNC EXIT] at (Lamda1.js:2:5:17:6), Return: {}, Exception: {}
-[FUNC EXIT] applyRules at (rule-engine.js:52:3:67:4), Return: undefined, Exception: {}, Timestamp: 1739012192170
-[FUNC EXIT] <anonymous> at (rule-engine.js:47:31:49:6), Return: undefined, Exception: {}, Timestamp: 1739012192170
-[FUNC EXIT] <anonymous> at (Mqtt.js:138:45:140:8), Return: undefined, Exception: {}, Timestamp: 1739012192171
-[FUNC EXIT] publish at (Mqtt.js:135:3:142:4), Return: undefined, Exception: {}, Timestamp: 1739012192171
-[FUNC EXIT] <anonymous> at (Sensor.js:92:33:99:6), Return: undefined, Exception: {}, Timestamp: 1739012192171
-[FUNC ENTER] <anonymous> at (Sensor.js:92:33:99:6), Args: [], Timestamp: 1739012192178
-[READ] Identifier: this, Value at (Sensor.js:93:20:93:24)
-[LITERAL] Value: undefined at (Sensor.js:93:43:96:8)
-[READ] Identifier: this, Value at (Sensor.js:96:22:96:26)
-[LITERAL] Value: {"sensorId":"sensor-002"} at (Sensor.js:96:10:96:37)
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-002"},"humidity",0,["humidity","light"]], Timestamp: 1739012192187
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.794554306285068 * 100 = 79.45543062850679 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-002","humidity":79.46}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-002","humidity":79.46}, Exception: {}, Timestamp: 1739012192193
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-002","humidity":79.46},"light",1,["humidity","light"]], Timestamp: 1739012192194
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.09880082695247727 * 100 = 9.880082695247728 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-002","humidity":79.46,"light":9.88}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-002","humidity":79.46,"light":9.88}, Exception: {}, Timestamp: 1739012192199
-[WRITE] Identifier: data, Value at (Sensor.js:93:7:96:38)
-[READ] Identifier: console, Value at (Sensor.js:97:7:97:14)
-[LITERAL] Value: "data in the sensor " at (Sensor.js:97:19:97:41)
-[READ] Identifier: JSON, Value at (Sensor.js:97:41:97:45)
-[READ] Identifier: data, Value at (Sensor.js:97:56:97:60)
-[LITERAL] Value: "" at (Sensor.js:97:61:97:63)
-[BINARY] data in the sensor  + {"sensorId":"sensor-002","humidity":79.46,"light":9.88} = data in the sensor {"sensorId":"sensor-002","humidity":79.46,"light":9.88} at (Sensor.js:97:19:97:63)
-data in the sensor {"sensorId":"sensor-002","humidity":79.46,"light":9.88}
-[READ] Identifier: this, Value at (Sensor.js:98:7:98:11)
-[READ] Identifier: this, Value at (Sensor.js:98:27:98:31)
-[READ] Identifier: data, Value at (Sensor.js:98:39:98:43)
-[FUNC ENTER] publish at (Mqtt.js:135:3:142:4), Args: ["topic/sensor2",{"sensorId":"sensor-002","humidity":79.46,"light":9.88}], Timestamp: 1739012192203
-[READ] Identifier: console, Value at (Mqtt.js:136:5:136:12)
-[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:136:17:136:49)
-[READ] Identifier: topic, Value at (Mqtt.js:136:49:136:54)
-[LITERAL] Value: "\": " at (Mqtt.js:136:54:136:60)
-[READ] Identifier: JSON, Value at (Mqtt.js:136:60:136:64)
-[READ] Identifier: message, Value at (Mqtt.js:136:75:136:82)
-[LITERAL] Value: "" at (Mqtt.js:136:83:136:85)
-[BINARY] [Broker] Published to topic " + topic/sensor2 = [Broker] Published to topic "topic/sensor2": {"sensorId":"sensor-002","humidity":79.46,"light":9.88} at (Mqtt.js:136:17:136:85)
-[Broker] Published to topic "topic/sensor2": {"sensorId":"sensor-002","humidity":79.46,"light":9.88}
-[READ] Identifier: this, Value at (Mqtt.js:137:9:137:13)
-[READ] Identifier: topic, Value at (Mqtt.js:137:32:137:37)
-[CONDITIONAL] Result: true at (Mqtt.js:137:9:137:38)
-[READ] Identifier: this, Value at (Mqtt.js:138:7:138:11)
-[READ] Identifier: topic, Value at (Mqtt.js:138:30:138:35)
-[LITERAL] Value: undefined at (Mqtt.js:138:45:140:8)
-[FUNC ENTER] <anonymous> at (Mqtt.js:138:45:140:8), Args: ["rule-engine",0,["rule-engine"]], Timestamp: 1739012192210
-[READ] Identifier: this, Value at (Mqtt.js:139:9:139:13)
-[LITERAL] Value: "message" at (Mqtt.js:139:19:139:28)
-[READ] Identifier: clientId, Value at (Mqtt.js:139:30:139:38)
-[READ] Identifier: topic, Value at (Mqtt.js:139:40:139:45)
-[READ] Identifier: message, Value at (Mqtt.js:139:47:139:54)
-[FUNC ENTER] <anonymous> at (rule-engine.js:47:31:49:6), Args: ["rule-engine","topic/sensor2",{"sensorId":"sensor-002","humidity":79.46,"light":9.88}], Timestamp: 1739012192212
-[READ] Identifier: this, Value at (rule-engine.js:48:7:48:11)
-[READ] Identifier: topic, Value at (rule-engine.js:48:23:48:28)
-[READ] Identifier: message, Value at (rule-engine.js:48:30:48:37)
-[FUNC ENTER] applyRules at (rule-engine.js:52:3:67:4), Args: ["topic/sensor2",{"sensorId":"sensor-002","humidity":79.46,"light":9.88}], Timestamp: 1739012192214
-[READ] Identifier: topic, Value at (rule-engine.js:53:13:53:18)
-[LITERAL] Value: "topic/sensor1" at (rule-engine.js:54:7:57:15)
-[BINARY] topic/sensor2 === topic/sensor1 = false at (rule-engine.js:54:7:57:15)
-[CONDITIONAL] Result: false at (rule-engine.js:54:7:57:15)
-[LITERAL] Value: "topic/sensor2" at (rule-engine.js:59:7:62:15)
-[BINARY] topic/sensor2 === topic/sensor2 = true at (rule-engine.js:59:7:62:15)
-[CONDITIONAL] Result: true at (rule-engine.js:59:7:62:15)
-[READ] Identifier: console, Value at (rule-engine.js:60:9:60:16)
-[LITERAL] Value: "[RuleEngine] Rule2 triggered for " at (rule-engine.js:60:21:60:57)
-[READ] Identifier: topic, Value at (rule-engine.js:60:57:60:62)
-[LITERAL] Value: "" at (rule-engine.js:60:62:60:64)
-[BINARY] [RuleEngine] Rule2 triggered for  + topic/sensor2 = [RuleEngine] Rule2 triggered for topic/sensor2 at (rule-engine.js:60:21:60:64)
-[RuleEngine] Rule2 triggered for topic/sensor2
-[READ] Identifier: lambda2, Value at (rule-engine.js:61:9:61:16)
-[READ] Identifier: message, Value at (rule-engine.js:61:24:61:31)
-[ASYNC ENTER] at (Lamda2.js:34:3:40:4)
-[FUNC ENTER] handle at (Lamda2.js:34:3:40:4), Args: [{"sensorId":"sensor-002","humidity":79.46,"light":9.88}], Timestamp: 1739012192229
-[READ] Identifier: data, Value at (Lamda2.js:35:9:35:13)
-[LITERAL] Value: 40 at (Lamda2.js:35:25:35:27)
-[BINARY] 79.46 < 40 = false at (Lamda2.js:35:9:35:27)
-[CONDITIONAL] Result: false at (Lamda2.js:35:9:35:27)
-[FUNC EXIT] handle at (Lamda2.js:34:3:40:4), Return: undefined, Exception: {}, Timestamp: 1739012192234
-[ASYNC EXIT] at (Lamda2.js:34:3:40:4), Return: {}, Exception: {}
-[FUNC EXIT] applyRules at (rule-engine.js:52:3:67:4), Return: undefined, Exception: {}, Timestamp: 1739012192235
-[FUNC EXIT] <anonymous> at (rule-engine.js:47:31:49:6), Return: undefined, Exception: {}, Timestamp: 1739012192236
-[FUNC EXIT] <anonymous> at (Mqtt.js:138:45:140:8), Return: undefined, Exception: {}, Timestamp: 1739012192237
-[FUNC EXIT] publish at (Mqtt.js:135:3:142:4), Return: undefined, Exception: {}, Timestamp: 1739012192237
-[FUNC EXIT] <anonymous> at (Sensor.js:92:33:99:6), Return: undefined, Exception: {}, Timestamp: 1739012192238
-[FUNC ENTER] <anonymous> at (Lamda1.js:22:20:25:10), Args: [], Timestamp: 1739012192704
-[READ] Identifier: global, Value at (Lamda1.js:23:11:23:17)
-[READ] Identifier: DynamoDB, Value at (Lamda1.js:23:11:23:26)
-[READ] Identifier: table, Value at (Lamda1.js:23:31:23:36)
-[READ] Identifier: item, Value at (Lamda1.js:23:38:23:42)
-[FUNC ENTER] put at (dynamo-db.js:12:5:20:6), Args: ["myDDB",{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":98.83,"timestamp":"2025-02-08T10:56:31.935Z"}], Timestamp: 1739012192727
-[READ] Identifier: this, Value at (dynamo-db.js:13:12:13:16)
-[READ] Identifier: tableName, Value at (dynamo-db.js:13:24:13:33)
-[CONDITIONAL] Result: [] at (dynamo-db.js:13:12:13:34)
-[READ] Identifier: this, Value at (dynamo-db.js:18:7:18:11)
-[READ] Identifier: tableName, Value at (dynamo-db.js:18:19:18:28)
-[READ] Identifier: item, Value at (dynamo-db.js:18:35:18:39)
-[READ] Identifier: console, Value at (dynamo-db.js:19:7:19:14)
-[LITERAL] Value: "[DynamoDB] Table \"" at (dynamo-db.js:19:19:19:40)
-[READ] Identifier: tableName, Value at (dynamo-db.js:19:40:19:49)
-[LITERAL] Value: "\" updated:" at (dynamo-db.js:19:49:19:61)
-[BINARY] [DynamoDB] Table " + myDDB = [DynamoDB] Table "myDDB" updated: at (dynamo-db.js:19:19:19:61)
-[READ] Identifier: this, Value at (dynamo-db.js:19:63:19:67)
-[READ] Identifier: tableName, Value at (dynamo-db.js:19:75:19:84)
-[DynamoDB] Table "myDDB" updated: [
-  {
-    command: 'Switch ON AC',
-    triggeredBy: 'Lambda1',
-    temperature: 98.83,
-    timestamp: '2025-02-08T10:56:31.935Z'
-  }
-]
-[FUNC EXIT] put at (dynamo-db.js:12:5:20:6), Return: undefined, Exception: {}, Timestamp: 1739012192741
-[READ] Identifier: resolve, Value at (Lamda1.js:24:11:24:18)
-[FUNC EXIT] <anonymous> at (Lamda1.js:22:20:25:10), Return: undefined, Exception: {}, Timestamp: 1739012192747
-[FUNC ENTER] handle at (Lamda1.js:2:5:17:6), Args: [{"sensorId":"sensor-001","temperature":98.83,"pressure":65.68,"altitude":56.48}], Timestamp: 1739012192751
-[AWAIT POST] at (Lamda1.js:15:9:15:48), Awaited Value: [object Promise], Result: [Non-Promise], Status: resolved
-[FUNC EXIT] handle at (Lamda1.js:2:5:17:6), Return: undefined, Exception: {}, Timestamp: 1739012192755
-[FUNC ENTER] <anonymous> at (Sensor.js:92:33:99:6), Args: [], Timestamp: 1739012193798
-[READ] Identifier: this, Value at (Sensor.js:93:20:93:24)
-[LITERAL] Value: undefined at (Sensor.js:93:43:96:8)
-[READ] Identifier: this, Value at (Sensor.js:96:22:96:26)
-[LITERAL] Value: {"sensorId":"sensor-001"} at (Sensor.js:96:10:96:37)
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001"},"temperature",0,["temperature","pressure","altitude"]], Timestamp: 1739012193803
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.6969631348263181 * 100 = 69.69631348263181 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":69.7}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":69.7}, Exception: {}, Timestamp: 1739012193814
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001","temperature":69.7},"pressure",1,["temperature","pressure","altitude"]], Timestamp: 1739012193815
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.9198613273457448 * 100 = 91.98613273457448 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":69.7,"pressure":91.99}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":69.7,"pressure":91.99}, Exception: {}, Timestamp: 1739012193819
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001","temperature":69.7,"pressure":91.99},"altitude",2,["temperature","pressure","altitude"]], Timestamp: 1739012193820
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.20892920006916338 * 100 = 20.892920006916338 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89}, Exception: {}, Timestamp: 1739012193823
-[WRITE] Identifier: data, Value at (Sensor.js:93:7:96:38)
-[READ] Identifier: console, Value at (Sensor.js:97:7:97:14)
-[LITERAL] Value: "data in the sensor " at (Sensor.js:97:19:97:41)
-[READ] Identifier: JSON, Value at (Sensor.js:97:41:97:45)
-[READ] Identifier: data, Value at (Sensor.js:97:56:97:60)
-[LITERAL] Value: "" at (Sensor.js:97:61:97:63)
-[BINARY] data in the sensor  + {"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89} = data in the sensor {"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89} at (Sensor.js:97:19:97:63)
-data in the sensor {"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89}
-[READ] Identifier: this, Value at (Sensor.js:98:7:98:11)
-[READ] Identifier: this, Value at (Sensor.js:98:27:98:31)
-[READ] Identifier: data, Value at (Sensor.js:98:39:98:43)
-[FUNC ENTER] publish at (Mqtt.js:135:3:142:4), Args: ["topic/sensor1",{"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89}], Timestamp: 1739012193825
-[READ] Identifier: console, Value at (Mqtt.js:136:5:136:12)
-[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:136:17:136:49)
-[READ] Identifier: topic, Value at (Mqtt.js:136:49:136:54)
-[LITERAL] Value: "\": " at (Mqtt.js:136:54:136:60)
-[READ] Identifier: JSON, Value at (Mqtt.js:136:60:136:64)
-[READ] Identifier: message, Value at (Mqtt.js:136:75:136:82)
-[LITERAL] Value: "" at (Mqtt.js:136:83:136:85)
-[BINARY] [Broker] Published to topic " + topic/sensor1 = [Broker] Published to topic "topic/sensor1": {"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89} at (Mqtt.js:136:17:136:85)
-[Broker] Published to topic "topic/sensor1": {"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89}
-[READ] Identifier: this, Value at (Mqtt.js:137:9:137:13)
-[READ] Identifier: topic, Value at (Mqtt.js:137:32:137:37)
-[CONDITIONAL] Result: true at (Mqtt.js:137:9:137:38)
-[READ] Identifier: this, Value at (Mqtt.js:138:7:138:11)
-[READ] Identifier: topic, Value at (Mqtt.js:138:30:138:35)
-[LITERAL] Value: undefined at (Mqtt.js:138:45:140:8)
-[FUNC ENTER] <anonymous> at (Mqtt.js:138:45:140:8), Args: ["rule-engine",0,["rule-engine"]], Timestamp: 1739012193828
-[READ] Identifier: this, Value at (Mqtt.js:139:9:139:13)
-[LITERAL] Value: "message" at (Mqtt.js:139:19:139:28)
-[READ] Identifier: clientId, Value at (Mqtt.js:139:30:139:38)
-[READ] Identifier: topic, Value at (Mqtt.js:139:40:139:45)
-[READ] Identifier: message, Value at (Mqtt.js:139:47:139:54)
-[FUNC ENTER] <anonymous> at (rule-engine.js:47:31:49:6), Args: ["rule-engine","topic/sensor1",{"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89}], Timestamp: 1739012193829
-[READ] Identifier: this, Value at (rule-engine.js:48:7:48:11)
-[READ] Identifier: topic, Value at (rule-engine.js:48:23:48:28)
-[READ] Identifier: message, Value at (rule-engine.js:48:30:48:37)
-[FUNC ENTER] applyRules at (rule-engine.js:52:3:67:4), Args: ["topic/sensor1",{"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89}], Timestamp: 1739012193840
-[READ] Identifier: topic, Value at (rule-engine.js:53:13:53:18)
-[LITERAL] Value: "topic/sensor1" at (rule-engine.js:54:7:57:15)
-[BINARY] topic/sensor1 === topic/sensor1 = true at (rule-engine.js:54:7:57:15)
-[CONDITIONAL] Result: true at (rule-engine.js:54:7:57:15)
-[READ] Identifier: console, Value at (rule-engine.js:55:9:55:16)
-[LITERAL] Value: "[RuleEngine] Rule1 triggered for " at (rule-engine.js:55:21:55:57)
-[READ] Identifier: topic, Value at (rule-engine.js:55:57:55:62)
-[LITERAL] Value: "" at (rule-engine.js:55:62:55:64)
-[BINARY] [RuleEngine] Rule1 triggered for  + topic/sensor1 = [RuleEngine] Rule1 triggered for topic/sensor1 at (rule-engine.js:55:21:55:64)
-[RuleEngine] Rule1 triggered for topic/sensor1
-[READ] Identifier: lambda1, Value at (rule-engine.js:56:9:56:16)
-[READ] Identifier: message, Value at (rule-engine.js:56:24:56:31)
-[ASYNC ENTER] at (Lamda1.js:2:5:17:6)
-[FUNC ENTER] handle at (Lamda1.js:2:5:17:6), Args: [{"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89}], Timestamp: 1739012193842
-[READ] Identifier: console, Value at (Lamda1.js:3:7:3:14)
-[LITERAL] Value: "[Lambda1] Processing data from Sensor1:" at (Lamda1.js:3:19:3:60)
-[READ] Identifier: data, Value at (Lamda1.js:3:62:3:66)
-[Lambda1] Processing data from Sensor1: {
-  sensorId: 'sensor-001',
-  temperature: 69.7,
-  pressure: 91.99,
-  altitude: 20.89
-}
-[READ] Identifier: data, Value at (Lamda1.js:5:11:5:15)
-[LITERAL] Value: 30 at (Lamda1.js:5:30:5:32)
-[BINARY] 69.7 > 30 = true at (Lamda1.js:5:11:5:32)
-[CONDITIONAL] Result: true at (Lamda1.js:5:11:5:32)
-[READ] Identifier: console, Value at (Lamda1.js:6:9:6:16)
-[LITERAL] Value: "[Lambda1] Temperature (" at (Lamda1.js:6:21:6:47)
-[READ] Identifier: data, Value at (Lamda1.js:6:47:6:51)
-[LITERAL] Value: "°C) exceeds threshold. Writing \"Switch ON AC\" command." at (Lamda1.js:6:63:6:119)
-[BINARY] [Lambda1] Temperature ( + 69.7 = [Lambda1] Temperature (69.7°C) exceeds threshold. Writing "Switch ON AC" command. at (Lamda1.js:6:21:6:119)
-[Lambda1] Temperature (69.7°C) exceeds threshold. Writing "Switch ON AC" command.
-[LITERAL] Value: "Switch ON AC" at (Lamda1.js:9:20:9:34)
-[LITERAL] Value: "Lambda1" at (Lamda1.js:10:24:10:33)
-[READ] Identifier: data, Value at (Lamda1.js:11:24:11:28)
-[READ] Identifier: Date, Value at (Lamda1.js:12:26:12:30)
-[LITERAL] Value: {"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":69.7,"timestamp":"2025-02-08T10:56:33.853Z"} at (Lamda1.js:8:22:13:10)
-[WRITE] Identifier: item, Value at (Lamda1.js:8:9:13:10)
-[READ] Identifier: this, Value at (Lamda1.js:15:15:15:19)
-[LITERAL] Value: "myDDB" at (Lamda1.js:15:34:15:41)
-[READ] Identifier: item, Value at (Lamda1.js:15:43:15:47)
-[ASYNC ENTER] at (Lamda1.js:19:5:27:6)
-[FUNC ENTER] putToDynamoDB at (Lamda1.js:19:5:27:6), Args: ["myDDB",{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":69.7,"timestamp":"2025-02-08T10:56:33.853Z"}], Timestamp: 1739012193855
-[READ] Identifier: console, Value at (Lamda1.js:20:7:20:14)
-[LITERAL] Value: "[DynamoDB] Lambda1 writing to table \"" at (Lamda1.js:20:19:20:59)
-[READ] Identifier: table, Value at (Lamda1.js:20:59:20:64)
-[LITERAL] Value: "\":" at (Lamda1.js:20:64:20:68)
-[BINARY] [DynamoDB] Lambda1 writing to table " + myDDB = [DynamoDB] Lambda1 writing to table "myDDB": at (Lamda1.js:20:19:20:68)
-[READ] Identifier: item, Value at (Lamda1.js:20:70:20:74)
-[DynamoDB] Lambda1 writing to table "myDDB": {
-  command: 'Switch ON AC',
-  triggeredBy: 'Lambda1',
-  temperature: 69.7,
-  timestamp: '2025-02-08T10:56:33.853Z'
-}
-[READ] Identifier: Promise, Value at (Lamda1.js:21:18:21:25)
-[LITERAL] Value: undefined at (Lamda1.js:21:26:26:8)
-[FUNC ENTER] <anonymous> at (Lamda1.js:21:26:26:8), Args: [null,null], Timestamp: 1739012193886
-[READ] Identifier: setTimeout, Value at (Lamda1.js:22:9:22:19)
-[LITERAL] Value: undefined at (Lamda1.js:22:20:25:10)
-[READ] Identifier: Math, Value at (Lamda1.js:25:12:25:16)
-[LITERAL] Value: 2000 at (Lamda1.js:25:28:25:32)
-[BINARY] 0.25476096543944093 * 2000 = 509.52193087888185 at (Lamda1.js:25:12:25:32)
-[FUNC EXIT] <anonymous> at (Lamda1.js:21:26:26:8), Return: undefined, Exception: {}, Timestamp: 1739012193888
-[RETURN] at (Lamda1.js:21:7:26:10), Value: {}
-[FUNC EXIT] putToDynamoDB at (Lamda1.js:19:5:27:6), Return: {}, Exception: {}, Timestamp: 1739012193890
-[ASYNC EXIT] at (Lamda1.js:19:5:27:6), Return: {}, Exception: {}
-[AWAIT PRE] at (Lamda1.js:15:9:15:48), Awaited Value: [object Promise]
-[FUNC EXIT] handle at (Lamda1.js:2:5:17:6), Return: undefined, Exception: {"yield":true}, Timestamp: 1739012193892
-[ASYNC EXIT] at (Lamda1.js:2:5:17:6), Return: {}, Exception: {}
-[FUNC EXIT] applyRules at (rule-engine.js:52:3:67:4), Return: undefined, Exception: {}, Timestamp: 1739012193893
-[FUNC EXIT] <anonymous> at (rule-engine.js:47:31:49:6), Return: undefined, Exception: {}, Timestamp: 1739012193893
-[FUNC EXIT] <anonymous> at (Mqtt.js:138:45:140:8), Return: undefined, Exception: {}, Timestamp: 1739012193893
-[FUNC EXIT] publish at (Mqtt.js:135:3:142:4), Return: undefined, Exception: {}, Timestamp: 1739012193894
-[FUNC EXIT] <anonymous> at (Sensor.js:92:33:99:6), Return: undefined, Exception: {}, Timestamp: 1739012193895
-[FUNC ENTER] <anonymous> at (Sensor.js:92:33:99:6), Args: [], Timestamp: 1739012194207
-[READ] Identifier: this, Value at (Sensor.js:93:20:93:24)
-[LITERAL] Value: undefined at (Sensor.js:93:43:96:8)
-[READ] Identifier: this, Value at (Sensor.js:96:22:96:26)
-[LITERAL] Value: {"sensorId":"sensor-002"} at (Sensor.js:96:10:96:37)
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-002"},"humidity",0,["humidity","light"]], Timestamp: 1739012194209
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.8806687506311098 * 100 = 88.06687506311098 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-002","humidity":88.07}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-002","humidity":88.07}, Exception: {}, Timestamp: 1739012194211
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-002","humidity":88.07},"light",1,["humidity","light"]], Timestamp: 1739012194211
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.7021250604381133 * 100 = 70.21250604381133 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-002","humidity":88.07,"light":70.21}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-002","humidity":88.07,"light":70.21}, Exception: {}, Timestamp: 1739012194212
-[WRITE] Identifier: data, Value at (Sensor.js:93:7:96:38)
-[READ] Identifier: console, Value at (Sensor.js:97:7:97:14)
-[LITERAL] Value: "data in the sensor " at (Sensor.js:97:19:97:41)
-[READ] Identifier: JSON, Value at (Sensor.js:97:41:97:45)
-[READ] Identifier: data, Value at (Sensor.js:97:56:97:60)
-[LITERAL] Value: "" at (Sensor.js:97:61:97:63)
-[BINARY] data in the sensor  + {"sensorId":"sensor-002","humidity":88.07,"light":70.21} = data in the sensor {"sensorId":"sensor-002","humidity":88.07,"light":70.21} at (Sensor.js:97:19:97:63)
-data in the sensor {"sensorId":"sensor-002","humidity":88.07,"light":70.21}
-[READ] Identifier: this, Value at (Sensor.js:98:7:98:11)
-[READ] Identifier: this, Value at (Sensor.js:98:27:98:31)
-[READ] Identifier: data, Value at (Sensor.js:98:39:98:43)
-[FUNC ENTER] publish at (Mqtt.js:135:3:142:4), Args: ["topic/sensor2",{"sensorId":"sensor-002","humidity":88.07,"light":70.21}], Timestamp: 1739012194214
-[READ] Identifier: console, Value at (Mqtt.js:136:5:136:12)
-[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:136:17:136:49)
-[READ] Identifier: topic, Value at (Mqtt.js:136:49:136:54)
-[LITERAL] Value: "\": " at (Mqtt.js:136:54:136:60)
-[READ] Identifier: JSON, Value at (Mqtt.js:136:60:136:64)
-[READ] Identifier: message, Value at (Mqtt.js:136:75:136:82)
-[LITERAL] Value: "" at (Mqtt.js:136:83:136:85)
-[BINARY] [Broker] Published to topic " + topic/sensor2 = [Broker] Published to topic "topic/sensor2": {"sensorId":"sensor-002","humidity":88.07,"light":70.21} at (Mqtt.js:136:17:136:85)
-[Broker] Published to topic "topic/sensor2": {"sensorId":"sensor-002","humidity":88.07,"light":70.21}
-[READ] Identifier: this, Value at (Mqtt.js:137:9:137:13)
-[READ] Identifier: topic, Value at (Mqtt.js:137:32:137:37)
-[CONDITIONAL] Result: true at (Mqtt.js:137:9:137:38)
-[READ] Identifier: this, Value at (Mqtt.js:138:7:138:11)
-[READ] Identifier: topic, Value at (Mqtt.js:138:30:138:35)
-[LITERAL] Value: undefined at (Mqtt.js:138:45:140:8)
-[FUNC ENTER] <anonymous> at (Mqtt.js:138:45:140:8), Args: ["rule-engine",0,["rule-engine"]], Timestamp: 1739012194217
-[READ] Identifier: this, Value at (Mqtt.js:139:9:139:13)
-[LITERAL] Value: "message" at (Mqtt.js:139:19:139:28)
-[READ] Identifier: clientId, Value at (Mqtt.js:139:30:139:38)
-[READ] Identifier: topic, Value at (Mqtt.js:139:40:139:45)
-[READ] Identifier: message, Value at (Mqtt.js:139:47:139:54)
-[FUNC ENTER] <anonymous> at (rule-engine.js:47:31:49:6), Args: ["rule-engine","topic/sensor2",{"sensorId":"sensor-002","humidity":88.07,"light":70.21}], Timestamp: 1739012194217
-[READ] Identifier: this, Value at (rule-engine.js:48:7:48:11)
-[READ] Identifier: topic, Value at (rule-engine.js:48:23:48:28)
-[READ] Identifier: message, Value at (rule-engine.js:48:30:48:37)
-[FUNC ENTER] applyRules at (rule-engine.js:52:3:67:4), Args: ["topic/sensor2",{"sensorId":"sensor-002","humidity":88.07,"light":70.21}], Timestamp: 1739012194218
-[READ] Identifier: topic, Value at (rule-engine.js:53:13:53:18)
-[LITERAL] Value: "topic/sensor1" at (rule-engine.js:54:7:57:15)
-[BINARY] topic/sensor2 === topic/sensor1 = false at (rule-engine.js:54:7:57:15)
-[CONDITIONAL] Result: false at (rule-engine.js:54:7:57:15)
-[LITERAL] Value: "topic/sensor2" at (rule-engine.js:59:7:62:15)
-[BINARY] topic/sensor2 === topic/sensor2 = true at (rule-engine.js:59:7:62:15)
-[CONDITIONAL] Result: true at (rule-engine.js:59:7:62:15)
-[READ] Identifier: console, Value at (rule-engine.js:60:9:60:16)
-[LITERAL] Value: "[RuleEngine] Rule2 triggered for " at (rule-engine.js:60:21:60:57)
-[READ] Identifier: topic, Value at (rule-engine.js:60:57:60:62)
-[LITERAL] Value: "" at (rule-engine.js:60:62:60:64)
-[BINARY] [RuleEngine] Rule2 triggered for  + topic/sensor2 = [RuleEngine] Rule2 triggered for topic/sensor2 at (rule-engine.js:60:21:60:64)
-[RuleEngine] Rule2 triggered for topic/sensor2
-[READ] Identifier: lambda2, Value at (rule-engine.js:61:9:61:16)
-[READ] Identifier: message, Value at (rule-engine.js:61:24:61:31)
-[ASYNC ENTER] at (Lamda2.js:34:3:40:4)
-[FUNC ENTER] handle at (Lamda2.js:34:3:40:4), Args: [{"sensorId":"sensor-002","humidity":88.07,"light":70.21}], Timestamp: 1739012194220
-[READ] Identifier: data, Value at (Lamda2.js:35:9:35:13)
-[LITERAL] Value: 40 at (Lamda2.js:35:25:35:27)
-[BINARY] 88.07 < 40 = false at (Lamda2.js:35:9:35:27)
-[CONDITIONAL] Result: false at (Lamda2.js:35:9:35:27)
-[FUNC EXIT] handle at (Lamda2.js:34:3:40:4), Return: undefined, Exception: {}, Timestamp: 1739012194221
-[ASYNC EXIT] at (Lamda2.js:34:3:40:4), Return: {}, Exception: {}
-[FUNC EXIT] applyRules at (rule-engine.js:52:3:67:4), Return: undefined, Exception: {}, Timestamp: 1739012194221
-[FUNC EXIT] <anonymous> at (rule-engine.js:47:31:49:6), Return: undefined, Exception: {}, Timestamp: 1739012194221
-[FUNC EXIT] <anonymous> at (Mqtt.js:138:45:140:8), Return: undefined, Exception: {}, Timestamp: 1739012194221
-[FUNC EXIT] publish at (Mqtt.js:135:3:142:4), Return: undefined, Exception: {}, Timestamp: 1739012194222
-[FUNC EXIT] <anonymous> at (Sensor.js:92:33:99:6), Return: undefined, Exception: {}, Timestamp: 1739012194222
-[FUNC ENTER] <anonymous> at (Lamda1.js:22:20:25:10), Args: [], Timestamp: 1739012194400
-[READ] Identifier: global, Value at (Lamda1.js:23:11:23:17)
-[READ] Identifier: DynamoDB, Value at (Lamda1.js:23:11:23:26)
-[READ] Identifier: table, Value at (Lamda1.js:23:31:23:36)
-[READ] Identifier: item, Value at (Lamda1.js:23:38:23:42)
-[FUNC ENTER] put at (dynamo-db.js:12:5:20:6), Args: ["myDDB",{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":69.7,"timestamp":"2025-02-08T10:56:33.853Z"}], Timestamp: 1739012194402
-[READ] Identifier: this, Value at (dynamo-db.js:13:12:13:16)
-[READ] Identifier: tableName, Value at (dynamo-db.js:13:24:13:33)
-[CONDITIONAL] Result: [{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":98.83,"timestamp":"2025-02-08T10:56:31.935Z"}] at (dynamo-db.js:13:12:13:34)
-[READ] Identifier: this, Value at (dynamo-db.js:18:7:18:11)
-[READ] Identifier: tableName, Value at (dynamo-db.js:18:19:18:28)
-[READ] Identifier: item, Value at (dynamo-db.js:18:35:18:39)
-[READ] Identifier: console, Value at (dynamo-db.js:19:7:19:14)
-[LITERAL] Value: "[DynamoDB] Table \"" at (dynamo-db.js:19:19:19:40)
-[READ] Identifier: tableName, Value at (dynamo-db.js:19:40:19:49)
-[LITERAL] Value: "\" updated:" at (dynamo-db.js:19:49:19:61)
-[BINARY] [DynamoDB] Table " + myDDB = [DynamoDB] Table "myDDB" updated: at (dynamo-db.js:19:19:19:61)
-[READ] Identifier: this, Value at (dynamo-db.js:19:63:19:67)
-[READ] Identifier: tableName, Value at (dynamo-db.js:19:75:19:84)
-[DynamoDB] Table "myDDB" updated: [
-  {
-    command: 'Switch ON AC',
-    triggeredBy: 'Lambda1',
-    temperature: 98.83,
-    timestamp: '2025-02-08T10:56:31.935Z'
-  },
-  {
-    command: 'Switch ON AC',
-    triggeredBy: 'Lambda1',
-    temperature: 69.7,
-    timestamp: '2025-02-08T10:56:33.853Z'
-  }
-]
-[FUNC EXIT] put at (dynamo-db.js:12:5:20:6), Return: undefined, Exception: {}, Timestamp: 1739012194406
-[READ] Identifier: resolve, Value at (Lamda1.js:24:11:24:18)
-[FUNC EXIT] <anonymous> at (Lamda1.js:22:20:25:10), Return: undefined, Exception: {}, Timestamp: 1739012194407
-[FUNC ENTER] handle at (Lamda1.js:2:5:17:6), Args: [{"sensorId":"sensor-001","temperature":69.7,"pressure":91.99,"altitude":20.89}], Timestamp: 1739012194409
-[AWAIT POST] at (Lamda1.js:15:9:15:48), Awaited Value: [object Promise], Result: [Non-Promise], Status: resolved
-[FUNC EXIT] handle at (Lamda1.js:2:5:17:6), Return: undefined, Exception: {}, Timestamp: 1739012194411
-[FUNC ENTER] <anonymous> at (Sensor.js:92:33:99:6), Args: [], Timestamp: 1739012195814
-[READ] Identifier: this, Value at (Sensor.js:93:20:93:24)
-[LITERAL] Value: undefined at (Sensor.js:93:43:96:8)
-[READ] Identifier: this, Value at (Sensor.js:96:22:96:26)
-[LITERAL] Value: {"sensorId":"sensor-001"} at (Sensor.js:96:10:96:37)
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001"},"temperature",0,["temperature","pressure","altitude"]], Timestamp: 1739012195816
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.3397594767672554 * 100 = 33.97594767672554 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":33.98}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":33.98}, Exception: {}, Timestamp: 1739012195817
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001","temperature":33.98},"pressure",1,["temperature","pressure","altitude"]], Timestamp: 1739012195818
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.6781090494443084 * 100 = 67.81090494443085 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":33.98,"pressure":67.81}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":33.98,"pressure":67.81}, Exception: {}, Timestamp: 1739012195819
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001","temperature":33.98,"pressure":67.81},"altitude",2,["temperature","pressure","altitude"]], Timestamp: 1739012195819
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.14551786412093537 * 100 = 14.551786412093538 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55}, Exception: {}, Timestamp: 1739012195820
-[WRITE] Identifier: data, Value at (Sensor.js:93:7:96:38)
-[READ] Identifier: console, Value at (Sensor.js:97:7:97:14)
-[LITERAL] Value: "data in the sensor " at (Sensor.js:97:19:97:41)
-[READ] Identifier: JSON, Value at (Sensor.js:97:41:97:45)
-[READ] Identifier: data, Value at (Sensor.js:97:56:97:60)
-[LITERAL] Value: "" at (Sensor.js:97:61:97:63)
-[BINARY] data in the sensor  + {"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55} = data in the sensor {"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55} at (Sensor.js:97:19:97:63)
-data in the sensor {"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55}
-[READ] Identifier: this, Value at (Sensor.js:98:7:98:11)
-[READ] Identifier: this, Value at (Sensor.js:98:27:98:31)
-[READ] Identifier: data, Value at (Sensor.js:98:39:98:43)
-[FUNC ENTER] publish at (Mqtt.js:135:3:142:4), Args: ["topic/sensor1",{"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55}], Timestamp: 1739012195822
-[READ] Identifier: console, Value at (Mqtt.js:136:5:136:12)
-[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:136:17:136:49)
-[READ] Identifier: topic, Value at (Mqtt.js:136:49:136:54)
-[LITERAL] Value: "\": " at (Mqtt.js:136:54:136:60)
-[READ] Identifier: JSON, Value at (Mqtt.js:136:60:136:64)
-[READ] Identifier: message, Value at (Mqtt.js:136:75:136:82)
-[LITERAL] Value: "" at (Mqtt.js:136:83:136:85)
-[BINARY] [Broker] Published to topic " + topic/sensor1 = [Broker] Published to topic "topic/sensor1": {"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55} at (Mqtt.js:136:17:136:85)
-[Broker] Published to topic "topic/sensor1": {"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55}
-[READ] Identifier: this, Value at (Mqtt.js:137:9:137:13)
-[READ] Identifier: topic, Value at (Mqtt.js:137:32:137:37)
-[CONDITIONAL] Result: true at (Mqtt.js:137:9:137:38)
-[READ] Identifier: this, Value at (Mqtt.js:138:7:138:11)
-[READ] Identifier: topic, Value at (Mqtt.js:138:30:138:35)
-[LITERAL] Value: undefined at (Mqtt.js:138:45:140:8)
-[FUNC ENTER] <anonymous> at (Mqtt.js:138:45:140:8), Args: ["rule-engine",0,["rule-engine"]], Timestamp: 1739012195825
-[READ] Identifier: this, Value at (Mqtt.js:139:9:139:13)
-[LITERAL] Value: "message" at (Mqtt.js:139:19:139:28)
-[READ] Identifier: clientId, Value at (Mqtt.js:139:30:139:38)
-[READ] Identifier: topic, Value at (Mqtt.js:139:40:139:45)
-[READ] Identifier: message, Value at (Mqtt.js:139:47:139:54)
-[FUNC ENTER] <anonymous> at (rule-engine.js:47:31:49:6), Args: ["rule-engine","topic/sensor1",{"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55}], Timestamp: 1739012195825
-[READ] Identifier: this, Value at (rule-engine.js:48:7:48:11)
-[READ] Identifier: topic, Value at (rule-engine.js:48:23:48:28)
-[READ] Identifier: message, Value at (rule-engine.js:48:30:48:37)
-[FUNC ENTER] applyRules at (rule-engine.js:52:3:67:4), Args: ["topic/sensor1",{"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55}], Timestamp: 1739012195826
-[READ] Identifier: topic, Value at (rule-engine.js:53:13:53:18)
-[LITERAL] Value: "topic/sensor1" at (rule-engine.js:54:7:57:15)
-[BINARY] topic/sensor1 === topic/sensor1 = true at (rule-engine.js:54:7:57:15)
-[CONDITIONAL] Result: true at (rule-engine.js:54:7:57:15)
-[READ] Identifier: console, Value at (rule-engine.js:55:9:55:16)
-[LITERAL] Value: "[RuleEngine] Rule1 triggered for " at (rule-engine.js:55:21:55:57)
-[READ] Identifier: topic, Value at (rule-engine.js:55:57:55:62)
-[LITERAL] Value: "" at (rule-engine.js:55:62:55:64)
-[BINARY] [RuleEngine] Rule1 triggered for  + topic/sensor1 = [RuleEngine] Rule1 triggered for topic/sensor1 at (rule-engine.js:55:21:55:64)
-[RuleEngine] Rule1 triggered for topic/sensor1
-[READ] Identifier: lambda1, Value at (rule-engine.js:56:9:56:16)
-[READ] Identifier: message, Value at (rule-engine.js:56:24:56:31)
-[ASYNC ENTER] at (Lamda1.js:2:5:17:6)
-[FUNC ENTER] handle at (Lamda1.js:2:5:17:6), Args: [{"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55}], Timestamp: 1739012195830
-[READ] Identifier: console, Value at (Lamda1.js:3:7:3:14)
-[LITERAL] Value: "[Lambda1] Processing data from Sensor1:" at (Lamda1.js:3:19:3:60)
-[READ] Identifier: data, Value at (Lamda1.js:3:62:3:66)
-[Lambda1] Processing data from Sensor1: {
-  sensorId: 'sensor-001',
-  temperature: 33.98,
-  pressure: 67.81,
-  altitude: 14.55
-}
-[READ] Identifier: data, Value at (Lamda1.js:5:11:5:15)
-[LITERAL] Value: 30 at (Lamda1.js:5:30:5:32)
-[BINARY] 33.98 > 30 = true at (Lamda1.js:5:11:5:32)
-[CONDITIONAL] Result: true at (Lamda1.js:5:11:5:32)
-[READ] Identifier: console, Value at (Lamda1.js:6:9:6:16)
-[LITERAL] Value: "[Lambda1] Temperature (" at (Lamda1.js:6:21:6:47)
-[READ] Identifier: data, Value at (Lamda1.js:6:47:6:51)
-[LITERAL] Value: "°C) exceeds threshold. Writing \"Switch ON AC\" command." at (Lamda1.js:6:63:6:119)
-[BINARY] [Lambda1] Temperature ( + 33.98 = [Lambda1] Temperature (33.98°C) exceeds threshold. Writing "Switch ON AC" command. at (Lamda1.js:6:21:6:119)
-[Lambda1] Temperature (33.98°C) exceeds threshold. Writing "Switch ON AC" command.
-[LITERAL] Value: "Switch ON AC" at (Lamda1.js:9:20:9:34)
-[LITERAL] Value: "Lambda1" at (Lamda1.js:10:24:10:33)
-[READ] Identifier: data, Value at (Lamda1.js:11:24:11:28)
-[READ] Identifier: Date, Value at (Lamda1.js:12:26:12:30)
-[LITERAL] Value: {"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":33.98,"timestamp":"2025-02-08T10:56:35.838Z"} at (Lamda1.js:8:22:13:10)
-[WRITE] Identifier: item, Value at (Lamda1.js:8:9:13:10)
-[READ] Identifier: this, Value at (Lamda1.js:15:15:15:19)
-[LITERAL] Value: "myDDB" at (Lamda1.js:15:34:15:41)
-[READ] Identifier: item, Value at (Lamda1.js:15:43:15:47)
-[ASYNC ENTER] at (Lamda1.js:19:5:27:6)
-[FUNC ENTER] putToDynamoDB at (Lamda1.js:19:5:27:6), Args: ["myDDB",{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":33.98,"timestamp":"2025-02-08T10:56:35.838Z"}], Timestamp: 1739012195840
-[READ] Identifier: console, Value at (Lamda1.js:20:7:20:14)
-[LITERAL] Value: "[DynamoDB] Lambda1 writing to table \"" at (Lamda1.js:20:19:20:59)
-[READ] Identifier: table, Value at (Lamda1.js:20:59:20:64)
-[LITERAL] Value: "\":" at (Lamda1.js:20:64:20:68)
-[BINARY] [DynamoDB] Lambda1 writing to table " + myDDB = [DynamoDB] Lambda1 writing to table "myDDB": at (Lamda1.js:20:19:20:68)
-[READ] Identifier: item, Value at (Lamda1.js:20:70:20:74)
-[DynamoDB] Lambda1 writing to table "myDDB": {
-  command: 'Switch ON AC',
-  triggeredBy: 'Lambda1',
-  temperature: 33.98,
-  timestamp: '2025-02-08T10:56:35.838Z'
-}
-[READ] Identifier: Promise, Value at (Lamda1.js:21:18:21:25)
-[LITERAL] Value: undefined at (Lamda1.js:21:26:26:8)
-[FUNC ENTER] <anonymous> at (Lamda1.js:21:26:26:8), Args: [null,null], Timestamp: 1739012195845
-[READ] Identifier: setTimeout, Value at (Lamda1.js:22:9:22:19)
-[LITERAL] Value: undefined at (Lamda1.js:22:20:25:10)
-[READ] Identifier: Math, Value at (Lamda1.js:25:12:25:16)
-[LITERAL] Value: 2000 at (Lamda1.js:25:28:25:32)
-[BINARY] 0.14304518773856623 * 2000 = 286.09037547713245 at (Lamda1.js:25:12:25:32)
-[FUNC EXIT] <anonymous> at (Lamda1.js:21:26:26:8), Return: undefined, Exception: {}, Timestamp: 1739012195847
-[RETURN] at (Lamda1.js:21:7:26:10), Value: {}
-[FUNC EXIT] putToDynamoDB at (Lamda1.js:19:5:27:6), Return: {}, Exception: {}, Timestamp: 1739012195848
-[ASYNC EXIT] at (Lamda1.js:19:5:27:6), Return: {}, Exception: {}
-[AWAIT PRE] at (Lamda1.js:15:9:15:48), Awaited Value: [object Promise]
-[FUNC EXIT] handle at (Lamda1.js:2:5:17:6), Return: undefined, Exception: {"yield":true}, Timestamp: 1739012195850
-[ASYNC EXIT] at (Lamda1.js:2:5:17:6), Return: {}, Exception: {}
-[FUNC EXIT] applyRules at (rule-engine.js:52:3:67:4), Return: undefined, Exception: {}, Timestamp: 1739012195851
-[FUNC EXIT] <anonymous> at (rule-engine.js:47:31:49:6), Return: undefined, Exception: {}, Timestamp: 1739012195851
-[FUNC EXIT] <anonymous> at (Mqtt.js:138:45:140:8), Return: undefined, Exception: {}, Timestamp: 1739012195851
-[FUNC EXIT] publish at (Mqtt.js:135:3:142:4), Return: undefined, Exception: {}, Timestamp: 1739012195852
-[FUNC EXIT] <anonymous> at (Sensor.js:92:33:99:6), Return: undefined, Exception: {}, Timestamp: 1739012195852
-[FUNC ENTER] <anonymous> at (Lamda1.js:22:20:25:10), Args: [], Timestamp: 1739012196155
-[READ] Identifier: global, Value at (Lamda1.js:23:11:23:17)
-[READ] Identifier: DynamoDB, Value at (Lamda1.js:23:11:23:26)
-[READ] Identifier: table, Value at (Lamda1.js:23:31:23:36)
-[READ] Identifier: item, Value at (Lamda1.js:23:38:23:42)
-[FUNC ENTER] put at (dynamo-db.js:12:5:20:6), Args: ["myDDB",{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":33.98,"timestamp":"2025-02-08T10:56:35.838Z"}], Timestamp: 1739012196157
-[READ] Identifier: this, Value at (dynamo-db.js:13:12:13:16)
-[READ] Identifier: tableName, Value at (dynamo-db.js:13:24:13:33)
-[CONDITIONAL] Result: [{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":98.83,"timestamp":"2025-02-08T10:56:31.935Z"},{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":69.7,"timestamp":"2025-02-08T10:56:33.853Z"}] at (dynamo-db.js:13:12:13:34)
-[READ] Identifier: this, Value at (dynamo-db.js:18:7:18:11)
-[READ] Identifier: tableName, Value at (dynamo-db.js:18:19:18:28)
-[READ] Identifier: item, Value at (dynamo-db.js:18:35:18:39)
-[READ] Identifier: console, Value at (dynamo-db.js:19:7:19:14)
-[LITERAL] Value: "[DynamoDB] Table \"" at (dynamo-db.js:19:19:19:40)
-[READ] Identifier: tableName, Value at (dynamo-db.js:19:40:19:49)
-[LITERAL] Value: "\" updated:" at (dynamo-db.js:19:49:19:61)
-[BINARY] [DynamoDB] Table " + myDDB = [DynamoDB] Table "myDDB" updated: at (dynamo-db.js:19:19:19:61)
-[READ] Identifier: this, Value at (dynamo-db.js:19:63:19:67)
-[READ] Identifier: tableName, Value at (dynamo-db.js:19:75:19:84)
-[DynamoDB] Table "myDDB" updated: [
-  {
-    command: 'Switch ON AC',
-    triggeredBy: 'Lambda1',
-    temperature: 98.83,
-    timestamp: '2025-02-08T10:56:31.935Z'
-  },
-  {
-    command: 'Switch ON AC',
-    triggeredBy: 'Lambda1',
-    temperature: 69.7,
-    timestamp: '2025-02-08T10:56:33.853Z'
-  },
-  {
-    command: 'Switch ON AC',
-    triggeredBy: 'Lambda1',
-    temperature: 33.98,
-    timestamp: '2025-02-08T10:56:35.838Z'
-  }
-]
-[FUNC EXIT] put at (dynamo-db.js:12:5:20:6), Return: undefined, Exception: {}, Timestamp: 1739012196161
-[READ] Identifier: resolve, Value at (Lamda1.js:24:11:24:18)
-[FUNC EXIT] <anonymous> at (Lamda1.js:22:20:25:10), Return: undefined, Exception: {}, Timestamp: 1739012196162
-[FUNC ENTER] handle at (Lamda1.js:2:5:17:6), Args: [{"sensorId":"sensor-001","temperature":33.98,"pressure":67.81,"altitude":14.55}], Timestamp: 1739012196164
-[AWAIT POST] at (Lamda1.js:15:9:15:48), Awaited Value: [object Promise], Result: [Non-Promise], Status: resolved
-[FUNC EXIT] handle at (Lamda1.js:2:5:17:6), Return: undefined, Exception: {}, Timestamp: 1739012196166
-[FUNC ENTER] <anonymous> at (Sensor.js:92:33:99:6), Args: [], Timestamp: 1739012196211
-[READ] Identifier: this, Value at (Sensor.js:93:20:93:24)
-[LITERAL] Value: undefined at (Sensor.js:93:43:96:8)
-[READ] Identifier: this, Value at (Sensor.js:96:22:96:26)
-[LITERAL] Value: {"sensorId":"sensor-002"} at (Sensor.js:96:10:96:37)
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-002"},"humidity",0,["humidity","light"]], Timestamp: 1739012196213
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.824821360807048 * 100 = 82.4821360807048 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-002","humidity":82.48}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-002","humidity":82.48}, Exception: {}, Timestamp: 1739012196214
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-002","humidity":82.48},"light",1,["humidity","light"]], Timestamp: 1739012196215
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.4158475799821223 * 100 = 41.58475799821223 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-002","humidity":82.48,"light":41.58}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-002","humidity":82.48,"light":41.58}, Exception: {}, Timestamp: 1739012196216
-[WRITE] Identifier: data, Value at (Sensor.js:93:7:96:38)
-[READ] Identifier: console, Value at (Sensor.js:97:7:97:14)
-[LITERAL] Value: "data in the sensor " at (Sensor.js:97:19:97:41)
-[READ] Identifier: JSON, Value at (Sensor.js:97:41:97:45)
-[READ] Identifier: data, Value at (Sensor.js:97:56:97:60)
-[LITERAL] Value: "" at (Sensor.js:97:61:97:63)
-[BINARY] data in the sensor  + {"sensorId":"sensor-002","humidity":82.48,"light":41.58} = data in the sensor {"sensorId":"sensor-002","humidity":82.48,"light":41.58} at (Sensor.js:97:19:97:63)
-data in the sensor {"sensorId":"sensor-002","humidity":82.48,"light":41.58}
-[READ] Identifier: this, Value at (Sensor.js:98:7:98:11)
-[READ] Identifier: this, Value at (Sensor.js:98:27:98:31)
-[READ] Identifier: data, Value at (Sensor.js:98:39:98:43)
-[FUNC ENTER] publish at (Mqtt.js:135:3:142:4), Args: ["topic/sensor2",{"sensorId":"sensor-002","humidity":82.48,"light":41.58}], Timestamp: 1739012196217
-[READ] Identifier: console, Value at (Mqtt.js:136:5:136:12)
-[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:136:17:136:49)
-[READ] Identifier: topic, Value at (Mqtt.js:136:49:136:54)
-[LITERAL] Value: "\": " at (Mqtt.js:136:54:136:60)
-[READ] Identifier: JSON, Value at (Mqtt.js:136:60:136:64)
-[READ] Identifier: message, Value at (Mqtt.js:136:75:136:82)
-[LITERAL] Value: "" at (Mqtt.js:136:83:136:85)
-[BINARY] [Broker] Published to topic " + topic/sensor2 = [Broker] Published to topic "topic/sensor2": {"sensorId":"sensor-002","humidity":82.48,"light":41.58} at (Mqtt.js:136:17:136:85)
-[Broker] Published to topic "topic/sensor2": {"sensorId":"sensor-002","humidity":82.48,"light":41.58}
-[READ] Identifier: this, Value at (Mqtt.js:137:9:137:13)
-[READ] Identifier: topic, Value at (Mqtt.js:137:32:137:37)
-[CONDITIONAL] Result: true at (Mqtt.js:137:9:137:38)
-[READ] Identifier: this, Value at (Mqtt.js:138:7:138:11)
-[READ] Identifier: topic, Value at (Mqtt.js:138:30:138:35)
-[LITERAL] Value: undefined at (Mqtt.js:138:45:140:8)
-[FUNC ENTER] <anonymous> at (Mqtt.js:138:45:140:8), Args: ["rule-engine",0,["rule-engine"]], Timestamp: 1739012196221
-[READ] Identifier: this, Value at (Mqtt.js:139:9:139:13)
-[LITERAL] Value: "message" at (Mqtt.js:139:19:139:28)
-[READ] Identifier: clientId, Value at (Mqtt.js:139:30:139:38)
-[READ] Identifier: topic, Value at (Mqtt.js:139:40:139:45)
-[READ] Identifier: message, Value at (Mqtt.js:139:47:139:54)
-[FUNC ENTER] <anonymous> at (rule-engine.js:47:31:49:6), Args: ["rule-engine","topic/sensor2",{"sensorId":"sensor-002","humidity":82.48,"light":41.58}], Timestamp: 1739012196222
-[READ] Identifier: this, Value at (rule-engine.js:48:7:48:11)
-[READ] Identifier: topic, Value at (rule-engine.js:48:23:48:28)
-[READ] Identifier: message, Value at (rule-engine.js:48:30:48:37)
-[FUNC ENTER] applyRules at (rule-engine.js:52:3:67:4), Args: ["topic/sensor2",{"sensorId":"sensor-002","humidity":82.48,"light":41.58}], Timestamp: 1739012196222
-[READ] Identifier: topic, Value at (rule-engine.js:53:13:53:18)
-[LITERAL] Value: "topic/sensor1" at (rule-engine.js:54:7:57:15)
-[BINARY] topic/sensor2 === topic/sensor1 = false at (rule-engine.js:54:7:57:15)
-[CONDITIONAL] Result: false at (rule-engine.js:54:7:57:15)
-[LITERAL] Value: "topic/sensor2" at (rule-engine.js:59:7:62:15)
-[BINARY] topic/sensor2 === topic/sensor2 = true at (rule-engine.js:59:7:62:15)
-[CONDITIONAL] Result: true at (rule-engine.js:59:7:62:15)
-[READ] Identifier: console, Value at (rule-engine.js:60:9:60:16)
-[LITERAL] Value: "[RuleEngine] Rule2 triggered for " at (rule-engine.js:60:21:60:57)
-[READ] Identifier: topic, Value at (rule-engine.js:60:57:60:62)
-[LITERAL] Value: "" at (rule-engine.js:60:62:60:64)
-[BINARY] [RuleEngine] Rule2 triggered for  + topic/sensor2 = [RuleEngine] Rule2 triggered for topic/sensor2 at (rule-engine.js:60:21:60:64)
-[RuleEngine] Rule2 triggered for topic/sensor2
-[READ] Identifier: lambda2, Value at (rule-engine.js:61:9:61:16)
-[READ] Identifier: message, Value at (rule-engine.js:61:24:61:31)
-[ASYNC ENTER] at (Lamda2.js:34:3:40:4)
-[FUNC ENTER] handle at (Lamda2.js:34:3:40:4), Args: [{"sensorId":"sensor-002","humidity":82.48,"light":41.58}], Timestamp: 1739012196226
-[READ] Identifier: data, Value at (Lamda2.js:35:9:35:13)
-[LITERAL] Value: 40 at (Lamda2.js:35:25:35:27)
-[BINARY] 82.48 < 40 = false at (Lamda2.js:35:9:35:27)
-[CONDITIONAL] Result: false at (Lamda2.js:35:9:35:27)
-[FUNC EXIT] handle at (Lamda2.js:34:3:40:4), Return: undefined, Exception: {}, Timestamp: 1739012196227
-[ASYNC EXIT] at (Lamda2.js:34:3:40:4), Return: {}, Exception: {}
-[FUNC EXIT] applyRules at (rule-engine.js:52:3:67:4), Return: undefined, Exception: {}, Timestamp: 1739012196227
-[FUNC EXIT] <anonymous> at (rule-engine.js:47:31:49:6), Return: undefined, Exception: {}, Timestamp: 1739012196227
-[FUNC EXIT] <anonymous> at (Mqtt.js:138:45:140:8), Return: undefined, Exception: {}, Timestamp: 1739012196228
-[FUNC EXIT] publish at (Mqtt.js:135:3:142:4), Return: undefined, Exception: {}, Timestamp: 1739012196228
-[FUNC EXIT] <anonymous> at (Sensor.js:92:33:99:6), Return: undefined, Exception: {}, Timestamp: 1739012196228
-[FUNC ENTER] <anonymous> at (Sensor.js:92:33:99:6), Args: [], Timestamp: 1739012197825
-[READ] Identifier: this, Value at (Sensor.js:93:20:93:24)
-[LITERAL] Value: undefined at (Sensor.js:93:43:96:8)
-[READ] Identifier: this, Value at (Sensor.js:96:22:96:26)
-[LITERAL] Value: {"sensorId":"sensor-001"} at (Sensor.js:96:10:96:37)
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001"},"temperature",0,["temperature","pressure","altitude"]], Timestamp: 1739012197828
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.7499563312723241 * 100 = 74.99563312723241 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":75}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":75}, Exception: {}, Timestamp: 1739012197850
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001","temperature":75},"pressure",1,["temperature","pressure","altitude"]], Timestamp: 1739012197850
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.9996623763109497 * 100 = 99.96623763109497 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":75,"pressure":99.97}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":75,"pressure":99.97}, Exception: {}, Timestamp: 1739012197852
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-001","temperature":75,"pressure":99.97},"altitude",2,["temperature","pressure","altitude"]], Timestamp: 1739012197852
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.7027613386535597 * 100 = 70.27613386535597 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28}, Exception: {}, Timestamp: 1739012197853
-[WRITE] Identifier: data, Value at (Sensor.js:93:7:96:38)
-[READ] Identifier: console, Value at (Sensor.js:97:7:97:14)
-[LITERAL] Value: "data in the sensor " at (Sensor.js:97:19:97:41)
-[READ] Identifier: JSON, Value at (Sensor.js:97:41:97:45)
-[READ] Identifier: data, Value at (Sensor.js:97:56:97:60)
-[LITERAL] Value: "" at (Sensor.js:97:61:97:63)
-[BINARY] data in the sensor  + {"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28} = data in the sensor {"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28} at (Sensor.js:97:19:97:63)
-data in the sensor {"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28}
-[READ] Identifier: this, Value at (Sensor.js:98:7:98:11)
-[READ] Identifier: this, Value at (Sensor.js:98:27:98:31)
-[READ] Identifier: data, Value at (Sensor.js:98:39:98:43)
-[FUNC ENTER] publish at (Mqtt.js:135:3:142:4), Args: ["topic/sensor1",{"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28}], Timestamp: 1739012197853
-[READ] Identifier: console, Value at (Mqtt.js:136:5:136:12)
-[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:136:17:136:49)
-[READ] Identifier: topic, Value at (Mqtt.js:136:49:136:54)
-[LITERAL] Value: "\": " at (Mqtt.js:136:54:136:60)
-[READ] Identifier: JSON, Value at (Mqtt.js:136:60:136:64)
-[READ] Identifier: message, Value at (Mqtt.js:136:75:136:82)
-[LITERAL] Value: "" at (Mqtt.js:136:83:136:85)
-[BINARY] [Broker] Published to topic " + topic/sensor1 = [Broker] Published to topic "topic/sensor1": {"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28} at (Mqtt.js:136:17:136:85)
-[Broker] Published to topic "topic/sensor1": {"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28}
-[READ] Identifier: this, Value at (Mqtt.js:137:9:137:13)
-[READ] Identifier: topic, Value at (Mqtt.js:137:32:137:37)
-[CONDITIONAL] Result: true at (Mqtt.js:137:9:137:38)
-[READ] Identifier: this, Value at (Mqtt.js:138:7:138:11)
-[READ] Identifier: topic, Value at (Mqtt.js:138:30:138:35)
-[LITERAL] Value: undefined at (Mqtt.js:138:45:140:8)
-[FUNC ENTER] <anonymous> at (Mqtt.js:138:45:140:8), Args: ["rule-engine",0,["rule-engine"]], Timestamp: 1739012197854
-[READ] Identifier: this, Value at (Mqtt.js:139:9:139:13)
-[LITERAL] Value: "message" at (Mqtt.js:139:19:139:28)
-[READ] Identifier: clientId, Value at (Mqtt.js:139:30:139:38)
-[READ] Identifier: topic, Value at (Mqtt.js:139:40:139:45)
-[READ] Identifier: message, Value at (Mqtt.js:139:47:139:54)
-[FUNC ENTER] <anonymous> at (rule-engine.js:47:31:49:6), Args: ["rule-engine","topic/sensor1",{"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28}], Timestamp: 1739012197854
-[READ] Identifier: this, Value at (rule-engine.js:48:7:48:11)
-[READ] Identifier: topic, Value at (rule-engine.js:48:23:48:28)
-[READ] Identifier: message, Value at (rule-engine.js:48:30:48:37)
-[FUNC ENTER] applyRules at (rule-engine.js:52:3:67:4), Args: ["topic/sensor1",{"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28}], Timestamp: 1739012197855
-[READ] Identifier: topic, Value at (rule-engine.js:53:13:53:18)
-[LITERAL] Value: "topic/sensor1" at (rule-engine.js:54:7:57:15)
-[BINARY] topic/sensor1 === topic/sensor1 = true at (rule-engine.js:54:7:57:15)
-[CONDITIONAL] Result: true at (rule-engine.js:54:7:57:15)
-[READ] Identifier: console, Value at (rule-engine.js:55:9:55:16)
-[LITERAL] Value: "[RuleEngine] Rule1 triggered for " at (rule-engine.js:55:21:55:57)
-[READ] Identifier: topic, Value at (rule-engine.js:55:57:55:62)
-[LITERAL] Value: "" at (rule-engine.js:55:62:55:64)
-[BINARY] [RuleEngine] Rule1 triggered for  + topic/sensor1 = [RuleEngine] Rule1 triggered for topic/sensor1 at (rule-engine.js:55:21:55:64)
-[RuleEngine] Rule1 triggered for topic/sensor1
-[READ] Identifier: lambda1, Value at (rule-engine.js:56:9:56:16)
-[READ] Identifier: message, Value at (rule-engine.js:56:24:56:31)
-[ASYNC ENTER] at (Lamda1.js:2:5:17:6)
-[FUNC ENTER] handle at (Lamda1.js:2:5:17:6), Args: [{"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28}], Timestamp: 1739012197856
-[READ] Identifier: console, Value at (Lamda1.js:3:7:3:14)
-[LITERAL] Value: "[Lambda1] Processing data from Sensor1:" at (Lamda1.js:3:19:3:60)
-[READ] Identifier: data, Value at (Lamda1.js:3:62:3:66)
-[Lambda1] Processing data from Sensor1: {
-  sensorId: 'sensor-001',
-  temperature: 75,
-  pressure: 99.97,
-  altitude: 70.28
-}
-[READ] Identifier: data, Value at (Lamda1.js:5:11:5:15)
-[LITERAL] Value: 30 at (Lamda1.js:5:30:5:32)
-[BINARY] 75 > 30 = true at (Lamda1.js:5:11:5:32)
-[CONDITIONAL] Result: true at (Lamda1.js:5:11:5:32)
-[READ] Identifier: console, Value at (Lamda1.js:6:9:6:16)
-[LITERAL] Value: "[Lambda1] Temperature (" at (Lamda1.js:6:21:6:47)
-[READ] Identifier: data, Value at (Lamda1.js:6:47:6:51)
-[LITERAL] Value: "°C) exceeds threshold. Writing \"Switch ON AC\" command." at (Lamda1.js:6:63:6:119)
-[BINARY] [Lambda1] Temperature ( + 75 = [Lambda1] Temperature (75°C) exceeds threshold. Writing "Switch ON AC" command. at (Lamda1.js:6:21:6:119)
-[Lambda1] Temperature (75°C) exceeds threshold. Writing "Switch ON AC" command.
-[LITERAL] Value: "Switch ON AC" at (Lamda1.js:9:20:9:34)
-[LITERAL] Value: "Lambda1" at (Lamda1.js:10:24:10:33)
-[READ] Identifier: data, Value at (Lamda1.js:11:24:11:28)
-[READ] Identifier: Date, Value at (Lamda1.js:12:26:12:30)
-[LITERAL] Value: {"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":75,"timestamp":"2025-02-08T10:56:37.860Z"} at (Lamda1.js:8:22:13:10)
-[WRITE] Identifier: item, Value at (Lamda1.js:8:9:13:10)
-[READ] Identifier: this, Value at (Lamda1.js:15:15:15:19)
-[LITERAL] Value: "myDDB" at (Lamda1.js:15:34:15:41)
-[READ] Identifier: item, Value at (Lamda1.js:15:43:15:47)
-[ASYNC ENTER] at (Lamda1.js:19:5:27:6)
-[FUNC ENTER] putToDynamoDB at (Lamda1.js:19:5:27:6), Args: ["myDDB",{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":75,"timestamp":"2025-02-08T10:56:37.860Z"}], Timestamp: 1739012197860
-[READ] Identifier: console, Value at (Lamda1.js:20:7:20:14)
-[LITERAL] Value: "[DynamoDB] Lambda1 writing to table \"" at (Lamda1.js:20:19:20:59)
-[READ] Identifier: table, Value at (Lamda1.js:20:59:20:64)
-[LITERAL] Value: "\":" at (Lamda1.js:20:64:20:68)
-[BINARY] [DynamoDB] Lambda1 writing to table " + myDDB = [DynamoDB] Lambda1 writing to table "myDDB": at (Lamda1.js:20:19:20:68)
-[READ] Identifier: item, Value at (Lamda1.js:20:70:20:74)
-[DynamoDB] Lambda1 writing to table "myDDB": {
-  command: 'Switch ON AC',
-  triggeredBy: 'Lambda1',
-  temperature: 75,
-  timestamp: '2025-02-08T10:56:37.860Z'
-}
-[READ] Identifier: Promise, Value at (Lamda1.js:21:18:21:25)
-[LITERAL] Value: undefined at (Lamda1.js:21:26:26:8)
-[FUNC ENTER] <anonymous> at (Lamda1.js:21:26:26:8), Args: [null,null], Timestamp: 1739012197863
-[READ] Identifier: setTimeout, Value at (Lamda1.js:22:9:22:19)
-[LITERAL] Value: undefined at (Lamda1.js:22:20:25:10)
-[READ] Identifier: Math, Value at (Lamda1.js:25:12:25:16)
-[LITERAL] Value: 2000 at (Lamda1.js:25:28:25:32)
-[BINARY] 0.3221981886798887 * 2000 = 644.3963773597774 at (Lamda1.js:25:12:25:32)
-[FUNC EXIT] <anonymous> at (Lamda1.js:21:26:26:8), Return: undefined, Exception: {}, Timestamp: 1739012197865
-[RETURN] at (Lamda1.js:21:7:26:10), Value: {}
-[FUNC EXIT] putToDynamoDB at (Lamda1.js:19:5:27:6), Return: {}, Exception: {}, Timestamp: 1739012197865
-[ASYNC EXIT] at (Lamda1.js:19:5:27:6), Return: {}, Exception: {}
-[AWAIT PRE] at (Lamda1.js:15:9:15:48), Awaited Value: [object Promise]
-[FUNC EXIT] handle at (Lamda1.js:2:5:17:6), Return: undefined, Exception: {"yield":true}, Timestamp: 1739012197866
-[ASYNC EXIT] at (Lamda1.js:2:5:17:6), Return: {}, Exception: {}
-[FUNC EXIT] applyRules at (rule-engine.js:52:3:67:4), Return: undefined, Exception: {}, Timestamp: 1739012197867
-[FUNC EXIT] <anonymous> at (rule-engine.js:47:31:49:6), Return: undefined, Exception: {}, Timestamp: 1739012197867
-[FUNC EXIT] <anonymous> at (Mqtt.js:138:45:140:8), Return: undefined, Exception: {}, Timestamp: 1739012197867
-[FUNC EXIT] publish at (Mqtt.js:135:3:142:4), Return: undefined, Exception: {}, Timestamp: 1739012197867
-[FUNC EXIT] <anonymous> at (Sensor.js:92:33:99:6), Return: undefined, Exception: {}, Timestamp: 1739012197867
-[FUNC ENTER] <anonymous> at (Sensor.js:92:33:99:6), Args: [], Timestamp: 1739012198246
-[READ] Identifier: this, Value at (Sensor.js:93:20:93:24)
-[LITERAL] Value: undefined at (Sensor.js:93:43:96:8)
-[READ] Identifier: this, Value at (Sensor.js:96:22:96:26)
-[LITERAL] Value: {"sensorId":"sensor-002"} at (Sensor.js:96:10:96:37)
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-002"},"humidity",0,["humidity","light"]], Timestamp: 1739012198247
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.657256014009945 * 100 = 65.7256014009945 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-002","humidity":65.73}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-002","humidity":65.73}, Exception: {}, Timestamp: 1739012198248
-[FUNC ENTER] <anonymous> at (Sensor.js:93:43:96:8), Args: [{"sensorId":"sensor-002","humidity":65.73},"light",1,["humidity","light"]], Timestamp: 1739012198248
-[READ] Identifier: acc, Value at (Sensor.js:94:9:94:12)
-[READ] Identifier: attr, Value at (Sensor.js:94:13:94:17)
-[READ] Identifier: parseFloat, Value at (Sensor.js:94:21:94:31)
-[READ] Identifier: Math, Value at (Sensor.js:94:33:94:37)
-[LITERAL] Value: 100 at (Sensor.js:94:49:94:52)
-[BINARY] 0.47067402667782277 * 100 = 47.067402667782275 at (Sensor.js:94:32:94:53)
-[LITERAL] Value: 2 at (Sensor.js:94:62:94:63)
-[READ] Identifier: acc, Value at (Sensor.js:95:16:95:19)
-[RETURN] at (Sensor.js:95:9:95:20), Value: {"sensorId":"sensor-002","humidity":65.73,"light":47.07}
-[FUNC EXIT] <anonymous> at (Sensor.js:93:43:96:8), Return: {"sensorId":"sensor-002","humidity":65.73,"light":47.07}, Exception: {}, Timestamp: 1739012198249
-[WRITE] Identifier: data, Value at (Sensor.js:93:7:96:38)
-[READ] Identifier: console, Value at (Sensor.js:97:7:97:14)
-[LITERAL] Value: "data in the sensor " at (Sensor.js:97:19:97:41)
-[READ] Identifier: JSON, Value at (Sensor.js:97:41:97:45)
-[READ] Identifier: data, Value at (Sensor.js:97:56:97:60)
-[LITERAL] Value: "" at (Sensor.js:97:61:97:63)
-[BINARY] data in the sensor  + {"sensorId":"sensor-002","humidity":65.73,"light":47.07} = data in the sensor {"sensorId":"sensor-002","humidity":65.73,"light":47.07} at (Sensor.js:97:19:97:63)
-data in the sensor {"sensorId":"sensor-002","humidity":65.73,"light":47.07}
-[READ] Identifier: this, Value at (Sensor.js:98:7:98:11)
-[READ] Identifier: this, Value at (Sensor.js:98:27:98:31)
-[READ] Identifier: data, Value at (Sensor.js:98:39:98:43)
-[FUNC ENTER] publish at (Mqtt.js:135:3:142:4), Args: ["topic/sensor2",{"sensorId":"sensor-002","humidity":65.73,"light":47.07}], Timestamp: 1739012198249
-[READ] Identifier: console, Value at (Mqtt.js:136:5:136:12)
-[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:136:17:136:49)
-[READ] Identifier: topic, Value at (Mqtt.js:136:49:136:54)
-[LITERAL] Value: "\": " at (Mqtt.js:136:54:136:60)
-[READ] Identifier: JSON, Value at (Mqtt.js:136:60:136:64)
-[READ] Identifier: message, Value at (Mqtt.js:136:75:136:82)
-[LITERAL] Value: "" at (Mqtt.js:136:83:136:85)
-[BINARY] [Broker] Published to topic " + topic/sensor2 = [Broker] Published to topic "topic/sensor2": {"sensorId":"sensor-002","humidity":65.73,"light":47.07} at (Mqtt.js:136:17:136:85)
-[Broker] Published to topic "topic/sensor2": {"sensorId":"sensor-002","humidity":65.73,"light":47.07}
-[READ] Identifier: this, Value at (Mqtt.js:137:9:137:13)
-[READ] Identifier: topic, Value at (Mqtt.js:137:32:137:37)
-[CONDITIONAL] Result: true at (Mqtt.js:137:9:137:38)
-[READ] Identifier: this, Value at (Mqtt.js:138:7:138:11)
-[READ] Identifier: topic, Value at (Mqtt.js:138:30:138:35)
-[LITERAL] Value: undefined at (Mqtt.js:138:45:140:8)
-[FUNC ENTER] <anonymous> at (Mqtt.js:138:45:140:8), Args: ["rule-engine",0,["rule-engine"]], Timestamp: 1739012198250
-[READ] Identifier: this, Value at (Mqtt.js:139:9:139:13)
-[LITERAL] Value: "message" at (Mqtt.js:139:19:139:28)
-[READ] Identifier: clientId, Value at (Mqtt.js:139:30:139:38)
-[READ] Identifier: topic, Value at (Mqtt.js:139:40:139:45)
-[READ] Identifier: message, Value at (Mqtt.js:139:47:139:54)
-[FUNC ENTER] <anonymous> at (rule-engine.js:47:31:49:6), Args: ["rule-engine","topic/sensor2",{"sensorId":"sensor-002","humidity":65.73,"light":47.07}], Timestamp: 1739012198250
-[READ] Identifier: this, Value at (rule-engine.js:48:7:48:11)
-[READ] Identifier: topic, Value at (rule-engine.js:48:23:48:28)
-[READ] Identifier: message, Value at (rule-engine.js:48:30:48:37)
-[FUNC ENTER] applyRules at (rule-engine.js:52:3:67:4), Args: ["topic/sensor2",{"sensorId":"sensor-002","humidity":65.73,"light":47.07}], Timestamp: 1739012198250
-[READ] Identifier: topic, Value at (rule-engine.js:53:13:53:18)
-[LITERAL] Value: "topic/sensor1" at (rule-engine.js:54:7:57:15)
-[BINARY] topic/sensor2 === topic/sensor1 = false at (rule-engine.js:54:7:57:15)
-[CONDITIONAL] Result: false at (rule-engine.js:54:7:57:15)
-[LITERAL] Value: "topic/sensor2" at (rule-engine.js:59:7:62:15)
-[BINARY] topic/sensor2 === topic/sensor2 = true at (rule-engine.js:59:7:62:15)
-[CONDITIONAL] Result: true at (rule-engine.js:59:7:62:15)
-[READ] Identifier: console, Value at (rule-engine.js:60:9:60:16)
-[LITERAL] Value: "[RuleEngine] Rule2 triggered for " at (rule-engine.js:60:21:60:57)
-[READ] Identifier: topic, Value at (rule-engine.js:60:57:60:62)
-[LITERAL] Value: "" at (rule-engine.js:60:62:60:64)
-[BINARY] [RuleEngine] Rule2 triggered for  + topic/sensor2 = [RuleEngine] Rule2 triggered for topic/sensor2 at (rule-engine.js:60:21:60:64)
-[RuleEngine] Rule2 triggered for topic/sensor2
-[READ] Identifier: lambda2, Value at (rule-engine.js:61:9:61:16)
-[READ] Identifier: message, Value at (rule-engine.js:61:24:61:31)
-[ASYNC ENTER] at (Lamda2.js:34:3:40:4)
-[FUNC ENTER] handle at (Lamda2.js:34:3:40:4), Args: [{"sensorId":"sensor-002","humidity":65.73,"light":47.07}], Timestamp: 1739012198251
-[READ] Identifier: data, Value at (Lamda2.js:35:9:35:13)
-[LITERAL] Value: 40 at (Lamda2.js:35:25:35:27)
-[BINARY] 65.73 < 40 = false at (Lamda2.js:35:9:35:27)
-[CONDITIONAL] Result: false at (Lamda2.js:35:9:35:27)
-[FUNC EXIT] handle at (Lamda2.js:34:3:40:4), Return: undefined, Exception: {}, Timestamp: 1739012198251
-[ASYNC EXIT] at (Lamda2.js:34:3:40:4), Return: {}, Exception: {}
-[FUNC EXIT] applyRules at (rule-engine.js:52:3:67:4), Return: undefined, Exception: {}, Timestamp: 1739012198252
-[FUNC EXIT] <anonymous> at (rule-engine.js:47:31:49:6), Return: undefined, Exception: {}, Timestamp: 1739012198252
-[FUNC EXIT] <anonymous> at (Mqtt.js:138:45:140:8), Return: undefined, Exception: {}, Timestamp: 1739012198252
-[FUNC EXIT] publish at (Mqtt.js:135:3:142:4), Return: undefined, Exception: {}, Timestamp: 1739012198252
-[FUNC EXIT] <anonymous> at (Sensor.js:92:33:99:6), Return: undefined, Exception: {}, Timestamp: 1739012198252
-[FUNC ENTER] <anonymous> at (Lamda1.js:22:20:25:10), Args: [], Timestamp: 1739012198519
-[READ] Identifier: global, Value at (Lamda1.js:23:11:23:17)
-[READ] Identifier: DynamoDB, Value at (Lamda1.js:23:11:23:26)
-[READ] Identifier: table, Value at (Lamda1.js:23:31:23:36)
-[READ] Identifier: item, Value at (Lamda1.js:23:38:23:42)
-[FUNC ENTER] put at (dynamo-db.js:12:5:20:6), Args: ["myDDB",{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":75,"timestamp":"2025-02-08T10:56:37.860Z"}], Timestamp: 1739012198523
-[READ] Identifier: this, Value at (dynamo-db.js:13:12:13:16)
-[READ] Identifier: tableName, Value at (dynamo-db.js:13:24:13:33)
-[CONDITIONAL] Result: [{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":98.83,"timestamp":"2025-02-08T10:56:31.935Z"},{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":69.7,"timestamp":"2025-02-08T10:56:33.853Z"},{"command":"Switch ON AC","triggeredBy":"Lambda1","temperature":33.98,"timestamp":"2025-02-08T10:56:35.838Z"}] at (dynamo-db.js:13:12:13:34)
-[READ] Identifier: this, Value at (dynamo-db.js:18:7:18:11)
-[READ] Identifier: tableName, Value at (dynamo-db.js:18:19:18:28)
-[READ] Identifier: item, Value at (dynamo-db.js:18:35:18:39)
-[READ] Identifier: console, Value at (dynamo-db.js:19:7:19:14)
-[LITERAL] Value: "[DynamoDB] Table \"" at (dynamo-db.js:19:19:19:40)
-[READ] Identifier: tableName, Value at (dynamo-db.js:19:40:19:49)
-[LITERAL] Value: "\" updated:" at (dynamo-db.js:19:49:19:61)
-[BINARY] [DynamoDB] Table " + myDDB = [DynamoDB] Table "myDDB" updated: at (dynamo-db.js:19:19:19:61)
-[READ] Identifier: this, Value at (dynamo-db.js:19:63:19:67)
-[READ] Identifier: tableName, Value at (dynamo-db.js:19:75:19:84)
-[DynamoDB] Table "myDDB" updated: [
-  {
-    command: 'Switch ON AC',
-    triggeredBy: 'Lambda1',
-    temperature: 98.83,
-    timestamp: '2025-02-08T10:56:31.935Z'
-  },
-  {
-    command: 'Switch ON AC',
-    triggeredBy: 'Lambda1',
-    temperature: 69.7,
-    timestamp: '2025-02-08T10:56:33.853Z'
-  },
-  {
-    command: 'Switch ON AC',
-    triggeredBy: 'Lambda1',
-    temperature: 33.98,
-    timestamp: '2025-02-08T10:56:35.838Z'
-  },
-  {
-    command: 'Switch ON AC',
-    triggeredBy: 'Lambda1',
-    temperature: 75,
-    timestamp: '2025-02-08T10:56:37.860Z'
-  }
-]
-[FUNC EXIT] put at (dynamo-db.js:12:5:20:6), Return: undefined, Exception: {}, Timestamp: 1739012198531
-[READ] Identifier: resolve, Value at (Lamda1.js:24:11:24:18)
-[FUNC EXIT] <anonymous> at (Lamda1.js:22:20:25:10), Return: undefined, Exception: {}, Timestamp: 1739012198532
-[FUNC ENTER] handle at (Lamda1.js:2:5:17:6), Args: [{"sensorId":"sensor-001","temperature":75,"pressure":99.97,"altitude":70.28}], Timestamp: 1739012198534
-[AWAIT POST] at (Lamda1.js:15:9:15:48), Awaited Value: [object Promise], Result: [Non-Promise], Status: resolved
-[FUNC EXIT] handle at (Lamda1.js:2:5:17:6), Return: undefined, Exception: {}, Timestamp: 1739012198537
-[FUNC ENTER] <anonymous> at (main.js:60:12:63:2), Args: [], Timestamp: 1739012199851
-[READ] Identifier: sensor1, Value at (main.js:61:3:61:10)
-[FUNC ENTER] stop at (Sensor.js:102:3:105:4), Args: [], Timestamp: 1739012199853
-[READ] Identifier: clearInterval, Value at (Sensor.js:103:5:103:18)
-[READ] Identifier: this, Value at (Sensor.js:103:19:103:23)
-[READ] Identifier: console, Value at (Sensor.js:104:5:104:12)
-[LITERAL] Value: "[Sensor] \"" at (Sensor.js:104:17:104:30)
-[READ] Identifier: this, Value at (Sensor.js:104:30:104:34)
-[LITERAL] Value: "\" stopped." at (Sensor.js:104:43:104:55)
-[BINARY] [Sensor] " + sensor-001 = [Sensor] "sensor-001" stopped. at (Sensor.js:104:17:104:55)
-[Sensor] "sensor-001" stopped.
-[FUNC EXIT] stop at (Sensor.js:102:3:105:4), Return: undefined, Exception: {}, Timestamp: 1739012199862
-[READ] Identifier: sensor2, Value at (main.js:62:3:62:10)
-[FUNC ENTER] stop at (Sensor.js:102:3:105:4), Args: [], Timestamp: 1739012199863
-[READ] Identifier: clearInterval, Value at (Sensor.js:103:5:103:18)
-[READ] Identifier: this, Value at (Sensor.js:103:19:103:23)
-[READ] Identifier: console, Value at (Sensor.js:104:5:104:12)
-[LITERAL] Value: "[Sensor] \"" at (Sensor.js:104:17:104:30)
-[READ] Identifier: this, Value at (Sensor.js:104:30:104:34)
-[LITERAL] Value: "\" stopped." at (Sensor.js:104:43:104:55)
-[BINARY] [Sensor] " + sensor-002 = [Sensor] "sensor-002" stopped. at (Sensor.js:104:17:104:55)
-[Sensor] "sensor-002" stopped.
-[FUNC EXIT] stop at (Sensor.js:102:3:105:4), Return: undefined, Exception: {}, Timestamp: 1739012199867
-[FUNC EXIT] <anonymous> at (main.js:60:12:63:2), Return: undefined, Exception: {}, Timestamp: 1739012199868
+[READ] Identifier: this, Value at (Mqtt.js:133:5:133:9)
+[LITERAL] Value: "connect" at (Mqtt.js:133:15:133:24)
+[READ] Identifier: clientId, Value at (Mqtt.js:133:26:133:34)
+[READ] Identifier: options, Value at (Mqtt.js:133:36:133:43)
+[FUNC EXIT] connect at (Mqtt.js:130:3:134:4), Return: undefined, Exception: {}, Timestamp: 1740463990975
+[READ] Identifier: this, Value at (Sensor.1.js:12:5:12:9)
+[FUNC ENTER] startPublishing at (Sensor.1.js:15:3:26:4), Args: [], Timestamp: 1740463990977
+[READ] Identifier: this, Value at (Sensor.1.js:16:5:16:9)
+[READ] Identifier: setInterval, Value at (Sensor.1.js:16:21:16:32)
+[LITERAL] Value: undefined at (Sensor.1.js:16:33:25:6)
+[LITERAL] Value: 3000 at (Sensor.1.js:25:8:25:12)
+[FUNC EXIT] startPublishing at (Sensor.1.js:15:3:26:4), Return: undefined, Exception: {}, Timestamp: 1740463990991
+[FUNC EXIT] connect at (Sensor.1.js:8:3:13:4), Return: undefined, Exception: {}, Timestamp: 1740463990993
+[READ] Identifier: console, Value at (main.js:19:3:19:10)
+[LITERAL] Value: "\n=== Broker State ===" at (main.js:19:15:19:39)
+
+=== Broker State ===
+[READ] Identifier: broker, Value at (main.js:20:3:20:9)
+[FUNC ENTER] listClients at (Mqtt.js:168:3:173:4), Args: [], Timestamp: 1740463990999
+[READ] Identifier: console, Value at (Mqtt.js:169:5:169:12)
+[LITERAL] Value: "[Broker] Connected clients:" at (Mqtt.js:169:17:169:46)
+[Broker] Connected clients:
+[READ] Identifier: this, Value at (Mqtt.js:170:39:170:43)
+[WRITE] Identifier: clientId, Value at (Mqtt.js:170:17:170:25)
+[WRITE] Identifier: options, Value at (Mqtt.js:170:27:170:34)
+[READ] Identifier: console, Value at (Mqtt.js:171:7:171:14)
+[LITERAL] Value: "- Client ID: " at (Mqtt.js:171:19:171:35)
+[READ] Identifier: clientId, Value at (Mqtt.js:171:35:171:43)
+[LITERAL] Value: ", Options: " at (Mqtt.js:171:43:171:57)
+[READ] Identifier: JSON, Value at (Mqtt.js:171:57:171:61)
+[READ] Identifier: options, Value at (Mqtt.js:171:72:171:79)
+[LITERAL] Value: "" at (Mqtt.js:171:80:171:82)
+[BINARY] - Client ID:  + sensor-001 = - Client ID: sensor-001, Options: {"LWT":{"topic":"sensor/status","message":"{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"}} at (Mqtt.js:171:19:171:82)
+- Client ID: sensor-001, Options: {"LWT":{"topic":"sensor/status","message":"{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"}}
+[FUNC EXIT] listClients at (Mqtt.js:168:3:173:4), Return: undefined, Exception: {}, Timestamp: 1740463991013
+[READ] Identifier: broker, Value at (main.js:21:3:21:9)
+[FUNC ENTER] listSubscriptions at (Mqtt.js:175:3:180:4), Args: [], Timestamp: 1740463991014
+[READ] Identifier: console, Value at (Mqtt.js:176:5:176:12)
+[LITERAL] Value: "[Broker] Subscriptions:" at (Mqtt.js:176:17:176:42)
+[Broker] Subscriptions:
+[READ] Identifier: this, Value at (Mqtt.js:177:38:177:42)
+[WRITE] Identifier: topic, Value at (Mqtt.js:177:17:177:22)
+[WRITE] Identifier: clientIds, Value at (Mqtt.js:177:24:177:33)
+[READ] Identifier: console, Value at (Mqtt.js:178:7:178:14)
+[LITERAL] Value: "- Topic: \"" at (Mqtt.js:178:19:178:32)
+[READ] Identifier: topic, Value at (Mqtt.js:178:32:178:37)
+[LITERAL] Value: "\", Subscribers: " at (Mqtt.js:178:37:178:56)
+[READ] Identifier: clientIds, Value at (Mqtt.js:178:56:178:65)
+[LITERAL] Value: ", " at (Mqtt.js:178:71:178:75)
+[LITERAL] Value: "" at (Mqtt.js:178:76:178:78)
+[BINARY] - Topic: " + sensor/status = - Topic: "sensor/status", Subscribers: alarm-handler at (Mqtt.js:178:19:178:78)
+- Topic: "sensor/status", Subscribers: alarm-handler
+[FUNC EXIT] listSubscriptions at (Mqtt.js:175:3:180:4), Return: undefined, Exception: {}, Timestamp: 1740463991036
+[READ] Identifier: broker, Value at (main.js:22:3:22:9)
+[FUNC ENTER] listRetainedMessages at (Mqtt.js:182:3:187:4), Args: [], Timestamp: 1740463991038
+[READ] Identifier: console, Value at (Mqtt.js:183:5:183:12)
+[LITERAL] Value: "[Broker] Retained messages:" at (Mqtt.js:183:17:183:46)
+[Broker] Retained messages:
+[READ] Identifier: this, Value at (Mqtt.js:184:36:184:40)
+[FUNC EXIT] listRetainedMessages at (Mqtt.js:182:3:187:4), Return: undefined, Exception: {}, Timestamp: 1740463991045
+[READ] Identifier: console, Value at (main.js:23:3:23:10)
+[LITERAL] Value: "=====================\n" at (main.js:23:15:23:40)
+=====================
+
+[READ] Identifier: setTimeout, Value at (main.js:26:1:26:11)
+[LITERAL] Value: undefined at (main.js:26:12:29:2)
+[LITERAL] Value: 10000 at (main.js:29:4:29:9)
+[FUNC EXIT] <anonymous> at (main.js:1:1:63:16), Return: undefined, Exception: {}, Timestamp: 1740463991059
+[FUNC ENTER] <anonymous> at (Sensor.1.js:16:33:25:6), Args: [], Timestamp: 1740463993993
+[READ] Identifier: this, Value at (Sensor.1.js:18:19:18:23)
+[READ] Identifier: Date, Value at (Sensor.1.js:19:24:19:28)
+[READ] Identifier: Math, Value at (Sensor.1.js:20:23:20:27)
+[LITERAL] Value: 20 at (Sensor.1.js:20:39:20:41)
+[BINARY] 0.6779340767930669 * 20 = 13.55868153586134 at (Sensor.1.js:20:23:20:41)
+[LITERAL] Value: 30 at (Sensor.1.js:20:22:20:47)
+[BINARY] 13.55868153586134 + 30 = 43.55868153586134 at (Sensor.1.js:20:22:20:47)
+[LITERAL] Value: 2 at (Sensor.1.js:20:56:20:57)
+[READ] Identifier: Math, Value at (Sensor.1.js:21:20:21:24)
+[LITERAL] Value: 10 at (Sensor.1.js:21:36:21:38)
+[BINARY] 0.9716613778484894 * 10 = 9.716613778484893 at (Sensor.1.js:21:20:21:38)
+[LITERAL] Value: 100 at (Sensor.1.js:21:19:21:45)
+[BINARY] 9.716613778484893 + 100 = 109.7166137784849 at (Sensor.1.js:21:19:21:45)
+[LITERAL] Value: 2 at (Sensor.1.js:21:54:21:55)
+[LITERAL] Value: true at (Sensor.1.js:22:21:22:25)
+[LITERAL] Value: {"sensorId":"sensor-001","timestamp":"2025-02-25T06:13:13.997Z","temperature":"43.56","pressure":"109.72","classified":true} at (Sensor.1.js:17:20:23:8)
+[WRITE] Identifier: data, Value at (Sensor.1.js:17:7:23:8)
+[READ] Identifier: this, Value at (Sensor.1.js:24:7:24:11)
+[LITERAL] Value: "sensor/data" at (Sensor.1.js:24:27:24:40)
+[READ] Identifier: JSON, Value at (Sensor.1.js:24:42:24:46)
+[READ] Identifier: data, Value at (Sensor.1.js:24:57:24:61)
+[WRITE] Identifier: topic, Value at (Mqtt.js:136:11:136:16)
+[WRITE] Identifier: message, Value at (Mqtt.js:136:18:136:25)
+[LITERAL] Value: undefined at (Mqtt.js:136:27:136:39)
+[BINARY] undefined === undefined = true at (Mqtt.js:136:27:136:39)
+[CONDITIONAL] Result: true at (Mqtt.js:136:27:136:39)
+[LITERAL] Value: {} at (Mqtt.js:136:37:136:39)
+[WRITE] Identifier: options, Value at (Mqtt.js:136:27:136:39)
+[FUNC ENTER] publish at (Mqtt.js:136:3:146:4), Args: ["sensor/data","{\"sensorId\":\"sensor-001\",\"timestamp\":\"2025-02-25T06:13:13.997Z\",\"temperature\":\"43.56\",\"pressure\":\"109.72\",\"classified\":true}"], Timestamp: 1740463994237
+[READ] Identifier: console, Value at (Mqtt.js:137:5:137:12)
+[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:137:17:137:49)
+[READ] Identifier: topic, Value at (Mqtt.js:137:49:137:54)
+[LITERAL] Value: "\": " at (Mqtt.js:137:54:137:60)
+[READ] Identifier: message, Value at (Mqtt.js:137:60:137:67)
+[LITERAL] Value: "" at (Mqtt.js:137:67:137:69)
+[BINARY] [Broker] Published to topic " + sensor/data = [Broker] Published to topic "sensor/data": {"sensorId":"sensor-001","timestamp":"2025-02-25T06:13:13.997Z","temperature":"43.56","pressure":"109.72","classified":true} at (Mqtt.js:137:17:137:69)
+[Broker] Published to topic "sensor/data": {"sensorId":"sensor-001","timestamp":"2025-02-25T06:13:13.997Z","temperature":"43.56","pressure":"109.72","classified":true}
+[READ] Identifier: this, Value at (Mqtt.js:138:5:138:9)
+[READ] Identifier: topic, Value at (Mqtt.js:138:31:138:36)
+[READ] Identifier: message, Value at (Mqtt.js:138:38:138:45)
+[READ] Identifier: this, Value at (Mqtt.js:141:9:141:13)
+[READ] Identifier: topic, Value at (Mqtt.js:141:32:141:37)
+[CONDITIONAL] Result: false at (Mqtt.js:141:9:141:38)
+[FUNC EXIT] publish at (Mqtt.js:136:3:146:4), Return: undefined, Exception: {}, Timestamp: 1740463994251
+[FUNC EXIT] <anonymous> at (Sensor.1.js:16:33:25:6), Return: undefined, Exception: {}, Timestamp: 1740463994252
+[FUNC ENTER] <anonymous> at (Sensor.1.js:16:33:25:6), Args: [], Timestamp: 1740463996997
+[READ] Identifier: this, Value at (Sensor.1.js:18:19:18:23)
+[READ] Identifier: Date, Value at (Sensor.1.js:19:24:19:28)
+[READ] Identifier: Math, Value at (Sensor.1.js:20:23:20:27)
+[LITERAL] Value: 20 at (Sensor.1.js:20:39:20:41)
+[BINARY] 0.5871522016344349 * 20 = 11.7430440326887 at (Sensor.1.js:20:23:20:41)
+[LITERAL] Value: 30 at (Sensor.1.js:20:22:20:47)
+[BINARY] 11.7430440326887 + 30 = 41.7430440326887 at (Sensor.1.js:20:22:20:47)
+[LITERAL] Value: 2 at (Sensor.1.js:20:56:20:57)
+[READ] Identifier: Math, Value at (Sensor.1.js:21:20:21:24)
+[LITERAL] Value: 10 at (Sensor.1.js:21:36:21:38)
+[BINARY] 0.744031094081421 * 10 = 7.44031094081421 at (Sensor.1.js:21:20:21:38)
+[LITERAL] Value: 100 at (Sensor.1.js:21:19:21:45)
+[BINARY] 7.44031094081421 + 100 = 107.44031094081421 at (Sensor.1.js:21:19:21:45)
+[LITERAL] Value: 2 at (Sensor.1.js:21:54:21:55)
+[LITERAL] Value: true at (Sensor.1.js:22:21:22:25)
+[LITERAL] Value: {"sensorId":"sensor-001","timestamp":"2025-02-25T06:13:17.000Z","temperature":"41.74","pressure":"107.44","classified":true} at (Sensor.1.js:17:20:23:8)
+[WRITE] Identifier: data, Value at (Sensor.1.js:17:7:23:8)
+[READ] Identifier: this, Value at (Sensor.1.js:24:7:24:11)
+[LITERAL] Value: "sensor/data" at (Sensor.1.js:24:27:24:40)
+[READ] Identifier: JSON, Value at (Sensor.1.js:24:42:24:46)
+[READ] Identifier: data, Value at (Sensor.1.js:24:57:24:61)
+[WRITE] Identifier: topic, Value at (Mqtt.js:136:11:136:16)
+[WRITE] Identifier: message, Value at (Mqtt.js:136:18:136:25)
+[LITERAL] Value: undefined at (Mqtt.js:136:27:136:39)
+[BINARY] undefined === undefined = true at (Mqtt.js:136:27:136:39)
+[CONDITIONAL] Result: true at (Mqtt.js:136:27:136:39)
+[LITERAL] Value: {} at (Mqtt.js:136:37:136:39)
+[WRITE] Identifier: options, Value at (Mqtt.js:136:27:136:39)
+[FUNC ENTER] publish at (Mqtt.js:136:3:146:4), Args: ["sensor/data","{\"sensorId\":\"sensor-001\",\"timestamp\":\"2025-02-25T06:13:17.000Z\",\"temperature\":\"41.74\",\"pressure\":\"107.44\",\"classified\":true}"], Timestamp: 1740463997009
+[READ] Identifier: console, Value at (Mqtt.js:137:5:137:12)
+[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:137:17:137:49)
+[READ] Identifier: topic, Value at (Mqtt.js:137:49:137:54)
+[LITERAL] Value: "\": " at (Mqtt.js:137:54:137:60)
+[READ] Identifier: message, Value at (Mqtt.js:137:60:137:67)
+[LITERAL] Value: "" at (Mqtt.js:137:67:137:69)
+[BINARY] [Broker] Published to topic " + sensor/data = [Broker] Published to topic "sensor/data": {"sensorId":"sensor-001","timestamp":"2025-02-25T06:13:17.000Z","temperature":"41.74","pressure":"107.44","classified":true} at (Mqtt.js:137:17:137:69)
+[Broker] Published to topic "sensor/data": {"sensorId":"sensor-001","timestamp":"2025-02-25T06:13:17.000Z","temperature":"41.74","pressure":"107.44","classified":true}
+[READ] Identifier: this, Value at (Mqtt.js:138:5:138:9)
+[READ] Identifier: topic, Value at (Mqtt.js:138:31:138:36)
+[READ] Identifier: message, Value at (Mqtt.js:138:38:138:45)
+[READ] Identifier: this, Value at (Mqtt.js:141:9:141:13)
+[READ] Identifier: topic, Value at (Mqtt.js:141:32:141:37)
+[CONDITIONAL] Result: false at (Mqtt.js:141:9:141:38)
+[FUNC EXIT] publish at (Mqtt.js:136:3:146:4), Return: undefined, Exception: {}, Timestamp: 1740463997013
+[FUNC EXIT] <anonymous> at (Sensor.1.js:16:33:25:6), Return: undefined, Exception: {}, Timestamp: 1740463997015
+[FUNC ENTER] <anonymous> at (Sensor.1.js:16:33:25:6), Args: [], Timestamp: 1740464000001
+[READ] Identifier: this, Value at (Sensor.1.js:18:19:18:23)
+[READ] Identifier: Date, Value at (Sensor.1.js:19:24:19:28)
+[READ] Identifier: Math, Value at (Sensor.1.js:20:23:20:27)
+[LITERAL] Value: 20 at (Sensor.1.js:20:39:20:41)
+[BINARY] 0.604799077129079 * 20 = 12.09598154258158 at (Sensor.1.js:20:23:20:41)
+[LITERAL] Value: 30 at (Sensor.1.js:20:22:20:47)
+[BINARY] 12.09598154258158 + 30 = 42.09598154258158 at (Sensor.1.js:20:22:20:47)
+[LITERAL] Value: 2 at (Sensor.1.js:20:56:20:57)
+[READ] Identifier: Math, Value at (Sensor.1.js:21:20:21:24)
+[LITERAL] Value: 10 at (Sensor.1.js:21:36:21:38)
+[BINARY] 0.46363843475979505 * 10 = 4.63638434759795 at (Sensor.1.js:21:20:21:38)
+[LITERAL] Value: 100 at (Sensor.1.js:21:19:21:45)
+[BINARY] 4.63638434759795 + 100 = 104.63638434759795 at (Sensor.1.js:21:19:21:45)
+[LITERAL] Value: 2 at (Sensor.1.js:21:54:21:55)
+[LITERAL] Value: true at (Sensor.1.js:22:21:22:25)
+[LITERAL] Value: {"sensorId":"sensor-001","timestamp":"2025-02-25T06:13:20.002Z","temperature":"42.10","pressure":"104.64","classified":true} at (Sensor.1.js:17:20:23:8)
+[WRITE] Identifier: data, Value at (Sensor.1.js:17:7:23:8)
+[READ] Identifier: this, Value at (Sensor.1.js:24:7:24:11)
+[LITERAL] Value: "sensor/data" at (Sensor.1.js:24:27:24:40)
+[READ] Identifier: JSON, Value at (Sensor.1.js:24:42:24:46)
+[READ] Identifier: data, Value at (Sensor.1.js:24:57:24:61)
+[WRITE] Identifier: topic, Value at (Mqtt.js:136:11:136:16)
+[WRITE] Identifier: message, Value at (Mqtt.js:136:18:136:25)
+[LITERAL] Value: undefined at (Mqtt.js:136:27:136:39)
+[BINARY] undefined === undefined = true at (Mqtt.js:136:27:136:39)
+[CONDITIONAL] Result: true at (Mqtt.js:136:27:136:39)
+[LITERAL] Value: {} at (Mqtt.js:136:37:136:39)
+[WRITE] Identifier: options, Value at (Mqtt.js:136:27:136:39)
+[FUNC ENTER] publish at (Mqtt.js:136:3:146:4), Args: ["sensor/data","{\"sensorId\":\"sensor-001\",\"timestamp\":\"2025-02-25T06:13:20.002Z\",\"temperature\":\"42.10\",\"pressure\":\"104.64\",\"classified\":true}"], Timestamp: 1740464000007
+[READ] Identifier: console, Value at (Mqtt.js:137:5:137:12)
+[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:137:17:137:49)
+[READ] Identifier: topic, Value at (Mqtt.js:137:49:137:54)
+[LITERAL] Value: "\": " at (Mqtt.js:137:54:137:60)
+[READ] Identifier: message, Value at (Mqtt.js:137:60:137:67)
+[LITERAL] Value: "" at (Mqtt.js:137:67:137:69)
+[BINARY] [Broker] Published to topic " + sensor/data = [Broker] Published to topic "sensor/data": {"sensorId":"sensor-001","timestamp":"2025-02-25T06:13:20.002Z","temperature":"42.10","pressure":"104.64","classified":true} at (Mqtt.js:137:17:137:69)
+[Broker] Published to topic "sensor/data": {"sensorId":"sensor-001","timestamp":"2025-02-25T06:13:20.002Z","temperature":"42.10","pressure":"104.64","classified":true}
+[READ] Identifier: this, Value at (Mqtt.js:138:5:138:9)
+[READ] Identifier: topic, Value at (Mqtt.js:138:31:138:36)
+[READ] Identifier: message, Value at (Mqtt.js:138:38:138:45)
+[READ] Identifier: this, Value at (Mqtt.js:141:9:141:13)
+[READ] Identifier: topic, Value at (Mqtt.js:141:32:141:37)
+[CONDITIONAL] Result: false at (Mqtt.js:141:9:141:38)
+[FUNC EXIT] publish at (Mqtt.js:136:3:146:4), Return: undefined, Exception: {}, Timestamp: 1740464000010
+[FUNC EXIT] <anonymous> at (Sensor.1.js:16:33:25:6), Return: undefined, Exception: {}, Timestamp: 1740464000011
+[FUNC ENTER] <anonymous> at (main.js:26:12:29:2), Args: [], Timestamp: 1740464001060
+[READ] Identifier: console, Value at (main.js:27:3:27:10)
+[LITERAL] Value: "[Main] Stopping the sensor..." at (main.js:27:15:27:46)
+[Main] Stopping the sensor...
+[READ] Identifier: sensor1, Value at (main.js:28:3:28:10)
+[FUNC ENTER] stop at (Sensor.1.js:28:3:31:4), Args: [], Timestamp: 1740464001065
+[READ] Identifier: clearInterval, Value at (Sensor.1.js:29:5:29:18)
+[READ] Identifier: this, Value at (Sensor.1.js:29:19:29:23)
+[READ] Identifier: this, Value at (Sensor.1.js:30:5:30:9)
+[READ] Identifier: this, Value at (Sensor.1.js:30:28:30:32)
+[FUNC ENTER] disconnect at (Mqtt.js:156:3:164:4), Args: ["sensor-001"], Timestamp: 1740464001075
+[READ] Identifier: console, Value at (Mqtt.js:157:5:157:12)
+[LITERAL] Value: "[Broker] Client \"" at (Mqtt.js:157:17:157:37)
+[READ] Identifier: clientId, Value at (Mqtt.js:157:37:157:45)
+[LITERAL] Value: "\" disconnected." at (Mqtt.js:157:45:157:62)
+[BINARY] [Broker] Client " + sensor-001 = [Broker] Client "sensor-001" disconnected. at (Mqtt.js:157:17:157:62)
+[Broker] Client "sensor-001" disconnected.
+[READ] Identifier: this, Value at (Mqtt.js:158:27:158:31)
+[READ] Identifier: clientId, Value at (Mqtt.js:158:44:158:52)
+[WRITE] Identifier: clientOptions, Value at (Mqtt.js:158:5:158:53)
+[READ] Identifier: clientOptions, Value at (Mqtt.js:159:9:159:22)
+[READ] Identifier: clientOptions, Value at (Mqtt.js:159:26:159:39)
+[CONDITIONAL] Result: {"topic":"sensor/status","message":"{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"} at (Mqtt.js:159:9:159:43)
+[CONDITIONAL] Result: {"topic":"sensor/status","message":"{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"} at (Mqtt.js:159:9:159:43)
+[READ] Identifier: this, Value at (Mqtt.js:161:7:161:11)
+[READ] Identifier: clientOptions, Value at (Mqtt.js:161:20:161:33)
+[READ] Identifier: clientOptions, Value at (Mqtt.js:161:45:161:58)
+[WRITE] Identifier: topic, Value at (Mqtt.js:136:11:136:16)
+[WRITE] Identifier: message, Value at (Mqtt.js:136:18:136:25)
+[LITERAL] Value: undefined at (Mqtt.js:136:27:136:39)
+[BINARY] undefined === undefined = true at (Mqtt.js:136:27:136:39)
+[CONDITIONAL] Result: true at (Mqtt.js:136:27:136:39)
+[LITERAL] Value: {} at (Mqtt.js:136:37:136:39)
+[WRITE] Identifier: options, Value at (Mqtt.js:136:27:136:39)
+[FUNC ENTER] publish at (Mqtt.js:136:3:146:4), Args: ["sensor/status","{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"], Timestamp: 1740464001091
+[READ] Identifier: console, Value at (Mqtt.js:137:5:137:12)
+[LITERAL] Value: "[Broker] Published to topic \"" at (Mqtt.js:137:17:137:49)
+[READ] Identifier: topic, Value at (Mqtt.js:137:49:137:54)
+[LITERAL] Value: "\": " at (Mqtt.js:137:54:137:60)
+[READ] Identifier: message, Value at (Mqtt.js:137:60:137:67)
+[LITERAL] Value: "" at (Mqtt.js:137:67:137:69)
+[BINARY] [Broker] Published to topic " + sensor/status = [Broker] Published to topic "sensor/status": {"sensorId":"sensor-001","status":"dead"} at (Mqtt.js:137:17:137:69)
+[Broker] Published to topic "sensor/status": {"sensorId":"sensor-001","status":"dead"}
+[READ] Identifier: this, Value at (Mqtt.js:138:5:138:9)
+[READ] Identifier: topic, Value at (Mqtt.js:138:31:138:36)
+[READ] Identifier: message, Value at (Mqtt.js:138:38:138:45)
+[READ] Identifier: this, Value at (Mqtt.js:141:9:141:13)
+[READ] Identifier: topic, Value at (Mqtt.js:141:32:141:37)
+[CONDITIONAL] Result: true at (Mqtt.js:141:9:141:38)
+[READ] Identifier: this, Value at (Mqtt.js:142:7:142:11)
+[READ] Identifier: topic, Value at (Mqtt.js:142:30:142:35)
+[LITERAL] Value: undefined at (Mqtt.js:142:45:144:8)
+[FUNC ENTER] <anonymous> at (Mqtt.js:142:45:144:8), Args: ["alarm-handler",0,["alarm-handler"]], Timestamp: 1740464001099
+[READ] Identifier: this, Value at (Mqtt.js:143:9:143:13)
+[LITERAL] Value: "message" at (Mqtt.js:143:19:143:28)
+[READ] Identifier: clientId, Value at (Mqtt.js:143:30:143:38)
+[READ] Identifier: topic, Value at (Mqtt.js:143:40:143:45)
+[READ] Identifier: message, Value at (Mqtt.js:143:47:143:54)
+[FUNC ENTER] <anonymous> at (Lambda.js:7:31:18:6), Args: ["alarm-handler","sensor/status","{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"], Timestamp: 1740464001124
+[READ] Identifier: topic, Value at (Lambda.js:8:11:8:16)
+[LITERAL] Value: "sensor/data" at (Lambda.js:8:11:8:34)
+[BINARY] sensor/status === sensor/data = false at (Lambda.js:8:11:8:34)
+[CONDITIONAL] Result: false at (Lambda.js:8:11:8:34)
+[READ] Identifier: topic, Value at (Lambda.js:14:11:14:16)
+[LITERAL] Value: "sensor/status" at (Lambda.js:14:11:14:36)
+[BINARY] sensor/status === sensor/status = true at (Lambda.js:14:11:14:36)
+[CONDITIONAL] Result: true at (Lambda.js:14:11:14:36)
+[READ] Identifier: JSON, Value at (Lambda.js:15:24:15:28)
+[READ] Identifier: message, Value at (Lambda.js:15:35:15:42)
+[WRITE] Identifier: status, Value at (Lambda.js:15:9:15:43)
+[READ] Identifier: console, Value at (Lambda.js:16:9:16:16)
+[LITERAL] Value: "[Lambda] Received LWT message: Sensor \"" at (Lambda.js:16:21:16:63)
+[READ] Identifier: status, Value at (Lambda.js:16:63:16:69)
+[LITERAL] Value: "\" is \"" at (Lambda.js:16:78:16:87)
+[READ] Identifier: status, Value at (Lambda.js:16:87:16:93)
+[LITERAL] Value: "\"." at (Lambda.js:16:100:16:104)
+[BINARY] [Lambda] Received LWT message: Sensor " + sensor-001 = [Lambda] Received LWT message: Sensor "sensor-001" is "dead". at (Lambda.js:16:21:16:104)
+[Lambda] Received LWT message: Sensor "sensor-001" is "dead".
+[FUNC EXIT] <anonymous> at (Lambda.js:7:31:18:6), Return: undefined, Exception: {}, Timestamp: 1740464001147
+[FUNC ENTER] <anonymous> at (Alarm.js:10:31:18:6), Args: ["alarm-handler","sensor/status","{\"sensorId\":\"sensor-001\",\"status\":\"dead\"}"], Timestamp: 1740464001148
+[READ] Identifier: topic, Value at (Alarm.js:11:11:11:16)
+[LITERAL] Value: "sensor/status" at (Alarm.js:11:11:11:36)
+[BINARY] sensor/status === sensor/status = true at (Alarm.js:11:11:11:36)
+[CONDITIONAL] Result: true at (Alarm.js:11:11:11:36)
+[READ] Identifier: JSON, Value at (Alarm.js:12:24:12:28)
+[READ] Identifier: message, Value at (Alarm.js:12:35:12:42)
+[WRITE] Identifier: status, Value at (Alarm.js:12:9:12:43)
+[READ] Identifier: console, Value at (Alarm.js:13:9:13:16)
+[LITERAL] Value: "status " at (Alarm.js:13:21:13:31)
+[READ] Identifier: status, Value at (Alarm.js:13:31:13:37)
+[LITERAL] Value: "" at (Alarm.js:13:37:13:39)
+[BINARY] status  + [object Object] = status [object Object] at (Alarm.js:13:21:13:39)
+status [object Object]
+[READ] Identifier: status, Value at (Alarm.js:14:13:14:19)
+[LITERAL] Value: "dead" at (Alarm.js:14:13:14:37)
+[BINARY] dead === dead = true at (Alarm.js:14:13:14:37)
+[CONDITIONAL] Result: true at (Alarm.js:14:13:14:37)
+[READ] Identifier: console, Value at (Alarm.js:15:11:15:18)
+[LITERAL] Value: "[Alarm] ALERT! Sensor \"" at (Alarm.js:15:23:15:49)
+[READ] Identifier: status, Value at (Alarm.js:15:49:15:55)
+[LITERAL] Value: "\" is dead. Triggering alarm!" at (Alarm.js:15:64:15:94)
+[BINARY] [Alarm] ALERT! Sensor " + sensor-001 = [Alarm] ALERT! Sensor "sensor-001" is dead. Triggering alarm! at (Alarm.js:15:23:15:94)
+[Alarm] ALERT! Sensor "sensor-001" is dead. Triggering alarm!
+[FUNC EXIT] <anonymous> at (Alarm.js:10:31:18:6), Return: undefined, Exception: {}, Timestamp: 1740464001167
+[FUNC EXIT] <anonymous> at (Mqtt.js:142:45:144:8), Return: undefined, Exception: {}, Timestamp: 1740464001168
+[FUNC EXIT] publish at (Mqtt.js:136:3:146:4), Return: undefined, Exception: {}, Timestamp: 1740464001168
+[READ] Identifier: this, Value at (Mqtt.js:163:5:163:9)
+[READ] Identifier: clientId, Value at (Mqtt.js:163:25:163:33)
+[FUNC EXIT] disconnect at (Mqtt.js:156:3:164:4), Return: undefined, Exception: {}, Timestamp: 1740464001171
+[FUNC EXIT] stop at (Sensor.1.js:28:3:31:4), Return: undefined, Exception: {}, Timestamp: 1740464001173
+[FUNC EXIT] <anonymous> at (main.js:26:12:29:2), Return: undefined, Exception: {}, Timestamp: 1740464001173
